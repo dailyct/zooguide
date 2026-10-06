@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智慧動物園 AI 導覽</title>
+    <style>
+        body { font-family: sans-serif; max-width: 400px; margin: 0 auto; padding: 20px; }
+        .card { border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
+        button { background: #4CAF50; color: white; border: none; padding: 10px 15px; border-radius: 5px; cursor: pointer; width: 100%; margin-top: 10px;}
+        input[type="text"] { width: 90%; padding: 8px; margin-top: 10px; }
+        #chat-box, #recommendation-box { background: #f9f9f9; padding: 10px; border-radius: 5px; min-height: 50px; margin-top: 10px;}
+    </style>
+</head>
+<body>
+
+    <h2>🦁 智慧動物園導覽</h2>
+
+    <div class="card">
+        <h3>1. 相機辨識 (Vision)</h3>
+        <button onclick="takePicture()">📷 拍攝眼前動物</button>
+        <p id="vision-result">尚未拍攝</p>
+    </div>
+
+    <div class="card">
+        <h3>2. AI 語音/文字導覽 (RAG)</h3>
+        <div id="chat-box">等待提問...</div>
+        <input type="text" id="user-msg" placeholder="例如：老虎為什麼有條紋？">
+        <button onclick="sendChat()">送出問題</button>
+    </div>
+
+    <div class="card">
+        <h3>3. Agent 智慧推薦</h3>
+        <button onclick="getRecommendation()">導覽下一站</button>
+        <div id="recommendation-box">等待決策...</div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

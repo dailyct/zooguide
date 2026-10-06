@@ -1,0 +1,12 @@
+{
+  "animals": {
+    "tiger": { "name": "孟加拉虎", "tags": ["carnivore", "large"], "visit_time": 15 },
+    "lion": { "name": "非洲獅", "tags": ["carnivore", "large"], "visit_time": 15 },
+    "panda": { "name": "大貓熊", "tags": ["cute", "herbivore"], "visit_time": 20 }
+  },
+  "routes": {
+    "tiger": { "lion": 120, "panda": 350 },
+    "lion": { "tiger": 120, "panda": 250 },
+    "panda": { "tiger": 350, "lion": 250 }
+  }
+}
