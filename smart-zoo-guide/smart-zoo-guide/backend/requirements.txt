@@ -1,3 +1,23 @@
+# --- Web 框架與伺服器核心 ---
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
+python-multipart      # FastAPI 接收相機拍照上傳檔案 (UploadFile / Form) 必備
+python-dotenv         # 讀取 .env 中的 API Key 與環境變數 (config.py 使用)
+httpx                 # 高效能非同步 HTTP 客戶端 (測試或呼叫外部 API)
+
+# --- 影像處理 (Vision 必備) ---
+pillow                # 處理相機拍照上傳的圖片 (壓縮、尺寸縮放、格式轉換)
+
+# --- AI 模型串接 (LLM & 多模態視覺) ---
+google-genai          # 若使用 Google Gemini (支援文字生成與圖片多模態辨識)
+# openai              # 若改用 OpenAI API，可替換或並存
+
+# --- RAG 知識庫與向量資料庫 ---
+chromadb              # 輕量級本機向量資料庫，適合快速儲存與檢索動物知識
+langchain             # 組織 Prompt、管理文本檢索與知識切片
+langchain-community   # 擴充工具庫 (文件載入器、向量庫整合)
+
+# --- 自動化測試 (tests/ 使用) ---
+pytest                # 單元測試框架
+pytest-asyncio        # 測試 FastAPI 的 async 非同步端點
