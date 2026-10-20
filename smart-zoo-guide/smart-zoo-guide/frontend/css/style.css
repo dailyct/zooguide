@@ -1,0 +1,209 @@
+/* ==========================================================================
+   1. 全域變數與主題色彩 (CSS Variables)
+   ========================================================================== */
+:root {
+  --primary-color: #2e7d32;       /* 森林綠（主色調） */
+  --primary-hover: #1b5e20;       /* 深綠（懸停狀態） */
+  --accent-color: #ff9800;        /* 亮橘（重點標記、導航路線） */
+  --bg-color: #f8fafc;            /* 頁面背景色 */
+  --card-bg: #ffffff;             /* 卡片背景色 */
+  --text-main: #1e293b;           /* 主要文字色彩 */
+  --text-muted: #64748b;          /* 次要/說明文字色彩 */
+  --border-color: #e2e8f0;        /* 邊框線條色彩 */
+  --user-bubble: #e8f5e9;         /* 遊客對話氣泡色彩 */
+  --bot-bubble: #f1f5f9;          /* 導覽員對話氣泡色彩 */
+  --radius: 12px;                 /* 圓角弧度 */
+  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* ==========================================================================
+   2. 基礎重置 (Reset & Base Styles)
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+/* 限制手機端或主容器的最大寬度，保持視覺平衡 */
+.container {
+  width: 100%;
+  max-width: 640px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+header p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+/* ==========================================================================
+   3. 通用卡片容器 (Cards)
+   ========================================================================== */
+.card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: var(--shadow);
+}
+
+.card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ==========================================================================
+   4. 表單、按鈕與互動控制項 (Inputs & Buttons)
+   ========================================================================== */
+button {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+button:hover {
+  background-color: var(--primary-hover);
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+button.full-width {
+  width: 100%;
+}
+
+.input-group {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 10px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+input[type="text"]:focus {
+  border-color: var(--primary-color);
+}
+
+/* ==========================================================================
+   5. 結果顯示與狀態框 (Status & Result Boxes)
+   ========================================================================== */
+.result-box {
+  background-color: #f8fafc;
+  border: 1px dashed var(--border-color);
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: var(--text-main);
+  min-height: 48px;
+  word-break: break-word;
+}
+
+/* ==========================================================================
+   6. 聊天對話視窗專用 (Chat Box & Bubbles)
+   ========================================================================== */
+#chat-box {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+/* 訊息氣泡樣式 */
+.msg {
+  padding: 10px 14px;
+  border-radius: 10px;
+  max-width: 85%;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.msg.user {
+  align-self: flex-end;
+  background-color: var(--user-bubble);
+  border-bottom-right-radius: 2px;
+}
+
+.msg.bot {
+  align-self: flex-start;
+  background-color: var(--bot-bubble);
+  border-bottom-left-radius: 2px;
+}
+
+/* ==========================================================================
+   7. 智慧推薦清單 (Recommendation List)
+   ========================================================================== */
+#recommendation-box ul {
+  margin-top: 8px;
+  padding-left: 20px;
+}
+
+#recommendation-box li {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+/* ==========================================================================
+   8. 相機預覽與地圖容器 (Camera & Map)
+   ========================================================================== */
+#camera-preview {
+  width: 100%;
+  max-height: 240px;
+  object-fit: cover;
+  border-radius: 8px;
+  background-color: #000;
+  margin-bottom: 10px;
+}
+
+#map {
+  width: 100%;
+  height: 280px;
+  border-radius: 8px;
+  z-index: 1;
+}
