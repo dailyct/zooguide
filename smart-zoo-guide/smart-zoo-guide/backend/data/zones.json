@@ -1,0 +1,17 @@
+{
+  "map": { "width": 600, "height": 400 },
+  "areas": {
+    "asia": { "name": "亞洲區", "color": "#e8f5e9", "x": 60, "y": 30, "width": 220, "height": 230 },
+    "africa": { "name": "非洲草原區", "color": "#fff3e0", "x": 330, "y": 50, "width": 230, "height": 200 },
+    "polar": { "name": "寒帶區", "color": "#e3f2fd", "x": 250, "y": 262, "width": 170, "height": 120 }
+  },
+  "zones": {
+    "entrance": { "name": "入口", "type": "gate", "x": 60, "y": 350 },
+    "tiger": { "name": "孟加拉虎館", "type": "animal", "x": 110, "y": 100 },
+    "panda": { "name": "大貓熊館", "type": "animal", "x": 210, "y": 70 },
+    "monkey": { "name": "台灣獼猴區", "type": "animal", "x": 150, "y": 200 },
+    "lion": { "name": "非洲獅區", "type": "animal", "x": 380, "y": 110 },
+    "elephant": { "name": "非洲象區", "type": "animal", "x": 470, "y": 210 },
+    "penguin": { "name": "企鵝館", "type": "animal", "x": 330, "y": 320 }
+  }
+}

@@ -1,14 +1,14 @@
+# 密鑰與本機設定
+.env
+
 # Python
 __pycache__/
 *.pyc
+.pytest_cache/
 .venv/
-.env
+venv/
 
-# zoo_ai 訓練資料 (可用 scripts/02_download_images.py 重新下載)
-zoo_ai/data/images/
-zoo_ai/data/raw/api_cache.json
-zoo_ai/logs/
-# 訓練用 PyTorch checkpoint (後端只需 backend/models/*.onnx)
-zoo_ai/models/*.pt
-zoo_ai/models/*.onnx
-zoo_ai/data/web_test/
+# 執行時產生的資料
+vector_db/
+backend/data/zoo.db
+*.db

@@ -1,51 +1,79 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>智慧動物園導覽系統</title>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐾</text></svg>">
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智慧動物園 AI 導覽</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="container">
-    <!-- 標題置於最上方 -->
-    <header>
-      <h1>🐾 智慧動物園導覽系統</h1>
-      <p>探索園區生態 · AI 視覺問答 · 智慧路線推薦</p>
+    <header class="top">
+        <h1>🦁 智慧動物園導覽</h1>
+        <span id="mode-badge" class="badge" title="目前的 AI 運作模式">連線中…</span>
     </header>
 
-    <!-- 下方內容以橫向 Grid 佈局依序展開 -->
-    <div class="cards-container">
-      <!-- 1. 影像辨識模組 (即時影像 → /api/vision/，模型見 zoo_ai/) -->
-      <div class="card">
-        <h3>📷 即時辨識動物</h3>
-        <video id="camera-video" playsinline muted
-               style="width:100%;border-radius:8px;background:#000;aspect-ratio:4/3;object-fit:cover"></video>
-        <button id="camera-btn" onclick="toggleCamera()">📷 開啟即時辨識</button>
-        <div id="vision-result" class="result-box">尚未開啟相機</div>
-      </div>
+    <main>
+        <section class="card" aria-labelledby="trip-title">
+            <h2 id="trip-title">我的行程</h2>
+            <div class="row">
+                <label for="time-input">剩餘時間（分鐘）</label>
+                <input id="time-input" type="number" min="0" max="1440" step="5" inputmode="numeric">
+            </div>
+            <p class="meta">
+                目前位置：<strong id="location-label">入口</strong>　
+                已參觀：<strong id="visited-count">0</strong> / <span id="animal-total">0</span>
+            </p>
+            <fieldset>
+                <legend>我的興趣（可複選，不選就由系統平均推薦）</legend>
+                <div id="interest-chips" class="chips"></div>
+            </fieldset>
+            <button id="reset-btn" type="button" class="secondary">重新開始行程</button>
+        </section>
 
-      <!-- 2. AI 導覽問答模組 -->
-      <div class="card">
-        <h3>💬 AI 導覽員問答</h3>
-        <div class="input-group">
-          <input type="text" id="user-msg" placeholder="問問看：老虎平時吃什麼？">
-          <button onclick="sendChat()">送出</button>
-        </div>
-        <div id="chat-box" class="result-box">導覽員在線等待提問...</div>
-      </div>
+        <section class="card" aria-labelledby="reco-title">
+            <h2 id="reco-title">智慧推薦</h2>
+            <div class="button-row">
+                <button id="recommend-btn" type="button">導覽下一站</button>
+                <button id="route-btn" type="button" class="secondary">規劃完整路線</button>
+            </div>
+            <div id="reco-result" class="result" aria-live="polite">按下按鈕，讓導覽員幫你決定下一站。</div>
+        </section>
 
-      <!-- 3. 動線推薦模組 -->
-      <div class="card">
-        <h3>🧭 個人化動線推薦</h3>
-        <button onclick="getRecommendation()">規劃下一站路線</button>
-        <div id="recommendation-box" class="result-box">點擊按鈕取得個人化推薦</div>
-      </div>
-    </div>
-  </div>
+        <section class="card" aria-labelledby="map-title">
+            <h2 id="map-title">園區地圖</h2>
+            <div id="map-wrap" class="map-wrap"></div>
+            <div id="animal-detail" class="result">點選地圖上的動物，可以看簡介。</div>
+        </section>
 
-  <script src="js/camera.js"></script>
-  <script src="js/app.js"></script>
+        <section class="card" aria-labelledby="camera-title">
+            <h2 id="camera-title">相機辨識</h2>
+            <label class="file-button" for="photo-input">📷 拍攝或選擇動物照片</label>
+            <input id="photo-input" type="file" accept="image/*" capture="environment" hidden>
+            <img id="photo-preview" class="preview" alt="剛剛拍攝的照片預覽" hidden>
+            <p id="vision-result" class="result" aria-live="polite">尚未拍攝</p>
+        </section>
+
+        <section class="card" aria-labelledby="chat-title">
+            <h2 id="chat-title">AI 導覽問答</h2>
+            <p id="chat-context" class="meta" hidden></p>
+            <div id="chat-log" class="chat-log" role="log" aria-live="polite">
+                <div class="bubble bot">你好！想知道什麼都可以問我，例如：「老虎為什麼有條紋？」</div>
+            </div>
+            <form id="chat-form" class="chat-form" autocomplete="off">
+                <input id="chat-input" type="text" maxlength="500" placeholder="輸入問題…" aria-label="輸入問題">
+                <button id="mic-btn" type="button" class="icon" aria-label="語音輸入" title="語音輸入">🎤</button>
+                <button id="send-btn" type="submit">送出</button>
+            </form>
+            <label class="inline"><input id="speak-toggle" type="checkbox"> 自動朗讀回答</label>
+        </section>
+    </main>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+
+    <script src="js/api.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/camera.js"></script>
+    <script src="js/voice.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>

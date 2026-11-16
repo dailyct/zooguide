@@ -1,241 +1,157 @@
-/* ==========================================================================
-   1. 深色主題色彩變數 (Dark Theme CSS Variables)
-   ========================================================================== */
 :root {
-  --primary-color: #10b981;       /* 翠綠色（深色模式下更明亮清晰） */
-  --primary-hover: #059669;       /* 懸停深綠 */
-  --accent-color: #f59e0b;        /* 亮橘黃色（提示與標記） */
-  --bg-color: #0b1120;            /* 主背景色：極深藍黑 */
-  --card-bg: #1e293b;             /* 卡片背景色：深灰藍 (Slate 800) */
-  --border-color: #334155;        /* 邊框線條色 (Slate 700) */
-  --text-main: #f8fafc;           /* 主要文字：亮白 */
-  --text-muted: #94a3b8;          /* 次要說明文字：冷灰 */
-  --input-bg: #0f172a;            /* 輸入框與結果框底色 */
-  --user-bubble: #064e3b;         /* 遊客對話氣泡：深森林綠 */
-  --bot-bubble: #334155;          /* 導覽員對話氣泡：深灰藍 */
-  --radius: 12px;
-  --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+    --bg: #f4f6f4;
+    --card: #ffffff;
+    --text: #1f2a24;
+    --muted: #66736b;
+    --border: #d9e0db;
+    --accent: #2e7d32;
+    --accent-text: #ffffff;
+    --warn: #ef6c00;
+    --error: #c62828;
+    --bubble-user: #dff1e0;
+    --bubble-bot: #eef1ef;
 }
 
-/* ==========================================================================
-   2. 基礎重置與橫向版面配置
-   ========================================================================== */
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #121714;
+        --card: #1b221e;
+        --text: #e6ece8;
+        --muted: #9aa9a0;
+        --border: #2f3a34;
+        --accent: #66bb6a;
+        --accent-text: #0e1a10;
+        --warn: #ffa726;
+        --error: #ef9a9a;
+        --bubble-user: #264a2a;
+        --bubble-bot: #242d28;
+    }
 }
+
+* { box-sizing: border-box; }
+
+/* 讓 hidden 屬性永遠優先，否則 display: block / inline-flex 之類的樣式會把它蓋掉 */
+[hidden] { display: none !important; }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  background-color: var(--bg-color);
-  color: var(--text-main);
-  line-height: 1.6;
-  padding: 32px 24px;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
+    margin: 0;
+    padding: 0 16px 48px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    line-height: 1.6;
 }
 
-/* 展開為橫式寬螢幕容器 (最大寬度設為 1200px) */
-.container {
-  width: 100%;
-  max-width: 1200px;
-  display: flex;
-  flex-direction: column;
+.top, main { max-width: 720px; margin: 0 auto; }
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 16px 0 8px;
 }
 
-/* 標題置於最上方，依序往下展開 */
-header {
-  text-align: center;
-  margin-bottom: 32px;
-  padding-bottom: 16px;
-  border-bottom: 1px solid var(--border-color);
-}
+h1 { font-size: 1.3rem; margin: 0; }
+h2 { font-size: 1.05rem; margin: 0 0 12px; }
 
-header h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  color: var(--primary-color);
-  letter-spacing: 1px;
+.badge {
+    font-size: 0.8rem;
+    padding: 2px 10px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    white-space: nowrap;
 }
+.badge.ok { color: var(--accent); border-color: var(--accent); }
+.badge.warn { color: var(--warn); border-color: var(--warn); }
 
-header p {
-  font-size: 1rem;
-  color: var(--text-muted);
-  margin-top: 6px;
-}
-
-/* ==========================================================================
-   3. 橫向網格佈局 (Cards Grid Container)
-   ========================================================================== */
-/* 若有將卡片外層包覆 .cards-container，會自動轉為 3 欄橫向並排 */
-.cards-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  gap: 24px;
-  align-items: stretch;
-}
-
-/* ==========================================================================
-   4. 通用卡片容器 (Cards)
-   ========================================================================== */
 .card {
-  background-color: var(--card-bg);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius);
-  padding: 24px;
-  margin-bottom: 20px;
-  box-shadow: var(--shadow);
-  display: flex;
-  flex-direction: column;
-  transition: transform 0.2s ease, border-color 0.2s ease;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
 }
 
-.card:hover {
-  border-color: #475569;
-}
+.meta { color: var(--muted); font-size: 0.9rem; margin: 8px 0; }
+.row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 
-.card h3 {
-  font-size: 1.2rem;
-  margin-bottom: 16px;
-  color: var(--text-main);
-  display: flex;
-  align-items: center;
-  gap: 8px;
+input[type="text"], input[type="number"] {
+    font: inherit;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--bg);
+    color: var(--text);
+    min-width: 0;
 }
+input[type="number"] { width: 100px; text-align: right; }
 
-/* ==========================================================================
-   5. 表單、按鈕與互動控制項
-   ========================================================================== */
-button {
-  background-color: var(--primary-color);
-  color: #ffffff;
-  border: none;
-  border-radius: 8px;
-  padding: 12px 20px;
-  font-size: 0.95rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background-color 0.2s ease, transform 0.1s ease;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
+button, .file-button {
+    font: inherit;
+    background: var(--accent);
+    color: var(--accent-text);
+    border: 1px solid var(--accent);
+    padding: 10px 16px;
+    border-radius: 8px;
+    cursor: pointer;
 }
+button:disabled { opacity: 0.55; cursor: progress; }
+button.secondary { background: transparent; color: var(--accent); }
+button.icon { padding: 10px 12px; background: transparent; color: var(--text); border-color: var(--border); }
+button.icon.recording { background: var(--error); border-color: var(--error); color: #fff; }
+.file-button { display: block; text-align: center; }
+button:focus-visible, .file-button:focus-within, input:focus-visible, .pin:focus-visible { outline: 3px solid var(--warn); outline-offset: 2px; }
 
-button:hover {
-  background-color: var(--primary-hover);
+.button-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.button-row button { flex: 1 1 140px; }
+
+fieldset { border: 1px solid var(--border); border-radius: 8px; margin: 12px 0; padding: 8px 12px 12px; }
+legend { color: var(--muted); font-size: 0.85rem; padding: 0 6px; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { padding: 4px 12px; border-radius: 999px; background: transparent; color: var(--text); border-color: var(--border); }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+
+.result { background: var(--bg); border-radius: 8px; padding: 10px 12px; margin-top: 12px; min-height: 48px; overflow-wrap: anywhere; }
+.result h3 { margin: 0 0 4px; font-size: 1rem; }
+.result ul, .result ol { margin: 6px 0; padding-left: 1.3em; }
+.result .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+.result .actions button { padding: 6px 12px; font-size: 0.9rem; }
+.tag { display: inline-block; font-size: 0.8rem; padding: 0 8px; margin: 0 4px 4px 0; border: 1px solid var(--border); border-radius: 999px; color: var(--muted); }
+
+.preview { display: block; max-width: 100%; max-height: 260px; margin: 12px auto 0; border-radius: 8px; }
+
+.map-wrap svg { display: block; width: 100%; height: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--bg); }
+.pin { cursor: pointer; }
+.pin circle.dot { fill: var(--accent); stroke: #fff; stroke-width: 2; }
+.pin.visited circle.dot { fill: #9e9e9e; }
+.pin.recommended circle.dot { fill: var(--warn); }
+.pin.selected circle.ring { stroke: var(--text); }
+.pin .ring { fill: none; stroke: transparent; stroke-width: 2; }
+.pin .pulse { fill: none; stroke: var(--warn); stroke-width: 2; animation: pulse 1.6s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+.map-label { font-size: 19px; fill: #1f2a24; paint-order: stroke; stroke: #fff; stroke-width: 4px; stroke-linejoin: round; }
+.area-label { font-size: 19px; fill: #4a5a50; opacity: 0.8; }
+.route-line { fill: none; stroke: var(--warn); stroke-width: 3; stroke-dasharray: 8 6; stroke-linecap: round; stroke-linejoin: round; }
+.you { fill: none; stroke: #1976d2; stroke-width: 3; }
+.you-label { font-size: 17px; fill: #1976d2; font-weight: bold; paint-order: stroke; stroke: #fff; stroke-width: 3px; }
+
+@keyframes pulse {
+    from { transform: scale(1); opacity: 0.9; }
+    to { transform: scale(2); opacity: 0; }
 }
+@media (prefers-reduced-motion: reduce) { .pin .pulse { animation: none; } }
 
-button:active {
-  transform: scale(0.98);
-}
+.chat-log { display: flex; flex-direction: column; gap: 8px; max-height: 340px; overflow-y: auto; padding: 4px 0; }
+.bubble { padding: 8px 12px; border-radius: 12px; max-width: 88%; white-space: pre-wrap; overflow-wrap: anywhere; }
+.bubble.me { align-self: flex-end; background: var(--bubble-user); }
+.bubble.bot { align-self: flex-start; background: var(--bubble-bot); }
+.bubble.pending { color: var(--muted); font-style: italic; }
+.chat-form { display: flex; gap: 8px; margin-top: 12px; }
+.chat-form input[type="text"] { flex: 1; }
+.inline { display: inline-flex; align-items: center; gap: 6px; margin-top: 8px; font-size: 0.9rem; color: var(--muted); }
 
-.input-group {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 12px;
-}
-
-input[type="text"] {
-  flex: 1;
-  background-color: var(--input-bg);
-  color: var(--text-main);
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  padding: 10px 14px;
-  font-size: 0.95rem;
-  outline: none;
-  transition: border-color 0.2s ease;
-}
-
-input[type="text"]:focus {
-  border-color: var(--primary-color);
-}
-
-input[type="text"]::placeholder {
-  color: #64748b;
-}
-
-/* ==========================================================================
-   6. 結果顯示框與深色狀態框
-   ========================================================================== */
-.result-box {
-  background-color: var(--input-bg);
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  padding: 14px;
-  margin-top: 14px;
-  font-size: 0.95rem;
-  color: #cbd5e1;
-  min-height: 54px;
-  word-break: break-word;
-  flex: 1; /* 讓結果框在橫向排版中自動撐滿卡片高度 */
-}
-
-/* ==========================================================================
-   7. 聊天視窗與氣泡樣式
-   ========================================================================== */
-#chat-box {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  max-height: 320px;
-  overflow-y: auto;
-}
-
-.msg {
-  padding: 10px 14px;
-  border-radius: 10px;
-  max-width: 85%;
-  font-size: 0.95rem;
-  line-height: 1.5;
-}
-
-.msg.user {
-  align-self: flex-end;
-  background-color: var(--user-bubble);
-  color: #d1fae5;
-  border-bottom-right-radius: 2px;
-}
-
-.msg.bot {
-  align-self: flex-start;
-  background-color: var(--bot-bubble);
-  color: #f1f5f9;
-  border-bottom-left-radius: 2px;
-}
-
-/* ==========================================================================
-   8. 推薦清單與地圖/相機
-   ========================================================================== */
-#recommendation-box ul {
-  margin-top: 10px;
-  padding-left: 20px;
-}
-
-#recommendation-box li {
-  font-size: 0.9rem;
-  color: #94a3b8;
-  margin-bottom: 6px;
-}
-
-#camera-preview {
-  width: 100%;
-  max-height: 240px;
-  object-fit: cover;
-  border-radius: 8px;
-  background-color: #000;
-  margin-bottom: 12px;
-  border: 1px solid var(--border-color);
-}
-
-#map {
-  width: 100%;
-  height: 320px;
-  border-radius: 8px;
-  border: 1px solid var(--border-color);
-  z-index: 1;
-}
-
+.status { position: fixed; left: 50%; bottom: 12px; transform: translateX(-50%); max-width: calc(100% - 32px); margin: 0; padding: 8px 16px; border-radius: 8px; background: var(--text); color: var(--bg); font-size: 0.9rem; }
+.status:empty { display: none; }
+.status.error { background: var(--error); color: #fff; }

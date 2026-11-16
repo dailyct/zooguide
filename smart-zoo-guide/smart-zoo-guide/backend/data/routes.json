@@ -1,0 +1,61 @@
+{
+  "walk_speed_m_per_min": 60,
+  "routes": {
+    "entrance": {
+      "tiger": 410,
+      "panda": 510,
+      "monkey": 280,
+      "lion": 640,
+      "elephant": 690,
+      "penguin": 430
+    },
+    "tiger": {
+      "entrance": 410,
+      "panda": 170,
+      "monkey": 170,
+      "lion": 430,
+      "elephant": 600,
+      "penguin": 500
+    },
+    "panda": {
+      "entrance": 510,
+      "tiger": 170,
+      "monkey": 230,
+      "lion": 280,
+      "elephant": 470,
+      "penguin": 440
+    },
+    "monkey": {
+      "entrance": 280,
+      "tiger": 170,
+      "panda": 230,
+      "lion": 400,
+      "elephant": 510,
+      "penguin": 350
+    },
+    "lion": {
+      "entrance": 640,
+      "tiger": 430,
+      "panda": 280,
+      "monkey": 400,
+      "elephant": 220,
+      "penguin": 350
+    },
+    "elephant": {
+      "entrance": 690,
+      "tiger": 600,
+      "panda": 470,
+      "monkey": 510,
+      "lion": 220,
+      "penguin": 280
+    },
+    "penguin": {
+      "entrance": 430,
+      "tiger": 500,
+      "panda": 440,
+      "monkey": 350,
+      "lion": 350,
+      "elephant": 280
+    }
+  }
+}

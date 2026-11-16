@@ -1,4 +1,8 @@
-zoo_ai/
-.git/
-**/__pycache__/
-.venv/
+.env
+.git
+__pycache__/
+*.pyc
+.pytest_cache/
+vector_db/
+*.db
+tests/

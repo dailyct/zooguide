@@ -1,29 +1,27 @@
-import os
+from typing import Dict, List, Optional
+
 from fastapi import APIRouter
-from pydantic import BaseModel
-from typing import List, Dict
-from backend.agent.agent import ZooAgent
+from pydantic import BaseModel, Field
+
+from backend.agent.agent import get_agent
+from backend.api.common import resolve_profile
+from backend.database import database
 
 router = APIRouter()
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-DATA_PATH = os.path.join(BASE_DIR, "backend", "data", "animals.json")
-
-agent = ZooAgent(data_path=DATA_PATH)
 
 class RecommendRequest(BaseModel):
-    user_id: str
-    current_location: str
-    remaining_time: int
-    interests: Dict[str, float]
-    visited: List[str]
+    user_id: str = Field(min_length=1, max_length=64)
+    # 以下欄位都是可選的；沒帶的就使用資料庫裡儲存的使用者資料
+    current_location: Optional[str] = None
+    remaining_time: Optional[int] = Field(default=None, ge=0, le=1440)
+    interests: Optional[Dict[str, float]] = None
+    visited: Optional[List[str]] = None
 
-@router.post("/")
-async def get_recommendation(req: RecommendRequest):
-    user_profile = {
-        "interests": req.interests,
-        "visited": req.visited,
-        "remaining_time": req.remaining_time
-    }
-    decision = agent.decide(user_profile, req.current_location)
+
+@router.post("")
+def get_recommendation(req: RecommendRequest):
+    profile = resolve_profile(req.user_id, req.current_location, req.remaining_time, req.interests, req.visited)
+    decision = get_agent().decide(profile)
+    database.log_interaction(req.user_id, "recommend", decision["recommendation"])
     return decision

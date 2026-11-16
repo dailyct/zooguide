@@ -1,12 +1,70 @@
 {
-  "animals": {
-    "tiger": { "name": "孟加拉虎", "tags": ["carnivore", "large"], "visit_time": 15 },
-    "lion": { "name": "非洲獅", "tags": ["carnivore", "large"], "visit_time": 15 },
-    "panda": { "name": "大貓熊", "tags": ["cute", "herbivore"], "visit_time": 20 }
+  "tags": {
+    "carnivore": "肉食",
+    "herbivore": "草食",
+    "omnivore": "雜食",
+    "large": "大型",
+    "cute": "可愛",
+    "aquatic": "水中生活",
+    "primate": "靈長類",
+    "social": "群居互動",
+    "endangered": "保育類",
+    "taiwan": "台灣特有"
   },
-  "routes": {
-    "tiger": { "lion": 120, "panda": 350 },
-    "lion": { "tiger": 120, "panda": 250 },
-    "panda": { "tiger": 350, "lion": 250 }
+  "animals": {
+    "tiger": {
+      "name": "孟加拉虎",
+      "english_name": "Bengal Tiger",
+      "aliases": ["老虎", "tiger"],
+      "tags": ["carnivore", "large", "endangered"],
+      "visit_time": 15,
+      "zone": "asia",
+      "description": "條紋如同指紋、獨一無二的大型貓科動物。"
+    },
+    "panda": {
+      "name": "大貓熊",
+      "english_name": "Giant Panda",
+      "aliases": ["貓熊", "熊貓", "panda"],
+      "tags": ["cute", "herbivore", "endangered"],
+      "visit_time": 20,
+      "zone": "asia",
+      "description": "一天有一半以上的時間都在吃竹子的黑白明星。"
+    },
+    "monkey": {
+      "name": "台灣獼猴",
+      "english_name": "Formosan Rock Macaque",
+      "aliases": ["獼猴", "猴子", "monkey"],
+      "tags": ["primate", "social", "omnivore", "taiwan"],
+      "visit_time": 10,
+      "zone": "asia",
+      "description": "台灣特有種，群體裡的梳毛與階級互動非常有趣。"
+    },
+    "lion": {
+      "name": "非洲獅",
+      "english_name": "African Lion",
+      "aliases": ["獅子", "lion"],
+      "tags": ["carnivore", "large", "social"],
+      "visit_time": 15,
+      "zone": "africa",
+      "description": "唯一群居的大型貓科動物，雄獅有威風的鬃毛。"
+    },
+    "elephant": {
+      "name": "非洲象",
+      "english_name": "African Elephant",
+      "aliases": ["大象", "elephant"],
+      "tags": ["herbivore", "large", "social"],
+      "visit_time": 20,
+      "zone": "africa",
+      "description": "現存最大的陸地動物，母系社會十分緊密。"
+    },
+    "penguin": {
+      "name": "國王企鵝",
+      "english_name": "King Penguin",
+      "aliases": ["企鵝", "penguin"],
+      "tags": ["cute", "aquatic", "social"],
+      "visit_time": 15,
+      "zone": "polar",
+      "description": "不會飛卻是潛水高手，還會把蛋放在腳背上孵。"
+    }
   }
 }
