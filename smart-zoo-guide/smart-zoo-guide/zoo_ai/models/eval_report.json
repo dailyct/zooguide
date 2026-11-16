@@ -1,0 +1,1705 @@
+{
+  "n_test": 6938,
+  "top1": 0.8832516575381955,
+  "top5": 0.9641106947247046,
+  "thresholds": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy": 0.8832516575381955
+    },
+    {
+      "threshold": 0.3,
+      "coverage": 0.9551744018449121,
+      "accuracy": 0.9126301493888638
+    },
+    {
+      "threshold": 0.45,
+      "coverage": 0.9042951859325454,
+      "accuracy": 0.9386356391456806
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.8462092822138945,
+      "accuracy": 0.9621870209504343
+    },
+    {
+      "threshold": 0.75,
+      "coverage": 0.7737100028826751,
+      "accuracy": 0.9796944858420268
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.5601037763044104,
+      "accuracy": 0.9930519814719506
+    }
+  ],
+  "per_class": [
+    {
+      "key": "Phobaeticus_serratipes",
+      "name_zh": "尖刺足刺竹節蟲",
+      "acc": 0.0,
+      "n": 3
+    },
+    {
+      "key": "Aquatica_ficta",
+      "name_zh": "黃緣螢",
+      "acc": 0.4,
+      "n": 5
+    },
+    {
+      "key": "Pheidole",
+      "name_zh": "大頭家蟻",
+      "acc": 0.5862068965517241,
+      "n": 29
+    },
+    {
+      "key": "Lutra_cinerea",
+      "name_zh": "小爪水獺",
+      "acc": 0.6,
+      "n": 35
+    },
+    {
+      "key": "Columba_pulchricollis",
+      "name_zh": "灰林鴿",
+      "acc": 0.6190476190476191,
+      "n": 21
+    },
+    {
+      "key": "Streptopelia_orientalis",
+      "name_zh": "金背鳩",
+      "acc": 0.64,
+      "n": 25
+    },
+    {
+      "key": "Tamandua_tetradactyla",
+      "name_zh": "南美小食蟻獸",
+      "acc": 0.6538461538461539,
+      "n": 26
+    },
+    {
+      "key": "Cichla_kelberi",
+      "name_zh": "巴西亞金三間",
+      "acc": 0.6666666666666666,
+      "n": 3
+    },
+    {
+      "key": "Daubentonia_madagascariensis",
+      "name_zh": "指猴",
+      "acc": 0.6666666666666666,
+      "n": 6
+    },
+    {
+      "key": "Equus_africanus",
+      "name_zh": "非洲野驢",
+      "acc": 0.6666666666666666,
+      "n": 9
+    },
+    {
+      "key": "Phasmotaenia_lanyuhensis",
+      "name_zh": "蘭嶼筒胸竹節蟲",
+      "acc": 0.6666666666666666,
+      "n": 9
+    },
+    {
+      "key": "Ateles_fusciceps",
+      "name_zh": "棕頭蜘蛛猴",
+      "acc": 0.6666666666666666,
+      "n": 18
+    },
+    {
+      "key": "Lutra_lutra",
+      "name_zh": "歐亞水獺",
+      "acc": 0.6756756756756757,
+      "n": 37
+    },
+    {
+      "key": "Ursus_arctos",
+      "name_zh": "阿拉斯加棕熊",
+      "acc": 0.6774193548387096,
+      "n": 31
+    },
+    {
+      "key": "Eulemur_fulvus",
+      "name_zh": "褐狐猴",
+      "acc": 0.7142857142857143,
+      "n": 21
+    },
+    {
+      "key": "Mauremys_sinensis",
+      "name_zh": "斑龜",
+      "acc": 0.71875,
+      "n": 32
+    },
+    {
+      "key": "Phoenicopterus_roseus",
+      "name_zh": "大紅鶴",
+      "acc": 0.72,
+      "n": 25
+    },
+    {
+      "key": "Rusa_unicolor",
+      "name_zh": "水鹿",
+      "acc": 0.7241379310344828,
+      "n": 29
+    },
+    {
+      "key": "Sus_scrofa",
+      "name_zh": "蘭嶼豬／臺灣野豬",
+      "acc": 0.7272727272727273,
+      "n": 22
+    },
+    {
+      "key": "Grus_virgo",
+      "name_zh": "簑羽鶴",
+      "acc": 0.7272727272727273,
+      "n": 33
+    },
+    {
+      "key": "Melogale_subaurantiaca",
+      "name_zh": "鼬獾",
+      "acc": 0.7333333333333333,
+      "n": 30
+    },
+    {
+      "key": "Papilio_demoleus",
+      "name_zh": "無尾鳳蝶",
+      "acc": 0.7407407407407407,
+      "n": 27
+    },
+    {
+      "key": "Spilornis_cheela",
+      "name_zh": "大冠鷲",
+      "acc": 0.7407407407407407,
+      "n": 27
+    },
+    {
+      "key": "Macrochelys_temminckii",
+      "name_zh": "鱷龜",
+      "acc": 0.7419354838709677,
+      "n": 31
+    },
+    {
+      "key": "Lynx_lynx",
+      "name_zh": "歐亞大山貓",
+      "acc": 0.7428571428571429,
+      "n": 35
+    },
+    {
+      "key": "Acarichthys_heckelii",
+      "name_zh": "赫氏萎鰓麗魚",
+      "acc": 0.75,
+      "n": 4
+    },
+    {
+      "key": "Amazona_auropalliata",
+      "name_zh": "黃頸亞馬遜鸚鵡",
+      "acc": 0.75,
+      "n": 28
+    },
+    {
+      "key": "Equus_caballus",
+      "name_zh": "迷你馬",
+      "acc": 0.75,
+      "n": 28
+    },
+    {
+      "key": "Gorilla_gorilla",
+      "name_zh": "西部低地大猩猩",
+      "acc": 0.75,
+      "n": 36
+    },
+    {
+      "key": "Amazona_aestiva",
+      "name_zh": "藍額亞馬遜鸚鵡",
+      "acc": 0.76,
+      "n": 25
+    },
+    {
+      "key": "Manouria_emys",
+      "name_zh": "亞洲棕龜",
+      "acc": 0.7619047619047619,
+      "n": 21
+    },
+    {
+      "key": "Muntiacus_reevesi",
+      "name_zh": "臺灣山羌",
+      "acc": 0.7631578947368421,
+      "n": 38
+    },
+    {
+      "key": "Cacatua_sulphurea",
+      "name_zh": "小葵花鳳頭鸚鵡",
+      "acc": 0.7647058823529411,
+      "n": 34
+    },
+    {
+      "key": "Papio_anubis",
+      "name_zh": "東非狒狒",
+      "acc": 0.7647058823529411,
+      "n": 34
+    },
+    {
+      "key": "Procyon_lotor",
+      "name_zh": "北美浣熊",
+      "acc": 0.7666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Symphalangus_syndactylus",
+      "name_zh": "大長臂猿",
+      "acc": 0.7741935483870968,
+      "n": 31
+    },
+    {
+      "key": "Ketupa_flavipes",
+      "name_zh": "黃魚鴞",
+      "acc": 0.7777777777777778,
+      "n": 9
+    },
+    {
+      "key": "Hylobates_lar",
+      "name_zh": "白手長臂猿",
+      "acc": 0.7777777777777778,
+      "n": 27
+    },
+    {
+      "key": "Shinisaurus_crocodilurus",
+      "name_zh": "中國鱷蜥",
+      "acc": 0.7857142857142857,
+      "n": 14
+    },
+    {
+      "key": "Canis_lupus",
+      "name_zh": "北美灰狼",
+      "acc": 0.7857142857142857,
+      "n": 28
+    },
+    {
+      "key": "Tirumala_limniace",
+      "name_zh": "淡小紋青斑蝶",
+      "acc": 0.7857142857142857,
+      "n": 28
+    },
+    {
+      "key": "Phoenicopterus_chilensis",
+      "name_zh": "智利紅鶴",
+      "acc": 0.7878787878787878,
+      "n": 33
+    },
+    {
+      "key": "Anax_panybeus",
+      "name_zh": "麻斑晏蜓",
+      "acc": 0.7894736842105263,
+      "n": 19
+    },
+    {
+      "key": "Viverricula_indica",
+      "name_zh": "麝香貓",
+      "acc": 0.7906976744186046,
+      "n": 43
+    },
+    {
+      "key": "Cuora_flavomarginata",
+      "name_zh": "食蛇龜",
+      "acc": 0.7916666666666666,
+      "n": 24
+    },
+    {
+      "key": "Gallus_varius",
+      "name_zh": "綠野雞",
+      "acc": 0.7948717948717948,
+      "n": 39
+    },
+    {
+      "key": "Camelus_dromedarius",
+      "name_zh": "單峰駱駝",
+      "acc": 0.8,
+      "n": 20
+    },
+    {
+      "key": "Acridotheres_javanicus",
+      "name_zh": "白尾八哥",
+      "acc": 0.8,
+      "n": 25
+    },
+    {
+      "key": "Cacatua_alba",
+      "name_zh": "白鳳頭鸚鵡",
+      "acc": 0.8,
+      "n": 25
+    },
+    {
+      "key": "Chelonoidis_denticulatus",
+      "name_zh": "黃腿象龜",
+      "acc": 0.8,
+      "n": 30
+    },
+    {
+      "key": "Phasianus_colchicus",
+      "name_zh": "環頸雉",
+      "acc": 0.8,
+      "n": 30
+    },
+    {
+      "key": "Pristomyrmex_punctatus",
+      "name_zh": "堅硬雙針家蟻",
+      "acc": 0.8,
+      "n": 30
+    },
+    {
+      "key": "Paguma_larvata",
+      "name_zh": "白鼻心",
+      "acc": 0.8,
+      "n": 35
+    },
+    {
+      "key": "Potos_flavus",
+      "name_zh": "蜜熊",
+      "acc": 0.8,
+      "n": 35
+    },
+    {
+      "key": "Antigone_antigone",
+      "name_zh": "赤頸鶴",
+      "acc": 0.8055555555555556,
+      "n": 36
+    },
+    {
+      "key": "Cacatua_galerita",
+      "name_zh": "葵花鳳頭鸚鵡",
+      "acc": 0.8076923076923077,
+      "n": 26
+    },
+    {
+      "key": "Hydrochoerus_hydrochaeris",
+      "name_zh": "水豚",
+      "acc": 0.8076923076923077,
+      "n": 26
+    },
+    {
+      "key": "Puma_concolor",
+      "name_zh": "山獅",
+      "acc": 0.8076923076923077,
+      "n": 26
+    },
+    {
+      "key": "Urocissa_caerulea",
+      "name_zh": "臺灣藍鵲",
+      "acc": 0.8095238095238095,
+      "n": 21
+    },
+    {
+      "key": "Antigone_vipio",
+      "name_zh": "白枕鶴",
+      "acc": 0.8148148148148148,
+      "n": 27
+    },
+    {
+      "key": "Elephas_maximus",
+      "name_zh": "亞洲象",
+      "acc": 0.8148148148148148,
+      "n": 27
+    },
+    {
+      "key": "Naja_atra",
+      "name_zh": "眼鏡蛇",
+      "acc": 0.8214285714285714,
+      "n": 28
+    },
+    {
+      "key": "Nasua_nasua",
+      "name_zh": "長鼻浣熊",
+      "acc": 0.8235294117647058,
+      "n": 34
+    },
+    {
+      "key": "Chamaeleo_calyptratus",
+      "name_zh": "高冠變色龍",
+      "acc": 0.8275862068965517,
+      "n": 29
+    },
+    {
+      "key": "Equus_asinus",
+      "name_zh": "家驢",
+      "acc": 0.8275862068965517,
+      "n": 29
+    },
+    {
+      "key": "Ateles_hybridus",
+      "name_zh": "棕蜘蛛猴",
+      "acc": 0.8333333333333334,
+      "n": 6
+    },
+    {
+      "key": "Diploderma_swinhonis",
+      "name_zh": "斯文豪氏攀蜥",
+      "acc": 0.8333333333333334,
+      "n": 24
+    },
+    {
+      "key": "Pelecanus_onocrotalus",
+      "name_zh": "白鵜鶘",
+      "acc": 0.8333333333333334,
+      "n": 30
+    },
+    {
+      "key": "Aotus_azarae",
+      "name_zh": "阿氏夜猴",
+      "acc": 0.84,
+      "n": 25
+    },
+    {
+      "key": "Basiliscus_plumifrons",
+      "name_zh": "雙脊冠蜥",
+      "acc": 0.84,
+      "n": 25
+    },
+    {
+      "key": "Lampropeltis_californiae",
+      "name_zh": "加州王蛇",
+      "acc": 0.84,
+      "n": 25
+    },
+    {
+      "key": "Leptoptilos_crumenifer",
+      "name_zh": "禿鸛",
+      "acc": 0.84,
+      "n": 25
+    },
+    {
+      "key": "Ara_ararauna",
+      "name_zh": "黃腹藍琉璃金剛鸚鵡",
+      "acc": 0.8421052631578947,
+      "n": 38
+    },
+    {
+      "key": "Cervus_nippon",
+      "name_zh": "梅花鹿",
+      "acc": 0.8484848484848485,
+      "n": 33
+    },
+    {
+      "key": "Elaphe_taeniura",
+      "name_zh": "臺灣錦蛇",
+      "acc": 0.8484848484848485,
+      "n": 33
+    },
+    {
+      "key": "Haliastur_indus",
+      "name_zh": "栗鳶",
+      "acc": 0.85,
+      "n": 20
+    },
+    {
+      "key": "Pan_troglodytes",
+      "name_zh": "黑猩猩",
+      "acc": 0.85,
+      "n": 20
+    },
+    {
+      "key": "Ramphastos_toco",
+      "name_zh": "大巨嘴鳥",
+      "acc": 0.8518518518518519,
+      "n": 27
+    },
+    {
+      "key": "Pelecanus_rufescens",
+      "name_zh": "粉紅背鵜鶘",
+      "acc": 0.8536585365853658,
+      "n": 41
+    },
+    {
+      "key": "Neofelis_nebulosa",
+      "name_zh": "雲豹",
+      "acc": 0.8571428571428571,
+      "n": 21
+    },
+    {
+      "key": "Panthera_tigris",
+      "name_zh": "馬來虎",
+      "acc": 0.8571428571428571,
+      "n": 21
+    },
+    {
+      "key": "Aix_sponsa",
+      "name_zh": "美洲木鴨",
+      "acc": 0.8571428571428571,
+      "n": 28
+    },
+    {
+      "key": "Psittacula_krameri",
+      "name_zh": "紅領綠鸚鵡",
+      "acc": 0.8571428571428571,
+      "n": 28
+    },
+    {
+      "key": "Merops_philippinus",
+      "name_zh": "栗喉蜂虎",
+      "acc": 0.8571428571428571,
+      "n": 35
+    },
+    {
+      "key": "Terrapene_carolina",
+      "name_zh": "卡羅萊納箱龜",
+      "acc": 0.8571428571428571,
+      "n": 35
+    },
+    {
+      "key": "Bos_bison",
+      "name_zh": "美洲野牛",
+      "acc": 0.8611111111111112,
+      "n": 36
+    },
+    {
+      "key": "Psilopogon_nuchalis",
+      "name_zh": "臺灣擬啄木",
+      "acc": 0.8611111111111112,
+      "n": 36
+    },
+    {
+      "key": "Saguinus_oedipus",
+      "name_zh": "棉頭絹猴",
+      "acc": 0.8611111111111112,
+      "n": 36
+    },
+    {
+      "key": "Aeshnidae",
+      "name_zh": "晏蜓水蠆",
+      "acc": 0.8620689655172413,
+      "n": 29
+    },
+    {
+      "key": "Grus_grus",
+      "name_zh": "灰鶴",
+      "acc": 0.8620689655172413,
+      "n": 29
+    },
+    {
+      "key": "Python_bivittatus",
+      "name_zh": "緬甸岩蟒",
+      "acc": 0.8620689655172413,
+      "n": 29
+    },
+    {
+      "key": "Amazona_oratrix",
+      "name_zh": "黃頭亞馬遜鸚鵡",
+      "acc": 0.8636363636363636,
+      "n": 22
+    },
+    {
+      "key": "Gallus_sonneratii",
+      "name_zh": "灰野雞",
+      "acc": 0.8636363636363636,
+      "n": 22
+    },
+    {
+      "key": "Dromaius_novaehollandiae",
+      "name_zh": "鴯鶓",
+      "acc": 0.8648648648648649,
+      "n": 37
+    },
+    {
+      "key": "Aix_galericulata",
+      "name_zh": "鴛鴦",
+      "acc": 0.8666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Chelonoidis_carbonarius",
+      "name_zh": "紅腿象龜",
+      "acc": 0.8666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Helarctos_malayanus",
+      "name_zh": "馬來熊",
+      "acc": 0.8666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Prionailurus_bengalensis",
+      "name_zh": "石虎",
+      "acc": 0.8666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Probosciger_aterrimus",
+      "name_zh": "棕櫚鳳頭鸚鵡",
+      "acc": 0.8666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Capricornis_swinhoei",
+      "name_zh": "臺灣野山羊",
+      "acc": 0.8709677419354839,
+      "n": 31
+    },
+    {
+      "key": "Papilio_bianor",
+      "name_zh": "烏鴉鳳蝶",
+      "acc": 0.8717948717948718,
+      "n": 39
+    },
+    {
+      "key": "Eryx_miliaris",
+      "name_zh": "韃靼沙蚺",
+      "acc": 0.875,
+      "n": 16
+    },
+    {
+      "key": "Castor_canadensis",
+      "name_zh": "加拿大河狸",
+      "acc": 0.875,
+      "n": 24
+    },
+    {
+      "key": "Mauremys_mutica",
+      "name_zh": "柴棺龜",
+      "acc": 0.875,
+      "n": 24
+    },
+    {
+      "key": "Loxodonta_africana",
+      "name_zh": "非洲象",
+      "acc": 0.875,
+      "n": 32
+    },
+    {
+      "key": "Pavo_cristatus",
+      "name_zh": "藍孔雀",
+      "acc": 0.8787878787878788,
+      "n": 33
+    },
+    {
+      "key": "Ateles_geoffroyi",
+      "name_zh": "黑掌蜘蛛猴",
+      "acc": 0.88,
+      "n": 25
+    },
+    {
+      "key": "Streptopelia_tranquebarica",
+      "name_zh": "紅鳩",
+      "acc": 0.88,
+      "n": 25
+    },
+    {
+      "key": "Caloenas_nicobarica",
+      "name_zh": "綠簑鴿",
+      "acc": 0.8823529411764706,
+      "n": 17
+    },
+    {
+      "key": "Balearica_regulorum",
+      "name_zh": "灰頸冠鶴",
+      "acc": 0.8823529411764706,
+      "n": 34
+    },
+    {
+      "key": "Boa_constrictor",
+      "name_zh": "紅尾蚺",
+      "acc": 0.8846153846153846,
+      "n": 26
+    },
+    {
+      "key": "Cygnus_atratus",
+      "name_zh": "黑天鵝",
+      "acc": 0.8846153846153846,
+      "n": 26
+    },
+    {
+      "key": "Ducula_bicolor",
+      "name_zh": "黑袖鴿",
+      "acc": 0.8846153846153846,
+      "n": 26
+    },
+    {
+      "key": "Eolophus_roseicapilla",
+      "name_zh": "粉紅鳳頭鸚鵡",
+      "acc": 0.8846153846153846,
+      "n": 26
+    },
+    {
+      "key": "Tragelaphus_oryx",
+      "name_zh": "伊蘭羚羊",
+      "acc": 0.8846153846153846,
+      "n": 26
+    },
+    {
+      "key": "Alligator_sinensis",
+      "name_zh": "揚子鱷",
+      "acc": 0.8888888888888888,
+      "n": 18
+    },
+    {
+      "key": "Epicrates_cenchria",
+      "name_zh": "彩虹蚺",
+      "acc": 0.8888888888888888,
+      "n": 27
+    },
+    {
+      "key": "Hippopotamus_amphibius",
+      "name_zh": "河馬",
+      "acc": 0.8888888888888888,
+      "n": 27
+    },
+    {
+      "key": "Strix_leptogrammica",
+      "name_zh": "褐林鴞",
+      "acc": 0.8888888888888888,
+      "n": 27
+    },
+    {
+      "key": "Ursus_thibetanus",
+      "name_zh": "亞洲黑熊／臺灣黑熊",
+      "acc": 0.8888888888888888,
+      "n": 27
+    },
+    {
+      "key": "Malayopython_reticulatus",
+      "name_zh": "網紋蟒",
+      "acc": 0.8888888888888888,
+      "n": 36
+    },
+    {
+      "key": "Python_regius",
+      "name_zh": "球蟒",
+      "acc": 0.8888888888888888,
+      "n": 45
+    },
+    {
+      "key": "Dendrobates_auratus",
+      "name_zh": "迷彩箭毒蛙",
+      "acc": 0.8918918918918919,
+      "n": 37
+    },
+    {
+      "key": "Nisaetus_nipalensis",
+      "name_zh": "熊鷹",
+      "acc": 0.8918918918918919,
+      "n": 37
+    },
+    {
+      "key": "Papilio_paris",
+      "name_zh": "大琉璃紋鳳蝶",
+      "acc": 0.8928571428571429,
+      "n": 28
+    },
+    {
+      "key": "Ocyphaps_lophotes",
+      "name_zh": "澳洲冠鳩",
+      "acc": 0.8947368421052632,
+      "n": 38
+    },
+    {
+      "key": "Arapaima_gigas",
+      "name_zh": "象魚",
+      "acc": 0.8974358974358975,
+      "n": 39
+    },
+    {
+      "key": "Centrochelys_sulcata",
+      "name_zh": "蘇卡達象龜",
+      "acc": 0.9,
+      "n": 20
+    },
+    {
+      "key": "Corvus_macrorhynchos",
+      "name_zh": "巨嘴鴉",
+      "acc": 0.9,
+      "n": 20
+    },
+    {
+      "key": "Urva_urva",
+      "name_zh": "食蟹獴",
+      "acc": 0.9,
+      "n": 30
+    },
+    {
+      "key": "Anas_platyrhynchos",
+      "name_zh": "綠頭鴨",
+      "acc": 0.90625,
+      "n": 32
+    },
+    {
+      "key": "Saimiri_boliviensis",
+      "name_zh": "黑冠松鼠猴",
+      "acc": 0.90625,
+      "n": 32
+    },
+    {
+      "key": "Myrmecophaga_tridactyla",
+      "name_zh": "大食蟻獸",
+      "acc": 0.9090909090909091,
+      "n": 22
+    },
+    {
+      "key": "Ailurus_fulgens",
+      "name_zh": "小貓熊",
+      "acc": 0.9090909090909091,
+      "n": 33
+    },
+    {
+      "key": "Camponotus_habereri",
+      "name_zh": "臭巨山蟻",
+      "acc": 0.9090909090909091,
+      "n": 33
+    },
+    {
+      "key": "Dacelo_novaeguineae",
+      "name_zh": "笑翠鳥",
+      "acc": 0.9117647058823529,
+      "n": 34
+    },
+    {
+      "key": "Geophagus_brasiliensis",
+      "name_zh": "西德藍寶石",
+      "acc": 0.9117647058823529,
+      "n": 34
+    },
+    {
+      "key": "Pongo_pygmaeus",
+      "name_zh": "婆羅洲人猿",
+      "acc": 0.9117647058823529,
+      "n": 34
+    },
+    {
+      "key": "Macropus_giganteus",
+      "name_zh": "灰袋鼠",
+      "acc": 0.9130434782608695,
+      "n": 23
+    },
+    {
+      "key": "Mecopoda_elongata",
+      "name_zh": "臺灣騷斯",
+      "acc": 0.9130434782608695,
+      "n": 23
+    },
+    {
+      "key": "Balearica_pavonina",
+      "name_zh": "黑頸冠鶴",
+      "acc": 0.9166666666666666,
+      "n": 24
+    },
+    {
+      "key": "Choeropsis_liberiensis",
+      "name_zh": "侏儒河馬",
+      "acc": 0.9166666666666666,
+      "n": 24
+    },
+    {
+      "key": "Tapirus_indicus",
+      "name_zh": "馬來貘",
+      "acc": 0.9166666666666666,
+      "n": 24
+    },
+    {
+      "key": "Alopochen_aegyptiaca",
+      "name_zh": "埃及雁",
+      "acc": 0.92,
+      "n": 25
+    },
+    {
+      "key": "Geochelone_elegans",
+      "name_zh": "印度星龜",
+      "acc": 0.92,
+      "n": 25
+    },
+    {
+      "key": "Kallima_inachus",
+      "name_zh": "枯葉蝶",
+      "acc": 0.92,
+      "n": 25
+    },
+    {
+      "key": "Platalea_minor",
+      "name_zh": "黑面琵鷺",
+      "acc": 0.92,
+      "n": 25
+    },
+    {
+      "key": "Zhangixalus_prasinatus",
+      "name_zh": "翡翠樹蛙",
+      "acc": 0.92,
+      "n": 25
+    },
+    {
+      "key": "Butorides_striata",
+      "name_zh": "綠簑鷺",
+      "acc": 0.9210526315789473,
+      "n": 38
+    },
+    {
+      "key": "Panthera_pardus",
+      "name_zh": "花豹",
+      "acc": 0.9210526315789473,
+      "n": 38
+    },
+    {
+      "key": "Cyclura_cornuta",
+      "name_zh": "犀牛圓尾鬣蜥",
+      "acc": 0.9230769230769231,
+      "n": 26
+    },
+    {
+      "key": "Pogona_vitticeps",
+      "name_zh": "中部鬍鬚蜥",
+      "acc": 0.9230769230769231,
+      "n": 26
+    },
+    {
+      "key": "Tomistoma_schlegelii",
+      "name_zh": "馬來長吻鱷",
+      "acc": 0.9230769230769231,
+      "n": 26
+    },
+    {
+      "key": "Equus_quagga",
+      "name_zh": "查普曼斑馬",
+      "acc": 0.9259259259259259,
+      "n": 27
+    },
+    {
+      "key": "Nidirana_adenopleura",
+      "name_zh": "腹斑蛙",
+      "acc": 0.9259259259259259,
+      "n": 27
+    },
+    {
+      "key": "Physignathus_cocincinus",
+      "name_zh": "綠長鬣蜥",
+      "acc": 0.9259259259259259,
+      "n": 27
+    },
+    {
+      "key": "Ammotragus_lervia",
+      "name_zh": "北非髯羊",
+      "acc": 0.9285714285714286,
+      "n": 28
+    },
+    {
+      "key": "Telchinia_issoria",
+      "name_zh": "苧麻珍蝶(細蝶)",
+      "acc": 0.9285714285714286,
+      "n": 28
+    },
+    {
+      "key": "Acridotheres_tristis",
+      "name_zh": "家八哥",
+      "acc": 0.9310344827586207,
+      "n": 29
+    },
+    {
+      "key": "Indotestudo_elongata",
+      "name_zh": "黃頭陸龜",
+      "acc": 0.9310344827586207,
+      "n": 29
+    },
+    {
+      "key": "Lophura_swinhoii",
+      "name_zh": "藍腹鷴",
+      "acc": 0.9310344827586207,
+      "n": 29
+    },
+    {
+      "key": "Entoria",
+      "name_zh": "長肛竹節蟲",
+      "acc": 0.9333333333333333,
+      "n": 15
+    },
+    {
+      "key": "Choloepus_didactylus",
+      "name_zh": "二趾樹獺",
+      "acc": 0.9333333333333333,
+      "n": 30
+    },
+    {
+      "key": "Macaca_cyclopis",
+      "name_zh": "臺灣獼猴",
+      "acc": 0.9333333333333333,
+      "n": 30
+    },
+    {
+      "key": "Spheniscus_demersus",
+      "name_zh": "黑腳企鵝",
+      "acc": 0.9333333333333333,
+      "n": 30
+    },
+    {
+      "key": "Crax_rubra",
+      "name_zh": "大寶冠鳥",
+      "acc": 0.9354838709677419,
+      "n": 31
+    },
+    {
+      "key": "Erythrocebus_patas",
+      "name_zh": "紅猴",
+      "acc": 0.9354838709677419,
+      "n": 31
+    },
+    {
+      "key": "Phascolarctos_cinereus",
+      "name_zh": "無尾熊",
+      "acc": 0.9354838709677419,
+      "n": 31
+    },
+    {
+      "key": "Eublaberus_distanti",
+      "name_zh": "六點金翼蟑螂",
+      "acc": 0.9375,
+      "n": 16
+    },
+    {
+      "key": "Oryx_beisa",
+      "name_zh": "東非劍羚",
+      "acc": 0.9375,
+      "n": 16
+    },
+    {
+      "key": "Dendrobates_tinctorius",
+      "name_zh": "鈷藍箭毒蛙",
+      "acc": 0.9375,
+      "n": 32
+    },
+    {
+      "key": "Equus_ferus",
+      "name_zh": "蒙古野馬",
+      "acc": 0.9375,
+      "n": 32
+    },
+    {
+      "key": "Varecia_variegata",
+      "name_zh": "白頸狐猴",
+      "acc": 0.9375,
+      "n": 32
+    },
+    {
+      "key": "Ara_chloropterus",
+      "name_zh": "綠翼金剛鸚鵡",
+      "acc": 0.9393939393939394,
+      "n": 33
+    },
+    {
+      "key": "Panthera_leo",
+      "name_zh": "非洲獅",
+      "acc": 0.9393939393939394,
+      "n": 33
+    },
+    {
+      "key": "Eclectus_roratus",
+      "name_zh": "折衷鸚鵡",
+      "acc": 0.9411764705882353,
+      "n": 17
+    },
+    {
+      "key": "Idea_leuconoe",
+      "name_zh": "黑點大白斑蝶",
+      "acc": 0.9411764705882353,
+      "n": 34
+    },
+    {
+      "key": "Iguana_iguana",
+      "name_zh": "綠鬣蜥",
+      "acc": 0.9411764705882353,
+      "n": 34
+    },
+    {
+      "key": "Pseudopus_apodus",
+      "name_zh": "歐洲蛇蜥",
+      "acc": 0.9428571428571428,
+      "n": 35
+    },
+    {
+      "key": "Hylarana_taipehensis",
+      "name_zh": "臺北赤蛙",
+      "acc": 0.9444444444444444,
+      "n": 18
+    },
+    {
+      "key": "Ailuropoda_melanoleuca",
+      "name_zh": "大貓熊",
+      "acc": 0.9444444444444444,
+      "n": 36
+    },
+    {
+      "key": "Danaus_chrysippus",
+      "name_zh": "樺斑蝶",
+      "acc": 0.9444444444444444,
+      "n": 36
+    },
+    {
+      "key": "Heteropteryx_dilatata",
+      "name_zh": "扁竹節蟲",
+      "acc": 0.9444444444444444,
+      "n": 36
+    },
+    {
+      "key": "Broadleysaurus_major",
+      "name_zh": "巨板蜥",
+      "acc": 0.9459459459459459,
+      "n": 37
+    },
+    {
+      "key": "Giraffa_reticulata",
+      "name_zh": "網紋長頸鹿",
+      "acc": 0.9459459459459459,
+      "n": 37
+    },
+    {
+      "key": "Odorrana_swinhoana",
+      "name_zh": "斯文豪氏赤蛙",
+      "acc": 0.9459459459459459,
+      "n": 37
+    },
+    {
+      "key": "Chalcides_ocellatus",
+      "name_zh": "眼斑銅蜥",
+      "acc": 0.95,
+      "n": 20
+    },
+    {
+      "key": "Grus_japonensis",
+      "name_zh": "丹頂鶴",
+      "acc": 0.9523809523809523,
+      "n": 21
+    },
+    {
+      "key": "Buceros_bicornis",
+      "name_zh": "雙角犀鳥",
+      "acc": 0.9545454545454546,
+      "n": 22
+    },
+    {
+      "key": "Cybister_tripunctatus",
+      "name_zh": "點刻三線大龍蝨",
+      "acc": 0.9545454545454546,
+      "n": 22
+    },
+    {
+      "key": "Laccotrephes_pfeiferiae",
+      "name_zh": "大紅娘華",
+      "acc": 0.9545454545454546,
+      "n": 22
+    },
+    {
+      "key": "Tauraco_violaceus",
+      "name_zh": "紫蕉鵑",
+      "acc": 0.9545454545454546,
+      "n": 22
+    },
+    {
+      "key": "Ideopsis_similis",
+      "name_zh": "琉球青斑蝶",
+      "acc": 0.9565217391304348,
+      "n": 23
+    },
+    {
+      "key": "Deinagkistrodon_acutus",
+      "name_zh": "百步蛇",
+      "acc": 0.96,
+      "n": 25
+    },
+    {
+      "key": "Goura_victoria",
+      "name_zh": "維多利亞冠鴿",
+      "acc": 0.96,
+      "n": 25
+    },
+    {
+      "key": "Manis_pentadactyla",
+      "name_zh": "臺灣穿山甲",
+      "acc": 0.96,
+      "n": 25
+    },
+    {
+      "key": "Potamotrygon",
+      "name_zh": "黑帝王魟",
+      "acc": 0.96,
+      "n": 25
+    },
+    {
+      "key": "Struthio_camelus",
+      "name_zh": "鴕鳥",
+      "acc": 0.96,
+      "n": 25
+    },
+    {
+      "key": "Aldabrachelys_gigantea",
+      "name_zh": "亞達伯拉象龜",
+      "acc": 0.9615384615384616,
+      "n": 26
+    },
+    {
+      "key": "Cebus_capucinus",
+      "name_zh": "白面捲尾猴",
+      "acc": 0.9615384615384616,
+      "n": 26
+    },
+    {
+      "key": "Scolopendra_mutilans",
+      "name_zh": "少棘蜈蚣",
+      "acc": 0.9615384615384616,
+      "n": 26
+    },
+    {
+      "key": "Tauraco_persa",
+      "name_zh": "綠絲冠僧帽鳥",
+      "acc": 0.9615384615384616,
+      "n": 26
+    },
+    {
+      "key": "Duttaphrynus_melanostictus",
+      "name_zh": "黑眶蟾蜍",
+      "acc": 0.9629629629629629,
+      "n": 27
+    },
+    {
+      "key": "Piaractus_brachypomus",
+      "name_zh": "短蓋肥脂鯉",
+      "acc": 0.9629629629629629,
+      "n": 27
+    },
+    {
+      "key": "Pachliopta_aristolochiae",
+      "name_zh": "紅紋鳳蝶",
+      "acc": 0.9642857142857143,
+      "n": 28
+    },
+    {
+      "key": "Astrochelys_radiata",
+      "name_zh": "射紋陸龜",
+      "acc": 0.9655172413793104,
+      "n": 29
+    },
+    {
+      "key": "Hebomoia_glaucippe",
+      "name_zh": "端紅蝶",
+      "acc": 0.9655172413793104,
+      "n": 29
+    },
+    {
+      "key": "Suricata_suricatta",
+      "name_zh": "狐獴",
+      "acc": 0.9655172413793104,
+      "n": 29
+    },
+    {
+      "key": "Argusianus_argus",
+      "name_zh": "青鸞",
+      "acc": 0.9666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Chalcophaps_indica",
+      "name_zh": "翠翼鳩",
+      "acc": 0.9666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Eudocimus_ruber",
+      "name_zh": "美洲紅鹮",
+      "acc": 0.9666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Goura_cristata",
+      "name_zh": "藍冠鴿",
+      "acc": 0.9666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Threskiornis_aethiopicus",
+      "name_zh": "埃及聖鹮",
+      "acc": 0.9666666666666667,
+      "n": 30
+    },
+    {
+      "key": "Testudo_horsfieldii",
+      "name_zh": "四爪陸龜",
+      "acc": 0.967741935483871,
+      "n": 31
+    },
+    {
+      "key": "Syrmaticus_mikado",
+      "name_zh": "黑長尾雉",
+      "acc": 0.96875,
+      "n": 32
+    },
+    {
+      "key": "Athyma_selenophora",
+      "name_zh": "小單帶蛺蝶",
+      "acc": 0.9696969696969697,
+      "n": 33
+    },
+    {
+      "key": "Chrysolophus_pictus",
+      "name_zh": "金雞",
+      "acc": 0.9696969696969697,
+      "n": 33
+    },
+    {
+      "key": "Gallinula_chloropus",
+      "name_zh": "紅冠水雞",
+      "acc": 0.9696969696969697,
+      "n": 33
+    },
+    {
+      "key": "Grus_monacha",
+      "name_zh": "白頭鶴",
+      "acc": 0.9696969696969697,
+      "n": 33
+    },
+    {
+      "key": "Lemur_catta",
+      "name_zh": "環尾狐猴",
+      "acc": 0.9696969696969697,
+      "n": 33
+    },
+    {
+      "key": "Aptenodytes_patagonicus",
+      "name_zh": "國王企鵝",
+      "acc": 0.9714285714285714,
+      "n": 35
+    },
+    {
+      "key": "Ceratotherium_simum",
+      "name_zh": "白犀牛",
+      "acc": 0.9714285714285714,
+      "n": 35
+    },
+    {
+      "key": "Dendrobates_leucomelas",
+      "name_zh": "黃帶箭毒蛙",
+      "acc": 0.9714285714285714,
+      "n": 35
+    },
+    {
+      "key": "Heterodon_nasicus",
+      "name_zh": "西部豬鼻蛇",
+      "acc": 0.9714285714285714,
+      "n": 35
+    },
+    {
+      "key": "Gekko_gecko",
+      "name_zh": "大壁虎",
+      "acc": 0.972972972972973,
+      "n": 37
+    },
+    {
+      "key": "Gryllus_bimaculatus",
+      "name_zh": "黃斑黑蟋蟀",
+      "acc": 0.972972972972973,
+      "n": 37
+    },
+    {
+      "key": "Osteoglossum_bicirrhosum",
+      "name_zh": "雙鬚骨舌魚",
+      "acc": 0.9736842105263158,
+      "n": 38
+    },
+    {
+      "key": "Camponotus_irritans",
+      "name_zh": "高雄巨山蟻",
+      "acc": 1.0,
+      "n": 2
+    },
+    {
+      "key": "Chalceus_macrolepidotus",
+      "name_zh": "大鱗脂鯉",
+      "acc": 1.0,
+      "n": 2
+    },
+    {
+      "key": "Geochelone_platynota",
+      "name_zh": "緬甸星龜",
+      "acc": 1.0,
+      "n": 2
+    },
+    {
+      "key": "Phyllophorina_kotoshoensis",
+      "name_zh": "蘭嶼大葉螽斯",
+      "acc": 1.0,
+      "n": 2
+    },
+    {
+      "key": "Trachythorax_sexpunctatus",
+      "name_zh": "六點瘤胸竹節蟲",
+      "acc": 1.0,
+      "n": 3
+    },
+    {
+      "key": "Cheirogaleus_medius",
+      "name_zh": "粗尾侏儒狐猴",
+      "acc": 1.0,
+      "n": 4
+    },
+    {
+      "key": "Diplonychus_rusticus",
+      "name_zh": "褐負蝽",
+      "acc": 1.0,
+      "n": 4
+    },
+    {
+      "key": "Pulchriphyllium_giganteum",
+      "name_zh": "巨人葉脩",
+      "acc": 1.0,
+      "n": 4
+    },
+    {
+      "key": "Xanthonycticebus_pygmaeus",
+      "name_zh": "小懶猴",
+      "acc": 1.0,
+      "n": 5
+    },
+    {
+      "key": "Pachyrhynchus_sarcitis",
+      "name_zh": "大圓斑球背象鼻蟲",
+      "acc": 1.0,
+      "n": 6
+    },
+    {
+      "key": "Dorcus_schenklingi",
+      "name_zh": "長角大鍬形蟲",
+      "acc": 1.0,
+      "n": 7
+    },
+    {
+      "key": "Brachypelma_smithi",
+      "name_zh": "墨西哥紅膝頭蜘蛛",
+      "acc": 1.0,
+      "n": 8
+    },
+    {
+      "key": "Megacrania_tsudai",
+      "name_zh": "津田氏大頭竹節蟲",
+      "acc": 1.0,
+      "n": 9
+    },
+    {
+      "key": "Corucia_zebrata",
+      "name_zh": "猴尾蜥",
+      "acc": 1.0,
+      "n": 10
+    },
+    {
+      "key": "Chinchilla_laniger",
+      "name_zh": "絨鼠",
+      "acc": 1.0,
+      "n": 11
+    },
+    {
+      "key": "Pandinus_imperator",
+      "name_zh": "帝王蠍",
+      "acc": 1.0,
+      "n": 13
+    },
+    {
+      "key": "Cygnus_melancoryphus",
+      "name_zh": "黑頸天鵝",
+      "acc": 1.0,
+      "n": 19
+    },
+    {
+      "key": "Phyllobates_terribilis",
+      "name_zh": "金色箭毒蛙",
+      "acc": 1.0,
+      "n": 20
+    },
+    {
+      "key": "Crocuta_crocuta",
+      "name_zh": "斑點鬣狗",
+      "acc": 1.0,
+      "n": 22
+    },
+    {
+      "key": "Carettochelys_insculpta",
+      "name_zh": "豬鼻龜",
+      "acc": 1.0,
+      "n": 25
+    },
+    {
+      "key": "Papilio_agenor",
+      "name_zh": "大鳳蝶",
+      "acc": 1.0,
+      "n": 26
+    },
+    {
+      "key": "Tragelaphus_eurycerus",
+      "name_zh": "山地斑哥條紋羚",
+      "acc": 1.0,
+      "n": 27
+    },
+    {
+      "key": "Addax_nasomaculatus",
+      "name_zh": "弓角羚羊",
+      "acc": 1.0,
+      "n": 28
+    },
+    {
+      "key": "Danaus_genutia",
+      "name_zh": "黑脈樺斑蝶",
+      "acc": 1.0,
+      "n": 28
+    },
+    {
+      "key": "Otus_bakkamoena",
+      "name_zh": "領角鴞",
+      "acc": 1.0,
+      "n": 29
+    },
+    {
+      "key": "Bambusicola_thoracicus",
+      "name_zh": "竹雞",
+      "acc": 1.0,
+      "n": 30
+    },
+    {
+      "key": "Casuarius_casuarius",
+      "name_zh": "南方食火雞",
+      "acc": 1.0,
+      "n": 30
+    },
+    {
+      "key": "Lama_pacos",
+      "name_zh": "羊駝",
+      "acc": 1.0,
+      "n": 30
+    },
+    {
+      "key": "Neurothemis_ramburii",
+      "name_zh": "善變蜻蜓",
+      "acc": 1.0,
+      "n": 30
+    },
+    {
+      "key": "Trachemys_scripta",
+      "name_zh": "赤耳龜",
+      "acc": 1.0,
+      "n": 30
+    },
+    {
+      "key": "Crocothemis_servilia",
+      "name_zh": "猩紅蜻蜓",
+      "acc": 1.0,
+      "n": 31
+    },
+    {
+      "key": "Camelus_bactrianus",
+      "name_zh": "雙峰駱駝",
+      "acc": 1.0,
+      "n": 32
+    },
+    {
+      "key": "Heloderma_suspectum",
+      "name_zh": "鈍尾毒蜥",
+      "acc": 1.0,
+      "n": 35
+    },
+    {
+      "key": "Chitoria_chrysolora",
+      "name_zh": "台灣小紫蛺蝶",
+      "acc": 1.0,
+      "n": 37
+    }
+  ],
+  "confusions": [
+    {
+      "true": "大頭家蟻",
+      "pred": "堅硬雙針家蟻",
+      "count": 8
+    },
+    {
+      "true": "小爪水獺",
+      "pred": "歐亞水獺",
+      "count": 7
+    },
+    {
+      "true": "智利紅鶴",
+      "pred": "大紅鶴",
+      "count": 7
+    },
+    {
+      "true": "綠野雞",
+      "pred": "折衷鸚鵡",
+      "count": 5
+    },
+    {
+      "true": "鼬獾",
+      "pred": "白鼻心",
+      "count": 5
+    },
+    {
+      "true": "黃頸亞馬遜鸚鵡",
+      "pred": "藍額亞馬遜鸚鵡",
+      "count": 4
+    },
+    {
+      "true": "麻斑晏蜓",
+      "pred": "晏蜓水蠆",
+      "count": 4
+    },
+    {
+      "true": "赤頸鶴",
+      "pred": "白枕鶴",
+      "count": 4
+    },
+    {
+      "true": "斑龜",
+      "pred": "赤耳龜",
+      "count": 4
+    },
+    {
+      "true": "堅硬雙針家蟻",
+      "pred": "大頭家蟻",
+      "count": 4
+    },
+    {
+      "true": "白尾八哥",
+      "pred": "家八哥",
+      "count": 3
+    },
+    {
+      "true": "晏蜓水蠆",
+      "pred": "麻斑晏蜓",
+      "count": 3
+    }
+  ],
+  "by_group": {
+    "硬骨魚綱": {
+      "acc": 0.9251700680272109,
+      "n": 147
+    },
+    "鳥綱": {
+      "acc": 0.8807129798903108,
+      "n": 2188
+    },
+    "哺乳綱": {
+      "acc": 0.85675430643699,
+      "n": 2206
+    },
+    "昆蟲綱": {
+      "acc": 0.9085714285714286,
+      "n": 875
+    },
+    "爬蟲綱": {
+      "acc": 0.895645028759244,
+      "n": 1217
+    },
+    "蛛形綱": {
+      "acc": 1.0,
+      "n": 21
+    },
+    "兩棲綱": {
+      "acc": 0.944206008583691,
+      "n": 233
+    },
+    "軟骨魚綱": {
+      "acc": 0.96,
+      "n": 25
+    },
+    "唇足綱": {
+      "acc": 0.9615384615384616,
+      "n": 26
+    }
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "n": 682,
+  "top1": 0.8914956011730205,
+  "top5": 0.9574780058651027,
+  "classes": 246,
+  "coverage_at_threshold": 0.9296187683284457,
+  "accuracy_when_recognized": 0.9479495268138801,
+  "threshold": 0.45,
+  "wrong": [
+    {
+      "file": "Equus_asinus/commons_2.jpg",
+      "true": "家驢",
+      "pred": "非洲野驢",
+      "conf": 0.9372
+    },
+    {
+      "file": "Goura_cristata/commons_1.jpg",
+      "true": "藍冠鴿",
+      "pred": "維多利亞冠鴿",
+      "conf": 0.9372
+    },
+    {
+      "file": "Cacatua_sulphurea/commons_1.jpg",
+      "true": "小葵花鳳頭鸚鵡",
+      "pred": "葵花鳳頭鸚鵡",
+      "conf": 0.8679
+    },
+    {
+      "file": "Dendrobates_leucomelas/commons_2.jpg",
+      "true": "黃帶箭毒蛙",
+      "pred": "迷彩箭毒蛙",
+      "conf": 0.7865
+    },
+    {
+      "file": "Broadleysaurus_major/commons_2.jpg",
+      "true": "巨板蜥",
+      "pred": "臺灣錦蛇",
+      "conf": 0.764
+    },
+    {
+      "file": "Chelonoidis_carbonarius/commons_2.jpg",
+      "true": "紅腿象龜",
+      "pred": "黃腿象龜",
+      "conf": 0.7299
+    },
+    {
+      "file": "Chalceus_macrolepidotus/commons_2.jpg",
+      "true": "大鱗脂鯉",
+      "pred": "西德藍寶石",
+      "conf": 0.6994
+    },
+    {
+      "file": "Geochelone_platynota/commons_2.jpg",
+      "true": "緬甸星龜",
+      "pred": "印度星龜",
+      "conf": 0.6923
+    },
+    {
+      "file": "Choeropsis_liberiensis/commons_0.jpg",
+      "true": "侏儒河馬",
+      "pred": "河馬",
+      "conf": 0.6761
+    },
+    {
+      "file": "Balearica_regulorum/commons_1.jpg",
+      "true": "灰頸冠鶴",
+      "pred": "黑頸冠鶴",
+      "conf": 0.6757
+    },
+    {
+      "file": "Mauremys_mutica/commons_0.jpg",
+      "true": "柴棺龜",
+      "pred": "豬鼻龜",
+      "conf": 0.6504
+    },
+    {
+      "file": "Cacatua_sulphurea/commons_0.jpg",
+      "true": "小葵花鳳頭鸚鵡",
+      "pred": "葵花鳳頭鸚鵡",
+      "conf": 0.6315
+    },
+    {
+      "file": "Elaphe_taeniura/commons_2.jpg",
+      "true": "臺灣錦蛇",
+      "pred": "加州王蛇",
+      "conf": 0.6296
+    },
+    {
+      "file": "Aotus_azarae/commons_1.jpg",
+      "true": "阿氏夜猴",
+      "pred": "黑冠松鼠猴",
+      "conf": 0.622
+    },
+    {
+      "file": "Pristomyrmex_punctatus/commons_0.jpg",
+      "true": "堅硬雙針家蟻",
+      "pred": "大頭家蟻",
+      "conf": 0.6124
+    },
+    {
+      "file": "Heterodon_nasicus/commons_2.jpg",
+      "true": "西部豬鼻蛇",
+      "pred": "眼鏡蛇",
+      "conf": 0.6043
+    },
+    {
+      "file": "Amazona_auropalliata/commons_1.jpg",
+      "true": "黃頸亞馬遜鸚鵡",
+      "pred": "藍額亞馬遜鸚鵡",
+      "conf": 0.5988
+    },
+    {
+      "file": "Equus_africanus/commons_0.jpg",
+      "true": "非洲野驢",
+      "pred": "家驢",
+      "conf": 0.5802
+    },
+    {
+      "file": "Symphalangus_syndactylus/commons_0.jpg",
+      "true": "大長臂猿",
+      "pred": "白頸狐猴",
+      "conf": 0.5756
+    },
+    {
+      "file": "Sus_scrofa/commons_1.jpg",
+      "true": "蘭嶼豬／臺灣野豬",
+      "pred": "黑長尾雉",
+      "conf": 0.5672
+    },
+    {
+      "file": "Geochelone_platynota/commons_1.jpg",
+      "true": "緬甸星龜",
+      "pred": "射紋陸龜",
+      "conf": 0.5531
+    },
+    {
+      "file": "Aldabrachelys_gigantea/commons_2.jpg",
+      "true": "亞達伯拉象龜",
+      "pred": "蘇卡達象龜",
+      "conf": 0.5456
+    },
+    {
+      "file": "Acridotheres_javanicus/commons_2.jpg",
+      "true": "白尾八哥",
+      "pred": "家八哥",
+      "conf": 0.5404
+    },
+    {
+      "file": "Mauremys_sinensis/commons_1.jpg",
+      "true": "斑龜",
+      "pred": "柴棺龜",
+      "conf": 0.5254
+    },
+    {
+      "file": "Ateles_hybridus/commons_1.jpg",
+      "true": "棕蜘蛛猴",
+      "pred": "黑掌蜘蛛猴",
+      "conf": 0.5219
+    },
+    {
+      "file": "Acarichthys_heckelii/commons_1.jpg",
+      "true": "赫氏萎鰓麗魚",
+      "pred": "短蓋肥脂鯉",
+      "conf": 0.5144
+    },
+    {
+      "file": "Ateles_fusciceps/commons_0.jpg",
+      "true": "棕頭蜘蛛猴",
+      "pred": "大長臂猿",
+      "conf": 0.5081
+    },
+    {
+      "file": "Phoenicopterus_chilensis/commons_1.jpg",
+      "true": "智利紅鶴",
+      "pred": "大紅鶴",
+      "conf": 0.506
+    },
+    {
+      "file": "Balearica_pavonina/commons_2.jpg",
+      "true": "黑頸冠鶴",
+      "pred": "灰頸冠鶴",
+      "conf": 0.4897
+    },
+    {
+      "file": "Danaus_chrysippus/commons_1.jpg",
+      "true": "樺斑蝶",
+      "pred": "淡小紋青斑蝶",
+      "conf": 0.4896
+    },
+    {
+      "file": "Urva_urva/commons_1.jpg",
+      "true": "食蟹獴",
+      "pred": "水豚",
+      "conf": 0.4767
+    },
+    {
+      "file": "Mauremys_sinensis/commons_2.jpg",
+      "true": "斑龜",
+      "pred": "黃腿象龜",
+      "conf": 0.4678
+    },
+    {
+      "file": "Ateles_fusciceps/commons_1.jpg",
+      "true": "棕頭蜘蛛猴",
+      "pred": "黑猩猩",
+      "conf": 0.4542
+    },
+    {
+      "file": "Tirumala_limniace/commons_1.jpg",
+      "true": "淡小紋青斑蝶",
+      "pred": "樺斑蝶",
+      "conf": 0.4402
+    },
+    {
+      "file": "Ateles_hybridus/commons_2.jpg",
+      "true": "棕蜘蛛猴",
+      "pred": "婆羅洲人猿",
+      "conf": 0.4309
+    },
+    {
+      "file": "Phobaeticus_serratipes/commons_0.jpg",
+      "true": "尖刺足刺竹節蟲",
+      "pred": "長肛竹節蟲",
+      "conf": 0.418
+    },
+    {
+      "file": "Geochelone_elegans/commons_0.jpg",
+      "true": "印度星龜",
+      "pred": "緬甸星龜",
+      "conf": 0.4162
+    },
+    {
+      "file": "Python_bivittatus/commons_1.jpg",
+      "true": "緬甸岩蟒",
+      "pred": "韃靼沙蚺",
+      "conf": 0.4097
+    },
+    {
+      "file": "Python_bivittatus/commons_0.jpg",
+      "true": "緬甸岩蟒",
+      "pred": "眼斑銅蜥",
+      "conf": 0.4026
+    },
+    {
+      "file": "Gryllus_bimaculatus/commons_0.jpg",
+      "true": "黃斑黑蟋蟀",
+      "pred": "帝王蠍",
+      "conf": 0.3955
+    },
+    {
+      "file": "Phobaeticus_serratipes/commons_2.jpg",
+      "true": "尖刺足刺竹節蟲",
+      "pred": "長肛竹節蟲",
+      "conf": 0.3893
+    },
+    {
+      "file": "Cuora_flavomarginata/commons_1.jpg",
+      "true": "食蛇龜",
+      "pred": "柴棺龜",
+      "conf": 0.3886
+    },
+    {
+      "file": "Entoria/commons_2.jpg",
+      "true": "長肛竹節蟲",
+      "pred": "無尾鳳蝶",
+      "conf": 0.3485
+    },
+    {
+      "file": "Chrysolophus_pictus/commons_2.jpg",
+      "true": "金雞",
+      "pred": "四爪陸龜",
+      "conf": 0.321
+    },
+    {
+      "file": "Phobaeticus_serratipes/commons_1.jpg",
+      "true": "尖刺足刺竹節蟲",
+      "pred": "長肛竹節蟲",
+      "conf": 0.3118
+    },
+    {
+      "file": "Grus_virgo/commons_1.jpg",
+      "true": "簑羽鶴",
+      "pred": "白鵜鶘",
+      "conf": 0.2826
+    },
+    {
+      "file": "Deinagkistrodon_acutus/commons_2.jpg",
+      "true": "百步蛇",
+      "pred": "網紋蟒",
+      "conf": 0.2802
+    },
+    {
+      "file": "Urva_urva/commons_0.jpg",
+      "true": "食蟹獴",
+      "pred": "單峰駱駝",
+      "conf": 0.2446
+    },
+    {
+      "file": "Entoria/commons_1.jpg",
+      "true": "長肛竹節蟲",
+      "pred": "苧麻珍蝶(細蝶)",
+      "conf": 0.2233
+    },
+    {
+      "file": "Melogale_subaurantiaca/commons_2.jpg",
+      "true": "鼬獾",
+      "pred": "長鼻浣熊",
+      "conf": 0.2172
+    },
+    {
+      "file": "Entoria/commons_0.jpg",
+      "true": "長肛竹節蟲",
+      "pred": "苧麻珍蝶(細蝶)",
+      "conf": 0.2128
+    },
+    {
+      "file": "Macaca_cyclopis/commons_1.jpg",
+      "true": "臺灣獼猴",
+      "pred": "巨嘴鴉",
+      "conf": 0.2094
+    },
+    {
+      "file": "Castor_canadensis/commons_1.jpg",
+      "true": "加拿大河狸",
+      "pred": "臺灣山羌",
+      "conf": 0.209
+    },
+    {
+      "file": "Mauremys_mutica/commons_2.jpg",
+      "true": "柴棺龜",
+      "pred": "卡羅萊納箱龜",
+      "conf": 0.178
+    },
+    {
+      "file": "Melogale_subaurantiaca/commons_0.jpg",
+      "true": "鼬獾",
+      "pred": "長鼻浣熊",
+      "conf": 0.1649
+    },
+    {
+      "file": "Myrmecophaga_tridactyla/commons_1.jpg",
+      "true": "大食蟻獸",
+      "pred": "查普曼斑馬",
+      "conf": 0.1512
+    },
+    {
+      "file": "Ara_chloropterus/commons_2.jpg",
+      "true": "綠翼金剛鸚鵡",
+      "pred": "栗鳶",
+      "conf": 0.1332
+    },
+    {
+      "file": "Equus_ferus/commons_1.jpg",
+      "true": "蒙古野馬",
+      "pred": "澳洲冠鳩",
+      "conf": 0.132
+    },
+    {
+      "file": "Struthio_camelus/commons_2.jpg",
+      "true": "鴕鳥",
+      "pred": "少棘蜈蚣",
+      "conf": 0.1252
+    },
+    {
+      "file": "Cygnus_melancoryphus/commons_2.jpg",
+      "true": "黑頸天鵝",
+      "pred": "四爪陸龜",
+      "conf": 0.1117
+    },
+    {
+      "file": "Pulchriphyllium_giganteum/commons_1.jpg",
+      "true": "巨人葉脩",
+      "pred": "臺灣騷斯",
+      "conf": 0.1071
+    },
+    {
+      "file": "Cacatua_alba/commons_0.jpg",
+      "true": "白鳳頭鸚鵡",
+      "pred": "四爪陸龜",
+      "conf": 0.1062
+    },
+    {
+      "file": "Tauraco_violaceus/commons_1.jpg",
+      "true": "紫蕉鵑",
+      "pred": "翠翼鳩",
+      "conf": 0.1045
+    },
+    {
+      "file": "Ara_ararauna/commons_2.jpg",
+      "true": "黃腹藍琉璃金剛鸚鵡",
+      "pred": "大頭家蟻",
+      "conf": 0.1005
+    },
+    {
+      "file": "Pheidole/commons_1.jpg",
+      "true": "大頭家蟻",
+      "pred": "褐負蝽",
+      "conf": 0.0956
+    },
+    {
+      "file": "Amazona_oratrix/commons_2.jpg",
+      "true": "黃頭亞馬遜鸚鵡",
+      "pred": "黑脈樺斑蝶",
+      "conf": 0.093
+    },
+    {
+      "file": "Eclectus_roratus/commons_1.jpg",
+      "true": "折衷鸚鵡",
+      "pred": "四爪陸龜",
+      "conf": 0.0854
+    },
+    {
+      "file": "Lutra_lutra/commons_1.jpg",
+      "true": "歐亞水獺",
+      "pred": "歐亞大山貓",
+      "conf": 0.0812
+    },
+    {
+      "file": "Pelecanus_rufescens/commons_1.jpg",
+      "true": "粉紅背鵜鶘",
+      "pred": "大頭家蟻",
+      "conf": 0.0794
+    },
+    {
+      "file": "Lophura_swinhoii/commons_2.jpg",
+      "true": "藍腹鷴",
+      "pred": "南美小食蟻獸",
+      "conf": 0.0777
+    },
+    {
+      "file": "Casuarius_casuarius/commons_2.jpg",
+      "true": "南方食火雞",
+      "pred": "藍額亞馬遜鸚鵡",
+      "conf": 0.0638
+    },
+    {
+      "file": "Amazona_aestiva/commons_2.jpg",
+      "true": "藍額亞馬遜鸚鵡",
+      "pred": "馬來熊",
+      "conf": 0.0596
+    },
+    {
+      "file": "Pheidole/commons_0.jpg",
+      "true": "大頭家蟻",
+      "pred": "小葵花鳳頭鸚鵡",
+      "conf": 0.0511
+    },
+    {
+      "file": "Syrmaticus_mikado/commons_1.jpg",
+      "true": "黑長尾雉",
+      "pred": "紅冠水雞",
+      "conf": 0.042
+    }
+  ]
+}

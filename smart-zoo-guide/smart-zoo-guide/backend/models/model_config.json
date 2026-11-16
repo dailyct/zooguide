@@ -1,0 +1,15 @@
+{
+  "input_size": 224,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "model_name": "convnext_tiny.fb_in22k_ft_in1k",
+  "num_classes": 261
+}

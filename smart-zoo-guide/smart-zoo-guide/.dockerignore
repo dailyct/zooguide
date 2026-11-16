@@ -1,0 +1,4 @@
+zoo_ai/
+.git/
+**/__pycache__/
+.venv/

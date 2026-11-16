@@ -1,0 +1,8062 @@
+{
+  "classes": [
+    {
+      "inat_taxon_id": 342480,
+      "scientific_name": "Acarichthys heckelii",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 78,
+      "zoo_names_zh": [
+        "赫氏萎鰓麗魚"
+      ],
+      "zoo_names_en": [
+        "Threadfin Acara"
+      ],
+      "zoo_latin_original": [
+        "Acarichthys heckelii"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        48
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "",
+      "gbif_key": 2371393,
+      "key": "Acarichthys_heckelii",
+      "display_name_zh": "赫氏萎鰓麗魚"
+    },
+    {
+      "inat_taxon_id": 145095,
+      "scientific_name": "Acridotheres javanicus",
+      "rank": "species",
+      "inat_common_name": "白尾八哥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 17793,
+      "zoo_names_zh": [
+        "白尾八哥"
+      ],
+      "zoo_names_en": [
+        "White-vented Myna"
+      ],
+      "zoo_latin_original": [
+        "Acridotheres javanicus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        208
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5845375,
+      "key": "Acridotheres_javanicus",
+      "display_name_zh": "白尾八哥"
+    },
+    {
+      "inat_taxon_id": 204454,
+      "scientific_name": "Acridotheres tristis",
+      "rank": "species",
+      "inat_common_name": "家八哥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 73774,
+      "zoo_names_zh": [
+        "家八哥"
+      ],
+      "zoo_names_en": [
+        "Common Myna"
+      ],
+      "zoo_latin_original": [
+        "Acridotheres tristis"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        232
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2489005,
+      "key": "Acridotheres_tristis",
+      "display_name_zh": "家八哥"
+    },
+    {
+      "inat_taxon_id": 42395,
+      "scientific_name": "Addax nasomaculatus",
+      "rank": "species",
+      "inat_common_name": "旋角羚",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 545,
+      "zoo_names_zh": [
+        "弓角羚羊"
+      ],
+      "zoo_names_en": [
+        "Addax"
+      ],
+      "zoo_latin_original": [
+        "Addax nasomaculatus"
+      ],
+      "locations": [
+        "沙漠動物區"
+      ],
+      "zoo_record_ids": [
+        4
+      ],
+      "lat": "24.9952",
+      "lng": "121.5853",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 2441101,
+      "key": "Addax_nasomaculatus",
+      "display_name_zh": "弓角羚羊"
+    },
+    {
+      "inat_taxon_id": 51469,
+      "scientific_name": "Aeshnidae",
+      "rank": "family",
+      "inat_common_name": "晏蜓科",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 375294,
+      "zoo_names_zh": [
+        "晏蜓水蠆"
+      ],
+      "zoo_names_en": [
+        "Dragonfly Nymphs Aeshnidae"
+      ],
+      "zoo_latin_original": [
+        "Aeshnidae"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        131
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 4209,
+      "key": "Aeshnidae",
+      "display_name_zh": "晏蜓水蠆"
+    },
+    {
+      "inat_taxon_id": 41659,
+      "scientific_name": "Ailuropoda melanoleuca",
+      "rank": "species",
+      "inat_common_name": "大熊貓",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1541,
+      "zoo_names_zh": [
+        "大貓熊"
+      ],
+      "zoo_names_en": [
+        "Giant Panda"
+      ],
+      "zoo_latin_original": [
+        "Ailuropoda melanoleuca"
+      ],
+      "locations": [
+        "新光特展館（大貓熊館）"
+      ],
+      "zoo_record_ids": [
+        1
+      ],
+      "lat": "24.9971",
+      "lng": "121.5832",
+      "class_zh": "哺乳綱",
+      "conservation": "易危(VU)",
+      "gbif_key": 2433399,
+      "key": "Ailuropoda_melanoleuca",
+      "display_name_zh": "大貓熊"
+    },
+    {
+      "inat_taxon_id": 41653,
+      "scientific_name": "Ailurus fulgens",
+      "rank": "species",
+      "inat_common_name": "小貓熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2339,
+      "zoo_names_zh": [
+        "小貓熊"
+      ],
+      "zoo_names_en": [
+        "Red Panda;Lesser Panda"
+      ],
+      "zoo_latin_original": [
+        "Ailurus fulgens"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        276
+      ],
+      "lat": "24.9925",
+      "lng": "121.5906",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5219446,
+      "key": "Ailurus_fulgens",
+      "display_name_zh": "小貓熊"
+    },
+    {
+      "inat_taxon_id": 7106,
+      "scientific_name": "Aix galericulata",
+      "rank": "species",
+      "inat_common_name": "鴛鴦",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 28470,
+      "zoo_names_zh": [
+        "鴛鴦"
+      ],
+      "zoo_names_en": [
+        "Mandarin Duck"
+      ],
+      "zoo_latin_original": [
+        "Aix galericulata"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        265
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2498388,
+      "key": "Aix_galericulata",
+      "display_name_zh": "鴛鴦"
+    },
+    {
+      "inat_taxon_id": 7107,
+      "scientific_name": "Aix sponsa",
+      "rank": "species",
+      "inat_common_name": "林鴛鴦",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 127652,
+      "zoo_names_zh": [
+        "美洲木鴨"
+      ],
+      "zoo_names_en": [
+        "American Wood Duck"
+      ],
+      "zoo_latin_original": [
+        "Aix sponsa"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        229
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2498387,
+      "key": "Aix_sponsa",
+      "display_name_zh": "美洲木鴨"
+    },
+    {
+      "inat_taxon_id": 539233,
+      "scientific_name": "Aldabrachelys gigantea",
+      "rank": "species",
+      "inat_common_name": "亞達伯拉象龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1987,
+      "zoo_names_zh": [
+        "亞達伯拉象龜"
+      ],
+      "zoo_names_en": [
+        "Aldabra Giant Tortoise"
+      ],
+      "zoo_latin_original": [
+        "Geochelone gigantea"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        95
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 7696021,
+      "key": "Aldabrachelys_gigantea",
+      "display_name_zh": "亞達伯拉象龜"
+    },
+    {
+      "inat_taxon_id": 26156,
+      "scientific_name": "Alligator sinensis",
+      "rank": "species",
+      "inat_common_name": "揚子鱷",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 310,
+      "zoo_names_zh": [
+        "揚子鱷"
+      ],
+      "zoo_names_en": [
+        "Chinese alligator"
+      ],
+      "zoo_latin_original": [
+        "Alligator sinensus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        121,
+        122,
+        123
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "極危CR",
+      "gbif_key": 2441368,
+      "key": "Alligator_sinensis",
+      "display_name_zh": "揚子鱷"
+    },
+    {
+      "inat_taxon_id": 72486,
+      "scientific_name": "Alopochen aegyptiaca",
+      "rank": "species",
+      "inat_common_name": "埃及雁",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 94911,
+      "zoo_names_zh": [
+        "埃及雁"
+      ],
+      "zoo_names_en": [
+        "Egyptian Goose"
+      ],
+      "zoo_latin_original": [
+        "Alopochen aegyptiacus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        230
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2498252,
+      "key": "Alopochen_aegyptiaca",
+      "display_name_zh": "埃及雁"
+    },
+    {
+      "inat_taxon_id": 18978,
+      "scientific_name": "Amazona aestiva",
+      "rank": "species",
+      "inat_common_name": "青綠頂鸚哥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 4587,
+      "zoo_names_zh": [
+        "藍額亞馬遜鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Blue-fronted Amazon"
+      ],
+      "zoo_latin_original": [
+        "Amazona aestiva"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        273
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2479662,
+      "key": "Amazona_aestiva",
+      "display_name_zh": "藍額亞馬遜鸚鵡"
+    },
+    {
+      "inat_taxon_id": 18984,
+      "scientific_name": "Amazona auropalliata",
+      "rank": "species",
+      "inat_common_name": "黃頸亞馬遜鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1571,
+      "zoo_names_zh": [
+        "黃頸亞馬遜鸚鵡"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Amazona auropalliata"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        242
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2479631,
+      "key": "Amazona_auropalliata",
+      "display_name_zh": "黃頸亞馬遜鸚鵡"
+    },
+    {
+      "inat_taxon_id": 18998,
+      "scientific_name": "Amazona oratrix",
+      "rank": "species",
+      "inat_common_name": "雙黃頭亞馬遜鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 3742,
+      "zoo_names_zh": [
+        "黃頭亞馬遜鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Yellow-headed Amazon"
+      ],
+      "zoo_latin_original": [
+        "Amazona oratrix"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        241
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2479646,
+      "key": "Amazona_oratrix",
+      "display_name_zh": "黃頭亞馬遜鸚鵡"
+    },
+    {
+      "inat_taxon_id": 42422,
+      "scientific_name": "Ammotragus lervia",
+      "rank": "species",
+      "inat_common_name": "北非髯羊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2489,
+      "zoo_names_zh": [
+        "北非髯羊"
+      ],
+      "zoo_names_en": [
+        "Barbary Sheep / Aoudad"
+      ],
+      "zoo_latin_original": [
+        "Ammotragus lervia"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        174
+      ],
+      "lat": "24.9938",
+      "lng": "121.5879",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2441005,
+      "key": "Ammotragus_lervia",
+      "display_name_zh": "北非髯羊"
+    },
+    {
+      "inat_taxon_id": 6930,
+      "scientific_name": "Anas platyrhynchos",
+      "rank": "species",
+      "inat_common_name": "綠頭鴨",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 990493,
+      "zoo_names_zh": [
+        "綠頭鴨"
+      ],
+      "zoo_names_en": [
+        "Mallard"
+      ],
+      "zoo_latin_original": [
+        "Anas platyrhynchos"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        255
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 9761484,
+      "key": "Anas_platyrhynchos",
+      "display_name_zh": "綠頭鴨"
+    },
+    {
+      "inat_taxon_id": 94047,
+      "scientific_name": "Anax panybeus",
+      "rank": "species",
+      "inat_common_name": "麻斑晏蜓",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 613,
+      "zoo_names_zh": [
+        "麻斑晏蜓"
+      ],
+      "zoo_names_en": [
+        "Common Emperor"
+      ],
+      "zoo_latin_original": [
+        "Anax panybeus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        171
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "極危 CR",
+      "gbif_key": 5051760,
+      "key": "Anax_panybeus",
+      "display_name_zh": "麻斑晏蜓"
+    },
+    {
+      "inat_taxon_id": 508056,
+      "scientific_name": "Antigone antigone",
+      "rank": "species",
+      "inat_common_name": "赤頸鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1687,
+      "zoo_names_zh": [
+        "赤頸鶴"
+      ],
+      "zoo_names_en": [
+        "Sarus Crane"
+      ],
+      "zoo_latin_original": [
+        "Grus antigone"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        220
+      ],
+      "lat": "24.9952",
+      "lng": "121.5911",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 9606460,
+      "key": "Antigone_antigone",
+      "display_name_zh": "赤頸鶴"
+    },
+    {
+      "inat_taxon_id": 508057,
+      "scientific_name": "Antigone vipio",
+      "rank": "species",
+      "inat_common_name": "白枕鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1528,
+      "zoo_names_zh": [
+        "白枕鶴"
+      ],
+      "zoo_names_en": [
+        "White-naped Crane"
+      ],
+      "zoo_latin_original": [
+        "Grus vipio"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        209
+      ],
+      "lat": "24.9952",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 9473367,
+      "key": "Antigone_vipio",
+      "display_name_zh": "白枕鶴"
+    },
+    {
+      "inat_taxon_id": 74066,
+      "scientific_name": "Aotus azarae",
+      "rank": "species",
+      "inat_common_name": "阿氏夜猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 268,
+      "zoo_names_zh": [
+        "阿氏夜猴"
+      ],
+      "zoo_names_en": [
+        "Azara’s Night Monkey"
+      ],
+      "zoo_latin_original": [
+        "Aotus azarae"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        35
+      ],
+      "lat": "24.9959",
+      "lng": "121.5833",
+      "class_zh": "哺乳綱",
+      "conservation": "無危 LC",
+      "gbif_key": 5707409,
+      "key": "Aotus_azarae",
+      "display_name_zh": "阿氏夜猴"
+    },
+    {
+      "inat_taxon_id": 3821,
+      "scientific_name": "Aptenodytes patagonicus",
+      "rank": "species",
+      "inat_common_name": "國王企鵝",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 3193,
+      "zoo_names_zh": [
+        "國王企鵝"
+      ],
+      "zoo_names_en": [
+        "King Penguin"
+      ],
+      "zoo_latin_original": [
+        "Aptenodytes patagonicus"
+      ],
+      "locations": [
+        "企鵝館"
+      ],
+      "zoo_record_ids": [
+        2
+      ],
+      "lat": "24.9931",
+      "lng": "121.5908",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2481660,
+      "key": "Aptenodytes_patagonicus",
+      "display_name_zh": "國王企鵝"
+    },
+    {
+      "inat_taxon_id": 748363,
+      "scientific_name": "Aquatica ficta",
+      "rank": "species",
+      "inat_common_name": "黃緣螢",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 145,
+      "zoo_names_zh": [
+        "黃緣螢"
+      ],
+      "zoo_names_en": [
+        "Firefly"
+      ],
+      "zoo_latin_original": [
+        "Aquatica ficta"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        137
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "極危 CR",
+      "gbif_key": 7739564,
+      "key": "Aquatica_ficta",
+      "display_name_zh": "黃緣螢"
+    },
+    {
+      "inat_taxon_id": 19018,
+      "scientific_name": "Ara ararauna",
+      "rank": "species",
+      "inat_common_name": "藍黃金剛鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 14102,
+      "zoo_names_zh": [
+        "黃腹藍琉璃金剛鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Blue-and-Yellow Macaw"
+      ],
+      "zoo_latin_original": [
+        "Ara ararauna"
+      ],
+      "locations": [
+        "鳥園區",
+        "穿山甲館(熱帶雨林館)"
+      ],
+      "zoo_record_ids": [
+        239,
+        240
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5959231,
+      "key": "Ara_ararauna",
+      "display_name_zh": "黃腹藍琉璃金剛鸚鵡"
+    },
+    {
+      "inat_taxon_id": 19016,
+      "scientific_name": "Ara chloropterus",
+      "rank": "species",
+      "inat_common_name": "紅綠金剛鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 4881,
+      "zoo_names_zh": [
+        "綠翼金剛鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Military Macaw"
+      ],
+      "zoo_latin_original": [
+        "Ara chloroptera"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        256
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5959225,
+      "key": "Ara_chloropterus",
+      "display_name_zh": "綠翼金剛鸚鵡"
+    },
+    {
+      "inat_taxon_id": 94494,
+      "scientific_name": "Arapaima gigas",
+      "rank": "species",
+      "inat_common_name": "巨骨舌魚",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 807,
+      "zoo_names_zh": [
+        "象魚"
+      ],
+      "zoo_names_en": [
+        "Arapaima"
+      ],
+      "zoo_latin_original": [
+        "Arapaima gigas"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        42
+      ],
+      "lat": "24.996",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "資料不足 DD",
+      "gbif_key": 5212877,
+      "key": "Arapaima_gigas",
+      "display_name_zh": "象魚"
+    },
+    {
+      "inat_taxon_id": 144264,
+      "scientific_name": "Argusianus argus",
+      "rank": "species",
+      "inat_common_name": "青鸞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 619,
+      "zoo_names_zh": [
+        "青鸞"
+      ],
+      "zoo_names_en": [
+        "Great Argus"
+      ],
+      "zoo_latin_original": [
+        "Argusianus argus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)",
+        "鳥園"
+      ],
+      "zoo_record_ids": [
+        53
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "鳥綱",
+      "conservation": "近危NT",
+      "gbif_key": 5227762,
+      "key": "Argusianus_argus",
+      "display_name_zh": "青鸞"
+    },
+    {
+      "inat_taxon_id": 73695,
+      "scientific_name": "Astrochelys radiata",
+      "rank": "species",
+      "inat_common_name": "輻射紋龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 966,
+      "zoo_names_zh": [
+        "射紋陸龜"
+      ],
+      "zoo_names_en": [
+        "Radiated tortoise"
+      ],
+      "zoo_latin_original": [
+        "Astrochelys radiata"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)",
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        55,
+        56
+      ],
+      "lat": "24.9961",
+      "lng": "121.5834",
+      "class_zh": "爬蟲綱",
+      "conservation": "",
+      "gbif_key": 2441666,
+      "key": "Astrochelys_radiata",
+      "display_name_zh": "射紋陸龜"
+    },
+    {
+      "inat_taxon_id": 43409,
+      "scientific_name": "Ateles fusciceps",
+      "rank": "species",
+      "inat_common_name": "棕頭蜘蛛猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 394,
+      "zoo_names_zh": [
+        "棕頭蜘蛛猴"
+      ],
+      "zoo_names_en": [
+        "Brown-headed Spider Monkey"
+      ],
+      "zoo_latin_original": [
+        "Ateles fusciceps"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        22
+      ],
+      "lat": "24.9967",
+      "lng": "121.5826",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2436641,
+      "key": "Ateles_fusciceps",
+      "display_name_zh": "棕頭蜘蛛猴"
+    },
+    {
+      "inat_taxon_id": 43411,
+      "scientific_name": "Ateles geoffroyi",
+      "rank": "species",
+      "inat_common_name": "黑掌蜘蛛猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 11962,
+      "zoo_names_zh": [
+        "黑掌蜘蛛猴"
+      ],
+      "zoo_names_en": [
+        "Geoffroy's Spider Monkey"
+      ],
+      "zoo_latin_original": [
+        "Ateles geoffroyi"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        24
+      ],
+      "lat": "24.9967",
+      "lng": "121.5827",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2436643,
+      "key": "Ateles_geoffroyi",
+      "display_name_zh": "黑掌蜘蛛猴"
+    },
+    {
+      "inat_taxon_id": 74091,
+      "scientific_name": "Ateles hybridus",
+      "rank": "species",
+      "inat_common_name": "棕蜘蛛猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 157,
+      "zoo_names_zh": [
+        "棕蜘蛛猴"
+      ],
+      "zoo_names_en": [
+        "Brown spider monkey"
+      ],
+      "zoo_latin_original": [
+        "Ateles hybridus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        29
+      ],
+      "lat": "24.9967",
+      "lng": "121.5829",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 4267251,
+      "key": "Ateles_hybridus",
+      "display_name_zh": "棕蜘蛛猴"
+    },
+    {
+      "inat_taxon_id": 358871,
+      "scientific_name": "Athyma selenophora",
+      "rank": "species",
+      "inat_common_name": "新月帶蛺蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 7288,
+      "zoo_names_zh": [
+        "小單帶蛺蝶"
+      ],
+      "zoo_names_en": [
+        "Staff Sergeant"
+      ],
+      "zoo_latin_original": [
+        "Athyma selenophora laela"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        162
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 7346316,
+      "key": "Athyma_selenophora",
+      "display_name_zh": "小單帶蛺蝶"
+    },
+    {
+      "inat_taxon_id": 50,
+      "scientific_name": "Balearica pavonina",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 749,
+      "zoo_names_zh": [
+        "黑頸冠鶴"
+      ],
+      "zoo_names_en": [
+        "Black Crowned Crane"
+      ],
+      "zoo_latin_original": [
+        "Balearica pavonina"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        247
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5228232,
+      "key": "Balearica_pavonina",
+      "display_name_zh": "黑頸冠鶴"
+    },
+    {
+      "inat_taxon_id": 53,
+      "scientific_name": "Balearica regulorum",
+      "rank": "species",
+      "inat_common_name": "灰冠鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 6544,
+      "zoo_names_zh": [
+        "灰頸冠鶴"
+      ],
+      "zoo_names_en": [
+        "Grey crowned crane"
+      ],
+      "zoo_latin_original": [
+        "Balearica regulorum"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        215
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5228229,
+      "key": "Balearica_regulorum",
+      "display_name_zh": "灰頸冠鶴"
+    },
+    {
+      "inat_taxon_id": 1209,
+      "scientific_name": "Bambusicola thoracicus",
+      "rank": "species",
+      "inat_common_name": "灰胸竹雞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1790,
+      "zoo_names_zh": [
+        "竹雞"
+      ],
+      "zoo_names_en": [
+        "Bamboo Partridge"
+      ],
+      "zoo_latin_original": [
+        "Bambusicola thoracica"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        217
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5227939,
+      "key": "Bambusicola_thoracicus",
+      "display_name_zh": "竹雞"
+    },
+    {
+      "inat_taxon_id": 33119,
+      "scientific_name": "Basiliscus plumifrons",
+      "rank": "species",
+      "inat_common_name": "雙冠蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 6649,
+      "zoo_names_zh": [
+        "雙脊冠蜥"
+      ],
+      "zoo_names_en": [
+        "Green Basilisk"
+      ],
+      "zoo_latin_original": [
+        "Basiliscus plumifrons"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        114
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 5221810,
+      "key": "Basiliscus_plumifrons",
+      "display_name_zh": "雙脊冠蜥"
+    },
+    {
+      "inat_taxon_id": 32093,
+      "scientific_name": "Boa constrictor",
+      "rank": "species",
+      "inat_common_name": "紅尾蚺",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 6132,
+      "zoo_names_zh": [
+        "紅尾蚺"
+      ],
+      "zoo_names_en": [
+        "Common boa constrictor"
+      ],
+      "zoo_latin_original": [
+        "Boa constrictor"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        96
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "未評估NE",
+      "gbif_key": 2464899,
+      "key": "Boa_constrictor",
+      "display_name_zh": "紅尾蚺"
+    },
+    {
+      "inat_taxon_id": 208700,
+      "scientific_name": "Bos bison",
+      "rank": "species",
+      "inat_common_name": "美洲野牛",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 34924,
+      "zoo_names_zh": [
+        "美洲野牛"
+      ],
+      "zoo_names_en": [
+        "American Bison"
+      ],
+      "zoo_latin_original": [
+        "Bison bison"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        283
+      ],
+      "lat": "24.993",
+      "lng": "121.5893",
+      "class_zh": "哺乳綱",
+      "conservation": "近危NT",
+      "gbif_key": 2441178,
+      "key": "Bos_bison",
+      "display_name_zh": "美洲野牛"
+    },
+    {
+      "inat_taxon_id": 68728,
+      "scientific_name": "Brachypelma smithi",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Arachnida",
+      "inat_obs_count": 296,
+      "zoo_names_zh": [
+        "墨西哥紅膝頭蜘蛛"
+      ],
+      "zoo_names_en": [
+        "Mexican Red Knee Tarantula"
+      ],
+      "zoo_latin_original": [
+        "Brachypelma smithi"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        130
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "蛛形綱",
+      "conservation": "",
+      "gbif_key": 2153432,
+      "key": "Brachypelma_smithi",
+      "display_name_zh": "墨西哥紅膝頭蜘蛛"
+    },
+    {
+      "inat_taxon_id": 466218,
+      "scientific_name": "Broadleysaurus major",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 985,
+      "zoo_names_zh": [
+        "巨板蜥"
+      ],
+      "zoo_names_en": [
+        "Rough-scaled plated lizard"
+      ],
+      "zoo_latin_original": [
+        "Gerrhosaurus major"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        90
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "一般類野生動物",
+      "gbif_key": 9299909,
+      "key": "Broadleysaurus_major",
+      "display_name_zh": "巨板蜥"
+    },
+    {
+      "inat_taxon_id": 5536,
+      "scientific_name": "Buceros bicornis",
+      "rank": "species",
+      "inat_common_name": "雙角犀鳥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 2713,
+      "zoo_names_zh": [
+        "雙角犀鳥"
+      ],
+      "zoo_names_en": [
+        "Great Indian Horbill"
+      ],
+      "zoo_latin_original": [
+        "Buceros bicornis"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        13
+      ],
+      "lat": "24.9945",
+      "lng": "121.5832",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2476012,
+      "key": "Buceros_bicornis",
+      "display_name_zh": "雙角犀鳥"
+    },
+    {
+      "inat_taxon_id": 62528,
+      "scientific_name": "Butorides striata",
+      "rank": "species",
+      "inat_common_name": "綠鷺",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 12974,
+      "zoo_names_zh": [
+        "綠簑鷺"
+      ],
+      "zoo_names_en": [
+        "Striated Heron"
+      ],
+      "zoo_latin_original": [
+        "Butorides striatus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        254
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480824,
+      "key": "Butorides_striata",
+      "display_name_zh": "綠簑鷺"
+    },
+    {
+      "inat_taxon_id": 117191,
+      "scientific_name": "Cacatua alba",
+      "rank": "species",
+      "inat_common_name": "白鳳頭鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 432,
+      "zoo_names_zh": [
+        "白鳳頭鸚鵡"
+      ],
+      "zoo_names_en": [
+        "White Cockatoo"
+      ],
+      "zoo_latin_original": [
+        "Cacatua alba"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        210
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2479870,
+      "key": "Cacatua_alba",
+      "display_name_zh": "白鳳頭鸚鵡"
+    },
+    {
+      "inat_taxon_id": 116834,
+      "scientific_name": "Cacatua galerita",
+      "rank": "species",
+      "inat_common_name": "葵花鳳頭鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 34523,
+      "zoo_names_zh": [
+        "葵花鳳頭鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Sulpher-crested Cockatoo"
+      ],
+      "zoo_latin_original": [
+        "Cacatua galerita"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        248
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2479888,
+      "key": "Cacatua_galerita",
+      "display_name_zh": "葵花鳳頭鸚鵡"
+    },
+    {
+      "inat_taxon_id": 116759,
+      "scientific_name": "Cacatua sulphurea",
+      "rank": "species",
+      "inat_common_name": "小葵花鳳頭鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1547,
+      "zoo_names_zh": [
+        "小葵花鳳頭鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Yellow-crested Cockatoo"
+      ],
+      "zoo_latin_original": [
+        "Cacatua sulphurea"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        198
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "極危CR",
+      "gbif_key": 2479893,
+      "key": "Cacatua_sulphurea",
+      "display_name_zh": "小葵花鳳頭鸚鵡"
+    },
+    {
+      "inat_taxon_id": 3643,
+      "scientific_name": "Caloenas nicobarica",
+      "rank": "species",
+      "inat_common_name": "綠蓑鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1197,
+      "zoo_names_zh": [
+        "綠簑鴿"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Caloenas nicobarica"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        253
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 5231891,
+      "key": "Caloenas_nicobarica",
+      "display_name_zh": "綠簑鴿"
+    },
+    {
+      "inat_taxon_id": 524409,
+      "scientific_name": "Camelus bactrianus",
+      "rank": "species",
+      "inat_common_name": "雙峰駱駝",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1825,
+      "zoo_names_zh": [
+        "雙峰駱駝"
+      ],
+      "zoo_names_en": [
+        "Bactrian Camel或Two-humped Came"
+      ],
+      "zoo_latin_original": [
+        "Camelus bactrianus"
+      ],
+      "locations": [
+        "沙漠動物區",
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        7,
+        8
+      ],
+      "lat": "24.995",
+      "lng": "121.5856",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2441238,
+      "key": "Camelus_bactrianus",
+      "display_name_zh": "雙峰駱駝"
+    },
+    {
+      "inat_taxon_id": 81542,
+      "scientific_name": "Camelus dromedarius",
+      "rank": "species",
+      "inat_common_name": "單峰駱駝",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 5260,
+      "zoo_names_zh": [
+        "單峰駱駝"
+      ],
+      "zoo_names_en": [
+        "Dromedary Camel或One-humped Camel"
+      ],
+      "zoo_latin_original": [
+        "Camelus dromedarius"
+      ],
+      "locations": [
+        "沙漠動物區"
+      ],
+      "zoo_record_ids": [
+        6
+      ],
+      "lat": "24.9952",
+      "lng": "121.5857",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 9055455,
+      "key": "Camelus_dromedarius",
+      "display_name_zh": "單峰駱駝"
+    },
+    {
+      "inat_taxon_id": 706552,
+      "scientific_name": "Camponotus habereri",
+      "rank": "species",
+      "inat_common_name": "臭巨山蟻",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 1602,
+      "zoo_names_zh": [
+        "臭巨山蟻"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Camponotus habereri"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        166
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 5033752,
+      "key": "Camponotus_habereri",
+      "display_name_zh": "臭巨山蟻"
+    },
+    {
+      "inat_taxon_id": 850371,
+      "scientific_name": "Camponotus irritans",
+      "rank": "species",
+      "inat_common_name": "高雄巨山蟻",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 133,
+      "zoo_names_zh": [
+        "高雄巨山蟻"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Camponotus Irritans"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        167
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 5034311,
+      "key": "Camponotus_irritans",
+      "display_name_zh": "高雄巨山蟻"
+    },
+    {
+      "inat_taxon_id": 42048,
+      "scientific_name": "Canis lupus",
+      "rank": "species",
+      "inat_common_name": "灰狼",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 24288,
+      "zoo_names_zh": [
+        "北美灰狼"
+      ],
+      "zoo_names_en": [
+        "Gray Wolf"
+      ],
+      "zoo_latin_original": [
+        "Canis lupus"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        279
+      ],
+      "lat": "24.9933",
+      "lng": "121.5901",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5219173,
+      "key": "Canis_lupus",
+      "display_name_zh": "北美灰狼"
+    },
+    {
+      "inat_taxon_id": 74144,
+      "scientific_name": "Capricornis swinhoei",
+      "rank": "species",
+      "inat_common_name": "臺灣野山羊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1173,
+      "zoo_names_zh": [
+        "臺灣野山羊"
+      ],
+      "zoo_names_en": [
+        "Formosan serow"
+      ],
+      "zoo_latin_original": [
+        "Capricornis swinhoei"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        294
+      ],
+      "lat": "24.9972",
+      "lng": "121.5804",
+      "class_zh": "哺乳綱",
+      "conservation": "(臺灣特有種)保育類野生動物",
+      "gbif_key": 4262612,
+      "key": "Capricornis_swinhoei",
+      "display_name_zh": "臺灣野山羊"
+    },
+    {
+      "inat_taxon_id": 39536,
+      "scientific_name": "Carettochelys insculpta",
+      "rank": "species",
+      "inat_common_name": "豬鼻龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 537,
+      "zoo_names_zh": [
+        "豬鼻龜"
+      ],
+      "zoo_names_en": [
+        "Pig-nosed turtle"
+      ],
+      "zoo_latin_original": [
+        "Carettochelys insculpta"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        113
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 2442506,
+      "key": "Carettochelys_insculpta",
+      "display_name_zh": "豬鼻龜"
+    },
+    {
+      "inat_taxon_id": 43794,
+      "scientific_name": "Castor canadensis",
+      "rank": "species",
+      "inat_common_name": "北美河貍",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 86798,
+      "zoo_names_zh": [
+        "加拿大河狸"
+      ],
+      "zoo_names_en": [
+        "Canadian Beaver, American Beaver"
+      ],
+      "zoo_latin_original": [
+        "Castor canadensis"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        278
+      ],
+      "lat": "24.9925",
+      "lng": "121.5894",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2439838,
+      "key": "Castor_canadensis",
+      "display_name_zh": "加拿大河狸"
+    },
+    {
+      "inat_taxon_id": 20500,
+      "scientific_name": "Casuarius casuarius",
+      "rank": "species",
+      "inat_common_name": "南方鶴鴕 (食火雞)",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 3785,
+      "zoo_names_zh": [
+        "南方食火雞"
+      ],
+      "zoo_names_en": [
+        "Southern Cassowary"
+      ],
+      "zoo_latin_original": [
+        "Casuarius casuarius"
+      ],
+      "locations": [
+        "澳洲動物區"
+      ],
+      "zoo_record_ids": [
+        309,
+        310
+      ],
+      "lat": "24.9947",
+      "lng": "121.5852",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5231783,
+      "key": "Casuarius_casuarius",
+      "display_name_zh": "南方食火雞"
+    },
+    {
+      "inat_taxon_id": 43432,
+      "scientific_name": "Cebus capucinus",
+      "rank": "species",
+      "inat_common_name": "捲尾猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 733,
+      "zoo_names_zh": [
+        "白面捲尾猴"
+      ],
+      "zoo_names_en": [
+        "White-fronted capuchin"
+      ],
+      "zoo_latin_original": [
+        "Cebus capucinus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        28
+      ],
+      "lat": "24.9964",
+      "lng": "121.5829",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2436637,
+      "key": "Cebus_capucinus",
+      "display_name_zh": "白面捲尾猴"
+    },
+    {
+      "inat_taxon_id": 40089,
+      "scientific_name": "Centrochelys sulcata",
+      "rank": "species",
+      "inat_common_name": "蘇卡達象龜 (非洲盾臂龜)",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 5401,
+      "zoo_names_zh": [
+        "蘇卡達象龜"
+      ],
+      "zoo_names_en": [
+        "African spurred tortoise"
+      ],
+      "zoo_latin_original": [
+        "Geochelone sulcata"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館",
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        118,
+        119,
+        120
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2441533,
+      "key": "Centrochelys_sulcata",
+      "display_name_zh": "蘇卡達象龜"
+    },
+    {
+      "inat_taxon_id": 43348,
+      "scientific_name": "Ceratotherium simum",
+      "rank": "species",
+      "inat_common_name": "白犀牛",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 9719,
+      "zoo_names_zh": [
+        "白犀牛"
+      ],
+      "zoo_names_en": [
+        "White Rhinoceros,Square-Lipped Rhinoceros"
+      ],
+      "zoo_latin_original": [
+        "Ceratotherium simum"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        175,
+        176,
+        177
+      ],
+      "lat": "24.9942",
+      "lng": "121.5885",
+      "class_zh": "哺乳綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 2440880,
+      "key": "Ceratotherium_simum",
+      "display_name_zh": "白犀牛"
+    },
+    {
+      "inat_taxon_id": 42210,
+      "scientific_name": "Cervus nippon",
+      "rank": "species",
+      "inat_common_name": "梅花鹿",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 10455,
+      "zoo_names_zh": [
+        "梅花鹿"
+      ],
+      "zoo_names_en": [
+        "Formosan Sika Deer"
+      ],
+      "zoo_latin_original": [
+        "Cervus nippon taiouanus"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        292
+      ],
+      "lat": "24.9982",
+      "lng": "121.5806",
+      "class_zh": "哺乳綱",
+      "conservation": "臺灣特有亞種",
+      "gbif_key": 2440954,
+      "key": "Cervus_nippon",
+      "display_name_zh": "梅花鹿"
+    },
+    {
+      "inat_taxon_id": 342461,
+      "scientific_name": "Chalceus macrolepidotus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 62,
+      "zoo_names_zh": [
+        "大鱗脂鯉"
+      ],
+      "zoo_names_en": [
+        "Pink Tailed Chalceus"
+      ],
+      "zoo_latin_original": [
+        "Chalceus macrolepidotus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        43
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "",
+      "gbif_key": 2353798,
+      "key": "Chalceus_macrolepidotus",
+      "display_name_zh": "大鱗脂鯉"
+    },
+    {
+      "inat_taxon_id": 53645,
+      "scientific_name": "Chalcides ocellatus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 2251,
+      "zoo_names_zh": [
+        "眼斑銅蜥"
+      ],
+      "zoo_names_en": [
+        "Ocellated skink"
+      ],
+      "zoo_latin_original": [
+        "Chaicides ocellatus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        102
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "近危NT",
+      "gbif_key": 5225137,
+      "key": "Chalcides_ocellatus",
+      "display_name_zh": "眼斑銅蜥"
+    },
+    {
+      "inat_taxon_id": 508097,
+      "scientific_name": "Chalcophaps indica",
+      "rank": "species",
+      "inat_common_name": "翠翼鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 5424,
+      "zoo_names_zh": [
+        "翠翼鳩"
+      ],
+      "zoo_names_en": [
+        "Emerald Dove"
+      ],
+      "zoo_latin_original": [
+        "Chacophalps indica"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        259
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2495840,
+      "key": "Chalcophaps_indica",
+      "display_name_zh": "翠翼鳩"
+    },
+    {
+      "inat_taxon_id": 32873,
+      "scientific_name": "Chamaeleo calyptratus",
+      "rank": "species",
+      "inat_common_name": "高冠變色龍",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1995,
+      "zoo_names_zh": [
+        "高冠變色龍"
+      ],
+      "zoo_names_en": [
+        "Veiled chameleon"
+      ],
+      "zoo_latin_original": [
+        "Chamaeleo calyptratus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        98
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2449133,
+      "key": "Chamaeleo_calyptratus",
+      "display_name_zh": "高冠變色龍"
+    },
+    {
+      "inat_taxon_id": 43550,
+      "scientific_name": "Cheirogaleus medius",
+      "rank": "species",
+      "inat_common_name": "肥尾鼠狐猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 85,
+      "zoo_names_zh": [
+        "粗尾侏儒狐猴"
+      ],
+      "zoo_names_en": [
+        "Fat-tailed Dwarf Lemur"
+      ],
+      "zoo_latin_original": [
+        "Cheirogaleus medius"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        37
+      ],
+      "lat": "24.9959",
+      "lng": "121.5833",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2436451,
+      "key": "Cheirogaleus_medius",
+      "display_name_zh": "粗尾侏儒狐猴"
+    },
+    {
+      "inat_taxon_id": 539039,
+      "scientific_name": "Chelonoidis carbonarius",
+      "rank": "species",
+      "inat_common_name": "紅腿陸龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 6860,
+      "zoo_names_zh": [
+        "紅腿象龜"
+      ],
+      "zoo_names_en": [
+        "Red-footed Tortoise"
+      ],
+      "zoo_latin_original": [
+        "Chelonoidis carbonarius"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)",
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        57,
+        58
+      ],
+      "lat": "24.9961",
+      "lng": "121.5833",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危 VU",
+      "gbif_key": 9533689,
+      "key": "Chelonoidis_carbonarius",
+      "display_name_zh": "紅腿象龜"
+    },
+    {
+      "inat_taxon_id": 539451,
+      "scientific_name": "Chelonoidis denticulatus",
+      "rank": "species",
+      "inat_common_name": "黃腳陸龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 2461,
+      "zoo_names_zh": [
+        "黃腿象龜"
+      ],
+      "zoo_names_en": [
+        "Yellow-footed Tortoise"
+      ],
+      "zoo_latin_original": [
+        "Chelonoidis denticulata"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        32
+      ],
+      "lat": "24.9959",
+      "lng": "121.5833",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5220281,
+      "key": "Chelonoidis_denticulatus",
+      "display_name_zh": "黃腿象龜"
+    },
+    {
+      "inat_taxon_id": 43818,
+      "scientific_name": "Chinchilla laniger",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 225,
+      "zoo_names_zh": [
+        "絨鼠"
+      ],
+      "zoo_names_en": [
+        "Chinchilla"
+      ],
+      "zoo_latin_original": [
+        "Chinchilla laniger"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        70
+      ],
+      "lat": "24.9993",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 9381582,
+      "key": "Chinchilla_laniger",
+      "display_name_zh": "絨鼠"
+    },
+    {
+      "inat_taxon_id": 415625,
+      "scientific_name": "Chitoria chrysolora",
+      "rank": "species",
+      "inat_common_name": "台灣小紫蛺蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 978,
+      "zoo_names_zh": [
+        "台灣小紫蛺蝶"
+      ],
+      "zoo_names_en": [
+        "Yellow Emperor"
+      ],
+      "zoo_latin_original": [
+        "Chitoria Chrysolora"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        159
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 5881551,
+      "key": "Chitoria_chrysolora",
+      "display_name_zh": "台灣小紫蛺蝶"
+    },
+    {
+      "inat_taxon_id": 74192,
+      "scientific_name": "Choeropsis liberiensis",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 483,
+      "zoo_names_zh": [
+        "侏儒河馬"
+      ],
+      "zoo_names_en": [
+        "Pygmy Hippopotamus"
+      ],
+      "zoo_latin_original": [
+        "Choeropsis liberiensis"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        195
+      ],
+      "lat": "24.9951",
+      "lng": "121.5879",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5787064,
+      "key": "Choeropsis_liberiensis",
+      "display_name_zh": "侏儒河馬"
+    },
+    {
+      "inat_taxon_id": 47100,
+      "scientific_name": "Choloepus didactylus",
+      "rank": "species",
+      "inat_common_name": "二趾樹懶",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1074,
+      "zoo_names_zh": [
+        "二趾樹獺"
+      ],
+      "zoo_names_en": [
+        "Linnaeus's Two-toed Sloth"
+      ],
+      "zoo_latin_original": [
+        "Choloepus didactylus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        33
+      ],
+      "lat": "24.996",
+      "lng": "121.5833",
+      "class_zh": "哺乳綱",
+      "conservation": "無危 LC",
+      "gbif_key": 5219519,
+      "key": "Choloepus_didactylus",
+      "display_name_zh": "二趾樹獺"
+    },
+    {
+      "inat_taxon_id": 1230,
+      "scientific_name": "Chrysolophus pictus",
+      "rank": "species",
+      "inat_common_name": "紅腹錦雞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 2674,
+      "zoo_names_zh": [
+        "金雞"
+      ],
+      "zoo_names_en": [
+        "Golden Pheasant"
+      ],
+      "zoo_latin_original": [
+        "Chrysolophus pictus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        222
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5228034,
+      "key": "Chrysolophus_pictus",
+      "display_name_zh": "金雞"
+    },
+    {
+      "inat_taxon_id": 569439,
+      "scientific_name": "Cichla kelberi",
+      "rank": "species",
+      "inat_common_name": "巴西亞金三間",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 58,
+      "zoo_names_zh": [
+        "巴西亞金三間"
+      ],
+      "zoo_names_en": [
+        "Yellow Peacock Bass"
+      ],
+      "zoo_latin_original": [
+        "Cichla kelberi"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        49
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "",
+      "gbif_key": 5208140,
+      "key": "Cichla_kelberi",
+      "display_name_zh": "巴西亞金三間"
+    },
+    {
+      "inat_taxon_id": 3044,
+      "scientific_name": "Columba pulchricollis",
+      "rank": "species",
+      "inat_common_name": "灰林鴿",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 276,
+      "zoo_names_zh": [
+        "灰林鴿"
+      ],
+      "zoo_names_en": [
+        "Ashy Wood Pigeon"
+      ],
+      "zoo_latin_original": [
+        "Columba pulchricollis"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        213
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5231868,
+      "key": "Columba_pulchricollis",
+      "display_name_zh": "灰林鴿"
+    },
+    {
+      "inat_taxon_id": 37194,
+      "scientific_name": "Corucia zebrata",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 198,
+      "zoo_names_zh": [
+        "猴尾蜥"
+      ],
+      "zoo_names_en": [
+        "Monkey-tailed skink"
+      ],
+      "zoo_latin_original": [
+        "Corucia zebrata"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        105
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2462499,
+      "key": "Corucia_zebrata",
+      "display_name_zh": "猴尾蜥"
+    },
+    {
+      "inat_taxon_id": 8026,
+      "scientific_name": "Corvus macrorhynchos",
+      "rank": "species",
+      "inat_common_name": "巨嘴鴉",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 30082,
+      "zoo_names_zh": [
+        "巨嘴鴉"
+      ],
+      "zoo_names_en": [
+        "Jungle Crow"
+      ],
+      "zoo_latin_original": [
+        "Corvus macrorhynchos"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        207
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2482487,
+      "key": "Corvus_macrorhynchos",
+      "display_name_zh": "巨嘴鴉"
+    },
+    {
+      "inat_taxon_id": 2052,
+      "scientific_name": "Crax rubra",
+      "rank": "species",
+      "inat_common_name": "大鳳冠雉",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 7096,
+      "zoo_names_zh": [
+        "大寶冠鳥"
+      ],
+      "zoo_names_en": [
+        "Great Curassow"
+      ],
+      "zoo_latin_original": [
+        "Crax rubra"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        205
+      ],
+      "lat": "24.9956",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2482168,
+      "key": "Crax_rubra",
+      "display_name_zh": "大寶冠鳥"
+    },
+    {
+      "inat_taxon_id": 52055,
+      "scientific_name": "Crocothemis servilia",
+      "rank": "species",
+      "inat_common_name": "猩紅蜻蜓",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 34918,
+      "zoo_names_zh": [
+        "猩紅蜻蜓"
+      ],
+      "zoo_names_en": [
+        "Oriental Scarlet"
+      ],
+      "zoo_latin_original": [
+        "Crocothemis servilla servilla"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        172
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "極危 CR",
+      "gbif_key": 1427734,
+      "key": "Crocothemis_servilia",
+      "display_name_zh": "猩紅蜻蜓"
+    },
+    {
+      "inat_taxon_id": 41886,
+      "scientific_name": "Crocuta crocuta",
+      "rank": "species",
+      "inat_common_name": "斑鬣狗",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 12018,
+      "zoo_names_zh": [
+        "斑點鬣狗"
+      ],
+      "zoo_names_en": [
+        "Spotted Hyena"
+      ],
+      "zoo_latin_original": [
+        "Crocuta crocuta"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        188
+      ],
+      "lat": "24.9947",
+      "lng": "121.5888",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5218781,
+      "key": "Crocuta_crocuta",
+      "display_name_zh": "斑點鬣狗"
+    },
+    {
+      "inat_taxon_id": 68335,
+      "scientific_name": "Cuora flavomarginata",
+      "rank": "species",
+      "inat_common_name": "食蛇龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 755,
+      "zoo_names_zh": [
+        "食蛇龜"
+      ],
+      "zoo_names_en": [
+        "Yellow-margined box turtle"
+      ],
+      "zoo_latin_original": [
+        "Cuora flavomarginata",
+        "Cistoclemmys flavomarginata"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館",
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        97,
+        291
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 9116969,
+      "key": "Cuora_flavomarginata",
+      "display_name_zh": "食蛇龜"
+    },
+    {
+      "inat_taxon_id": 201892,
+      "scientific_name": "Cybister tripunctatus",
+      "rank": "species",
+      "inat_common_name": "點刻三線大龍蝨",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 497,
+      "zoo_names_zh": [
+        "點刻三線大龍蝨"
+      ],
+      "zoo_names_en": [
+        "Diving beetle"
+      ],
+      "zoo_latin_original": [
+        "Cybister tripunctatus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        134
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 4470304,
+      "key": "Cybister_tripunctatus",
+      "display_name_zh": "點刻三線大龍蝨"
+    },
+    {
+      "inat_taxon_id": 146565,
+      "scientific_name": "Cyclura cornuta",
+      "rank": "species",
+      "inat_common_name": "犀牛鬣蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1056,
+      "zoo_names_zh": [
+        "犀牛圓尾鬣蜥"
+      ],
+      "zoo_names_en": [
+        "Rhinoceros Iguana"
+      ],
+      "zoo_latin_original": [
+        "Cyclura cornuta"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        81
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 5960674,
+      "key": "Cyclura_cornuta",
+      "display_name_zh": "犀牛圓尾鬣蜥"
+    },
+    {
+      "inat_taxon_id": 6914,
+      "scientific_name": "Cygnus atratus",
+      "rank": "species",
+      "inat_common_name": "黑天鵝",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 41517,
+      "zoo_names_zh": [
+        "黑天鵝"
+      ],
+      "zoo_names_en": [
+        "Black Swan"
+      ],
+      "zoo_latin_original": [
+        "Cygnus atratus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        20
+      ],
+      "lat": "24.994",
+      "lng": "121.5841",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2498344,
+      "key": "Cygnus_atratus",
+      "display_name_zh": "黑天鵝"
+    },
+    {
+      "inat_taxon_id": 72789,
+      "scientific_name": "Cygnus melancoryphus",
+      "rank": "species",
+      "inat_common_name": "黑頸天鵝",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 5952,
+      "zoo_names_zh": [
+        "黑頸天鵝"
+      ],
+      "zoo_names_en": [
+        "Black-necked Swan"
+      ],
+      "zoo_latin_original": [
+        "Cygnus melanocoryphus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        246
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2498335,
+      "key": "Cygnus_melancoryphus",
+      "display_name_zh": "黑頸天鵝"
+    },
+    {
+      "inat_taxon_id": 2413,
+      "scientific_name": "Dacelo novaeguineae",
+      "rank": "species",
+      "inat_common_name": "笑翠鳥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 52446,
+      "zoo_names_zh": [
+        "笑翠鳥"
+      ],
+      "zoo_names_en": [
+        "Laughing Kookaburra"
+      ],
+      "zoo_latin_original": [
+        "Dacelo novaeguineae"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        23
+      ],
+      "lat": "24.9964",
+      "lng": "121.5827",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2475648,
+      "key": "Dacelo_novaeguineae",
+      "display_name_zh": "笑翠鳥"
+    },
+    {
+      "inat_taxon_id": 67835,
+      "scientific_name": "Danaus chrysippus",
+      "rank": "species",
+      "inat_common_name": "金斑蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 48059,
+      "zoo_names_zh": [
+        "樺斑蝶"
+      ],
+      "zoo_names_en": [
+        "Plain Tiger"
+      ],
+      "zoo_latin_original": [
+        "Danaus Chrysippus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        160
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 7642610,
+      "key": "Danaus_chrysippus",
+      "display_name_zh": "樺斑蝶"
+    },
+    {
+      "inat_taxon_id": 146923,
+      "scientific_name": "Danaus genutia",
+      "rank": "species",
+      "inat_common_name": "虎斑蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 14874,
+      "zoo_names_zh": [
+        "黑脈樺斑蝶"
+      ],
+      "zoo_names_en": [
+        "Common Tiger"
+      ],
+      "zoo_latin_original": [
+        "Danaus Genutia"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        163
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 5806167,
+      "key": "Danaus_genutia",
+      "display_name_zh": "黑脈樺斑蝶"
+    },
+    {
+      "inat_taxon_id": 43558,
+      "scientific_name": "Daubentonia madagascariensis",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 192,
+      "zoo_names_zh": [
+        "指猴"
+      ],
+      "zoo_names_en": [
+        "Aye-Aye"
+      ],
+      "zoo_latin_original": [
+        "Daubentonia madagascariensis"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        54
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5219587,
+      "key": "Daubentonia_madagascariensis",
+      "display_name_zh": "指猴"
+    },
+    {
+      "inat_taxon_id": 30685,
+      "scientific_name": "Deinagkistrodon acutus",
+      "rank": "species",
+      "inat_common_name": "百步蛇",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 919,
+      "zoo_names_zh": [
+        "百步蛇"
+      ],
+      "zoo_names_en": [
+        "Hundred-pace Viper(Chinese Moccasin)"
+      ],
+      "zoo_latin_original": [
+        "Deinagkistrodon acutus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        92
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "未評估NE",
+      "gbif_key": 2444497,
+      "key": "Deinagkistrodon_acutus",
+      "display_name_zh": "百步蛇"
+    },
+    {
+      "inat_taxon_id": 21121,
+      "scientific_name": "Dendrobates auratus",
+      "rank": "species",
+      "inat_common_name": "迷彩箭毒蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 9001,
+      "zoo_names_zh": [
+        "迷彩箭毒蛙"
+      ],
+      "zoo_names_en": [
+        "Black-and-green poison-dart frog"
+      ],
+      "zoo_latin_original": [
+        "Dendrobates auratus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        40
+      ],
+      "lat": "24.9958",
+      "lng": "121.5833",
+      "class_zh": "兩棲綱",
+      "conservation": "無危 LC",
+      "gbif_key": 5218022,
+      "key": "Dendrobates_auratus",
+      "display_name_zh": "迷彩箭毒蛙"
+    },
+    {
+      "inat_taxon_id": 21150,
+      "scientific_name": "Dendrobates leucomelas",
+      "rank": "species",
+      "inat_common_name": "紅帶箭毒蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 614,
+      "zoo_names_zh": [
+        "黃帶箭毒蛙"
+      ],
+      "zoo_names_en": [
+        "Yellow-banded Poison Dart Frog"
+      ],
+      "zoo_latin_original": [
+        "Dendrobates leucomelas"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        39
+      ],
+      "lat": "24.9958",
+      "lng": "121.5833",
+      "class_zh": "兩棲綱",
+      "conservation": "無危 LC",
+      "gbif_key": 5218028,
+      "key": "Dendrobates_leucomelas",
+      "display_name_zh": "黃帶箭毒蛙"
+    },
+    {
+      "inat_taxon_id": 21141,
+      "scientific_name": "Dendrobates tinctorius",
+      "rank": "species",
+      "inat_common_name": "染色毒箭蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 1537,
+      "zoo_names_zh": [
+        "鈷藍箭毒蛙"
+      ],
+      "zoo_names_en": [
+        "Blue Poison Dart Frog"
+      ],
+      "zoo_latin_original": [
+        "Dendrobates azureus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        41
+      ],
+      "lat": "24.9958",
+      "lng": "121.5833",
+      "class_zh": "兩棲綱",
+      "conservation": "無危 LC",
+      "gbif_key": 9724339,
+      "key": "Dendrobates_tinctorius",
+      "display_name_zh": "鈷藍箭毒蛙"
+    },
+    {
+      "inat_taxon_id": 797638,
+      "scientific_name": "Diploderma swinhonis",
+      "rank": "species",
+      "inat_common_name": "斯文豪氏攀蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 15045,
+      "zoo_names_zh": [
+        "斯文豪氏攀蜥"
+      ],
+      "zoo_names_en": [
+        "Swinhoe’s tree lizard"
+      ],
+      "zoo_latin_original": [
+        "Japalura swinhonis"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        104
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "一般類野生動物",
+      "gbif_key": 11041294,
+      "key": "Diploderma_swinhonis",
+      "display_name_zh": "斯文豪氏攀蜥"
+    },
+    {
+      "inat_taxon_id": 360923,
+      "scientific_name": "Diplonychus rusticus",
+      "rank": "species",
+      "inat_common_name": "負子蝽",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 288,
+      "zoo_names_zh": [
+        "褐負蝽"
+      ],
+      "zoo_names_en": [
+        "Water Bug"
+      ],
+      "zoo_latin_original": [
+        "Diplonychus rusticus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        132
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 5866471,
+      "key": "Diplonychus_rusticus",
+      "display_name_zh": "褐負蝽"
+    },
+    {
+      "inat_taxon_id": 743284,
+      "scientific_name": "Dorcus schenklingi",
+      "rank": "species",
+      "inat_common_name": "長角大鍬形蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 106,
+      "zoo_names_zh": [
+        "長角大鍬形蟲"
+      ],
+      "zoo_names_en": [
+        "Formosan Long-fanged Stag Beetle"
+      ],
+      "zoo_latin_original": [
+        "Dorcus Schenkingi"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        135
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 8013853,
+      "key": "Dorcus_schenklingi",
+      "display_name_zh": "長角大鍬形蟲"
+    },
+    {
+      "inat_taxon_id": 20504,
+      "scientific_name": "Dromaius novaehollandiae",
+      "rank": "species",
+      "inat_common_name": "鴯鶓",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 13694,
+      "zoo_names_zh": [
+        "鴯鶓"
+      ],
+      "zoo_names_en": [
+        "Emu"
+      ],
+      "zoo_latin_original": [
+        "Dromaius novaehollandiae"
+      ],
+      "locations": [
+        "澳洲動物區"
+      ],
+      "zoo_record_ids": [
+        311,
+        312,
+        313
+      ],
+      "lat": "24.9947",
+      "lng": "121.5856",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2495134,
+      "key": "Dromaius_novaehollandiae",
+      "display_name_zh": "鴯鶓"
+    },
+    {
+      "inat_taxon_id": 3255,
+      "scientific_name": "Ducula bicolor",
+      "rank": "species",
+      "inat_common_name": "斑皇鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 2177,
+      "zoo_names_zh": [
+        "黑袖鴿"
+      ],
+      "zoo_names_en": [
+        "Pied Imperial Pigeon"
+      ],
+      "zoo_latin_original": [
+        "Ducula bicolor"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        245
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2496001,
+      "key": "Ducula_bicolor",
+      "display_name_zh": "黑袖鴿"
+    },
+    {
+      "inat_taxon_id": 62345,
+      "scientific_name": "Duttaphrynus melanostictus",
+      "rank": "species",
+      "inat_common_name": "黑眶蟾蜍",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 44787,
+      "zoo_names_zh": [
+        "黑眶蟾蜍"
+      ],
+      "zoo_names_en": [
+        "Asian spined toad"
+      ],
+      "zoo_latin_original": [
+        "Bufo melanostictus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        78
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "兩棲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2422538,
+      "key": "Duttaphrynus_melanostictus",
+      "display_name_zh": "黑眶蟾蜍"
+    },
+    {
+      "inat_taxon_id": 19225,
+      "scientific_name": "Eclectus roratus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 172,
+      "zoo_names_zh": [
+        "折衷鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Eclectus Parrot"
+      ],
+      "zoo_latin_original": [
+        "Eclectus roratus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        218
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480075,
+      "key": "Eclectus_roratus",
+      "display_name_zh": "折衷鸚鵡"
+    },
+    {
+      "inat_taxon_id": 558884,
+      "scientific_name": "Elaphe taeniura",
+      "rank": "species",
+      "inat_common_name": "黑眉錦蛇",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 2051,
+      "zoo_names_zh": [
+        "臺灣錦蛇"
+      ],
+      "zoo_names_en": [
+        "Taiwan beauty snake"
+      ],
+      "zoo_latin_original": [
+        "Elaphe taeniura friesei"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        110
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "近危NT",
+      "gbif_key": 8889878,
+      "key": "Elaphe_taeniura",
+      "display_name_zh": "臺灣錦蛇"
+    },
+    {
+      "inat_taxon_id": 43697,
+      "scientific_name": "Elephas maximus",
+      "rank": "species",
+      "inat_common_name": "亞洲象",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 11719,
+      "zoo_names_zh": [
+        "亞洲象"
+      ],
+      "zoo_names_en": [
+        "Asian Elephant"
+      ],
+      "zoo_latin_original": [
+        "Elephas maximus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        14
+      ],
+      "lat": "24.9942",
+      "lng": "121.5829",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5219461,
+      "key": "Elephas_maximus",
+      "display_name_zh": "亞洲象"
+    },
+    {
+      "inat_taxon_id": 363408,
+      "scientific_name": "Entoria",
+      "rank": "genus",
+      "inat_common_name": "長肛竹節蟲屬",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 2165,
+      "zoo_names_zh": [
+        "長肛竹節蟲"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Entoria Sp."
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        147
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1413573,
+      "key": "Entoria",
+      "display_name_zh": "長肛竹節蟲"
+    },
+    {
+      "inat_taxon_id": 144560,
+      "scientific_name": "Eolophus roseicapilla",
+      "rank": "species",
+      "inat_common_name": "粉紅鳳頭鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 33754,
+      "zoo_names_zh": [
+        "粉紅鳳頭鸚鵡"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Eolophus roseicapilla"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        234
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2479598,
+      "key": "Eolophus_roseicapilla",
+      "display_name_zh": "粉紅鳳頭鸚鵡"
+    },
+    {
+      "inat_taxon_id": 32237,
+      "scientific_name": "Epicrates cenchria",
+      "rank": "species",
+      "inat_common_name": "彩虹蚺",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1389,
+      "zoo_names_zh": [
+        "彩虹蚺"
+      ],
+      "zoo_names_en": [
+        "Rainbow boa"
+      ],
+      "zoo_latin_original": [
+        "Epicrates cenchria"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        99
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "未評估NE",
+      "gbif_key": 2465228,
+      "key": "Epicrates_cenchria",
+      "display_name_zh": "彩虹蚺"
+    },
+    {
+      "inat_taxon_id": 74315,
+      "scientific_name": "Equus africanus",
+      "rank": "species",
+      "inat_common_name": "非洲野驢",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 117,
+      "zoo_names_zh": [
+        "非洲野驢"
+      ],
+      "zoo_names_en": [
+        "African wild ass"
+      ],
+      "zoo_latin_original": [
+        "Equus africanus somaliensis"
+      ],
+      "locations": [
+        "沙漠動物區"
+      ],
+      "zoo_record_ids": [
+        5
+      ],
+      "lat": "24.9951",
+      "lng": "121.5856",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 5787168,
+      "key": "Equus_africanus",
+      "display_name_zh": "非洲野驢"
+    },
+    {
+      "inat_taxon_id": 148030,
+      "scientific_name": "Equus asinus",
+      "rank": "species",
+      "inat_common_name": "驢",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 16466,
+      "zoo_names_zh": [
+        "家驢"
+      ],
+      "zoo_names_en": [
+        "Domestic Ass，Donkey"
+      ],
+      "zoo_latin_original": [
+        "Equus asinus"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        68
+      ],
+      "lat": "24.9995",
+      "lng": "121.5823",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2440891,
+      "key": "Equus_asinus",
+      "display_name_zh": "家驢"
+    },
+    {
+      "inat_taxon_id": 209233,
+      "scientific_name": "Equus caballus",
+      "rank": "species",
+      "inat_common_name": "馬",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 49555,
+      "zoo_names_zh": [
+        "迷你馬"
+      ],
+      "zoo_names_en": [
+        "Pony"
+      ],
+      "zoo_latin_original": [
+        "Equus pony_mule"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        69
+      ],
+      "lat": "24.9996",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "未評估 NE",
+      "gbif_key": 2440886,
+      "key": "Equus_caballus",
+      "display_name_zh": "迷你馬"
+    },
+    {
+      "inat_taxon_id": 62629,
+      "scientific_name": "Equus ferus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1185,
+      "zoo_names_zh": [
+        "蒙古野馬"
+      ],
+      "zoo_names_en": [
+        "Przewalski's wild horse"
+      ],
+      "zoo_latin_original": [
+        "Equus przewalskii"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        284
+      ],
+      "lat": "24.9937",
+      "lng": "121.5893",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 4409270,
+      "key": "Equus_ferus",
+      "display_name_zh": "蒙古野馬"
+    },
+    {
+      "inat_taxon_id": 43335,
+      "scientific_name": "Equus quagga",
+      "rank": "species",
+      "inat_common_name": "平原斑馬 (普通斑馬)",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 26708,
+      "zoo_names_zh": [
+        "查普曼斑馬"
+      ],
+      "zoo_names_en": [
+        "Chapman's zebra"
+      ],
+      "zoo_latin_original": [
+        "Equus burchelli antiquorum"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        184
+      ],
+      "lat": "24.9952",
+      "lng": "121.5865",
+      "class_zh": "哺乳綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 2440892,
+      "key": "Equus_quagga",
+      "display_name_zh": "查普曼斑馬"
+    },
+    {
+      "inat_taxon_id": 43462,
+      "scientific_name": "Erythrocebus patas",
+      "rank": "species",
+      "inat_common_name": "赤猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1666,
+      "zoo_names_zh": [
+        "紅猴"
+      ],
+      "zoo_names_en": [
+        "Patas Monkey"
+      ],
+      "zoo_latin_original": [
+        "Erythrocebus patas"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        185,
+        186
+      ],
+      "lat": "24.9941",
+      "lng": "121.5877",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2436548,
+      "key": "Erythrocebus_patas",
+      "display_name_zh": "紅猴"
+    },
+    {
+      "inat_taxon_id": 32219,
+      "scientific_name": "Eryx miliaris",
+      "rank": "species",
+      "inat_common_name": "紅沙蚺",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 259,
+      "zoo_names_zh": [
+        "韃靼沙蚺"
+      ],
+      "zoo_names_en": [
+        "Tartari sand boa"
+      ],
+      "zoo_latin_original": [
+        "Eryx tataricus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        83
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2465319,
+      "key": "Eryx_miliaris",
+      "display_name_zh": "韃靼沙蚺"
+    },
+    {
+      "inat_taxon_id": 564214,
+      "scientific_name": "Eublaberus distanti",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 261,
+      "zoo_names_zh": [
+        "六點金翼蟑螂"
+      ],
+      "zoo_names_en": [
+        "Six Spotted Cockroach"
+      ],
+      "zoo_latin_original": [
+        "Eublaberus distanti"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        133
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1995914,
+      "key": "Eublaberus_distanti",
+      "display_name_zh": "六點金翼蟑螂"
+    },
+    {
+      "inat_taxon_id": 3750,
+      "scientific_name": "Eudocimus ruber",
+      "rank": "species",
+      "inat_common_name": "美州紅鹮",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 4565,
+      "zoo_names_zh": [
+        "美洲紅鹮"
+      ],
+      "zoo_names_en": [
+        "Scarlet Ibis"
+      ],
+      "zoo_latin_original": [
+        "Eudocimus ruber"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)",
+        "鳥園"
+      ],
+      "zoo_record_ids": [
+        52,
+        227,
+        228
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "鳥綱",
+      "conservation": "無危 LC",
+      "gbif_key": 5229204,
+      "key": "Eudocimus_ruber",
+      "display_name_zh": "美洲紅鹮"
+    },
+    {
+      "inat_taxon_id": 43613,
+      "scientific_name": "Eulemur fulvus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1131,
+      "zoo_names_zh": [
+        "褐狐猴"
+      ],
+      "zoo_names_en": [
+        "Brown Lemur"
+      ],
+      "zoo_latin_original": [
+        "Eulemur fulvus"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        192
+      ],
+      "lat": "24.9941",
+      "lng": "121.5888",
+      "class_zh": "哺乳綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 9092265,
+      "key": "Eulemur_fulvus",
+      "display_name_zh": "褐狐猴"
+    },
+    {
+      "inat_taxon_id": 735227,
+      "scientific_name": "Eurycantha calcarata",
+      "rank": "species",
+      "inat_common_name": "巨棘竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 107,
+      "zoo_names_zh": [
+        "巨棘竹節蟲"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Eurycanths Calcarata"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        139
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1412993,
+      "key": "Eurycantha_calcarata",
+      "display_name_zh": "巨棘竹節蟲"
+    },
+    {
+      "inat_taxon_id": 201282,
+      "scientific_name": "Gallinula chloropus",
+      "rank": "species",
+      "inat_common_name": "紅冠水雞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 138460,
+      "zoo_names_zh": [
+        "紅冠水雞"
+      ],
+      "zoo_names_en": [
+        "Moorhen"
+      ],
+      "zoo_latin_original": [
+        "Gallinula chloropus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        223
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5228199,
+      "key": "Gallinula_chloropus",
+      "display_name_zh": "紅冠水雞"
+    },
+    {
+      "inat_taxon_id": 880,
+      "scientific_name": "Gallus sonneratii",
+      "rank": "species",
+      "inat_common_name": "灰原雞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 913,
+      "zoo_names_zh": [
+        "灰野雞"
+      ],
+      "zoo_names_en": [
+        "Gray jungle fowl"
+      ],
+      "zoo_latin_original": [
+        "Gallus sonneratii"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        214
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5227765,
+      "key": "Gallus_sonneratii",
+      "display_name_zh": "灰野雞"
+    },
+    {
+      "inat_taxon_id": 888,
+      "scientific_name": "Gallus varius",
+      "rank": "species",
+      "inat_common_name": "綠原雞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 382,
+      "zoo_names_zh": [
+        "綠野雞"
+      ],
+      "zoo_names_en": [
+        "Green Junglefowl"
+      ],
+      "zoo_latin_original": [
+        "Gallus varius"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        250
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5227768,
+      "key": "Gallus_varius",
+      "display_name_zh": "綠野雞"
+    },
+    {
+      "inat_taxon_id": 34615,
+      "scientific_name": "Gekko gecko",
+      "rank": "species",
+      "inat_common_name": "大壁虎",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 17378,
+      "zoo_names_zh": [
+        "大壁虎"
+      ],
+      "zoo_names_en": [
+        "Tokay gecko"
+      ],
+      "zoo_latin_original": [
+        "Gekko gecko"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        82
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2447367,
+      "key": "Gekko_gecko",
+      "display_name_zh": "大壁虎"
+    },
+    {
+      "inat_taxon_id": 40106,
+      "scientific_name": "Geochelone elegans",
+      "rank": "species",
+      "inat_common_name": "印度星龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 931,
+      "zoo_names_zh": [
+        "印度星龜"
+      ],
+      "zoo_names_en": [
+        "Indian star tortoise"
+      ],
+      "zoo_latin_original": [
+        "Geochelone elegans"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        91
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2441535,
+      "key": "Geochelone_elegans",
+      "display_name_zh": "印度星龜"
+    },
+    {
+      "inat_taxon_id": 40091,
+      "scientific_name": "Geochelone platynota",
+      "rank": "species",
+      "inat_common_name": "緬甸星龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 54,
+      "zoo_names_zh": [
+        "緬甸星龜"
+      ],
+      "zoo_names_en": [
+        "Burmese star tortoise"
+      ],
+      "zoo_latin_original": [
+        "Geochelone platynota"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        112
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "極危CR",
+      "gbif_key": 2441526,
+      "key": "Geochelone_platynota",
+      "display_name_zh": "緬甸星龜"
+    },
+    {
+      "inat_taxon_id": 363809,
+      "scientific_name": "Geophagus brasiliensis",
+      "rank": "species",
+      "inat_common_name": "巴西珠母麗魚",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 1259,
+      "zoo_names_zh": [
+        "西德藍寶石"
+      ],
+      "zoo_names_en": [
+        "Pearl cichlid"
+      ],
+      "zoo_latin_original": [
+        "Geophagus brasiliensis"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        50
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "",
+      "gbif_key": 7769592,
+      "key": "Geophagus_brasiliensis",
+      "display_name_zh": "西德藍寶石"
+    },
+    {
+      "inat_taxon_id": 1510573,
+      "scientific_name": "Giraffa reticulata",
+      "rank": "species",
+      "inat_common_name": "網紋長頸鹿",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1496,
+      "zoo_names_zh": [
+        "網紋長頸鹿"
+      ],
+      "zoo_names_en": [
+        "Giraffe,Somali giraffe"
+      ],
+      "zoo_latin_original": [
+        "Giraffa camelopardalis reticulata"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        191
+      ],
+      "lat": "24.9944",
+      "lng": "121.5863",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 8888736,
+      "key": "Giraffa_reticulata",
+      "display_name_zh": "網紋長頸鹿"
+    },
+    {
+      "inat_taxon_id": 43580,
+      "scientific_name": "Gorilla gorilla",
+      "rank": "species",
+      "inat_common_name": "西非大猩猩",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2021,
+      "zoo_names_zh": [
+        "西部低地大猩猩"
+      ],
+      "zoo_names_en": [
+        "Gorilla"
+      ],
+      "zoo_latin_original": [
+        "Gorilla gorilla"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        181
+      ],
+      "lat": "24.9938",
+      "lng": "121.5874",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 2436441,
+      "key": "Gorilla_gorilla",
+      "display_name_zh": "西部低地大猩猩"
+    },
+    {
+      "inat_taxon_id": 3589,
+      "scientific_name": "Goura cristata",
+      "rank": "species",
+      "inat_common_name": "藍鳳冠鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 390,
+      "zoo_names_zh": [
+        "藍冠鴿"
+      ],
+      "zoo_names_en": [
+        "Crowned Pigeon"
+      ],
+      "zoo_latin_original": [
+        "Goura cristata"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        268
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2495207,
+      "key": "Goura_cristata",
+      "display_name_zh": "藍冠鴿"
+    },
+    {
+      "inat_taxon_id": 3593,
+      "scientific_name": "Goura victoria",
+      "rank": "species",
+      "inat_common_name": "維多利亞冠鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 911,
+      "zoo_names_zh": [
+        "維多利亞冠鴿"
+      ],
+      "zoo_names_en": [
+        "Victoria Crowned Pigeon"
+      ],
+      "zoo_latin_original": [
+        "Goura victoria"
+      ],
+      "locations": [
+        "鳥園區",
+        "穿山甲館(熱帶雨林館)"
+      ],
+      "zoo_record_ids": [
+        257,
+        258
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 2495204,
+      "key": "Goura_victoria",
+      "display_name_zh": "維多利亞冠鴿"
+    },
+    {
+      "inat_taxon_id": 41,
+      "scientific_name": "Grus grus",
+      "rank": "species",
+      "inat_common_name": "灰鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 43665,
+      "zoo_names_zh": [
+        "灰鶴"
+      ],
+      "zoo_names_en": [
+        "Common Crane"
+      ],
+      "zoo_latin_original": [
+        "Grus grus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        216
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2474950,
+      "key": "Grus_grus",
+      "display_name_zh": "灰鶴"
+    },
+    {
+      "inat_taxon_id": 39,
+      "scientific_name": "Grus japonensis",
+      "rank": "species",
+      "inat_common_name": "丹頂鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1815,
+      "zoo_names_zh": [
+        "丹頂鶴"
+      ],
+      "zoo_names_en": [
+        "Red-crowned crane"
+      ],
+      "zoo_latin_original": [
+        "Grus japonensis"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        206
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2474944,
+      "key": "Grus_japonensis",
+      "display_name_zh": "丹頂鶴"
+    },
+    {
+      "inat_taxon_id": 26,
+      "scientific_name": "Grus monacha",
+      "rank": "species",
+      "inat_common_name": "白頭鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 3237,
+      "zoo_names_zh": [
+        "白頭鶴"
+      ],
+      "zoo_names_en": [
+        "Hooded Crane"
+      ],
+      "zoo_latin_original": [
+        "Grus monacha"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        211
+      ],
+      "lat": "24.9953",
+      "lng": "121.5909",
+      "class_zh": "鳥綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2474943,
+      "key": "Grus_monacha",
+      "display_name_zh": "白頭鶴"
+    },
+    {
+      "inat_taxon_id": 48,
+      "scientific_name": "Grus virgo",
+      "rank": "species",
+      "inat_common_name": "簑羽鶴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 4112,
+      "zoo_names_zh": [
+        "簑羽鶴"
+      ],
+      "zoo_names_en": [
+        "Demoiselle Crane"
+      ],
+      "zoo_latin_original": [
+        "Anthropoides virgo"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        264
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5789355,
+      "key": "Grus_virgo",
+      "display_name_zh": "簑羽鶴"
+    },
+    {
+      "inat_taxon_id": 71247,
+      "scientific_name": "Gryllus bimaculatus",
+      "rank": "species",
+      "inat_common_name": "雙斑蟋",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 10279,
+      "zoo_names_zh": [
+        "黃斑黑蟋蟀"
+      ],
+      "zoo_names_en": [
+        "Field cricket"
+      ],
+      "zoo_latin_original": [
+        "Gryllus bimaculatus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        149
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "未評估 NE",
+      "gbif_key": 1713034,
+      "key": "Gryllus_bimaculatus",
+      "display_name_zh": "黃斑黑蟋蟀"
+    },
+    {
+      "inat_taxon_id": 5406,
+      "scientific_name": "Haliastur indus",
+      "rank": "species",
+      "inat_common_name": "栗鳶",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 21367,
+      "zoo_names_zh": [
+        "栗鳶"
+      ],
+      "zoo_names_en": [
+        "Brahminy Kite"
+      ],
+      "zoo_latin_original": [
+        "Haliastur indus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        199
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480437,
+      "key": "Haliastur_indus",
+      "display_name_zh": "栗鳶"
+    },
+    {
+      "inat_taxon_id": 146572,
+      "scientific_name": "Hebomoia glaucippe",
+      "rank": "species",
+      "inat_common_name": "鶴頂粉蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 5489,
+      "zoo_names_zh": [
+        "端紅蝶"
+      ],
+      "zoo_names_en": [
+        "Orange-edged Whites"
+      ],
+      "zoo_latin_original": [
+        "Hebomoia glaucippe formosana"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        157
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "未評估 NE",
+      "gbif_key": 1919951,
+      "key": "Hebomoia_glaucippe",
+      "display_name_zh": "端紅蝶"
+    },
+    {
+      "inat_taxon_id": 41655,
+      "scientific_name": "Helarctos malayanus",
+      "rank": "species",
+      "inat_common_name": "馬來熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1153,
+      "zoo_names_zh": [
+        "馬來熊"
+      ],
+      "zoo_names_en": [
+        "Malayan Sun Bear"
+      ],
+      "zoo_latin_original": [
+        "Helarctos malayanus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        17
+      ],
+      "lat": "24.9943",
+      "lng": "121.5829",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2433403,
+      "key": "Helarctos_malayanus",
+      "display_name_zh": "馬來熊"
+    },
+    {
+      "inat_taxon_id": 35003,
+      "scientific_name": "Heloderma suspectum",
+      "rank": "species",
+      "inat_common_name": "希拉毒蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 3918,
+      "zoo_names_zh": [
+        "鈍尾毒蜥"
+      ],
+      "zoo_names_en": [
+        "Gila monster"
+      ],
+      "zoo_latin_original": [
+        "Heloderma suspectum"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        106
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "近危NT",
+      "gbif_key": 2460817,
+      "key": "Heloderma_suspectum",
+      "display_name_zh": "鈍尾毒蜥"
+    },
+    {
+      "inat_taxon_id": 29927,
+      "scientific_name": "Heterodon nasicus",
+      "rank": "species",
+      "inat_common_name": "西部豬鼻蛇",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 2128,
+      "zoo_names_zh": [
+        "西部豬鼻蛇"
+      ],
+      "zoo_names_en": [
+        "Western hognose snake"
+      ],
+      "zoo_latin_original": [
+        "Heterodon nasicus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        93
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 5223725,
+      "key": "Heterodon_nasicus",
+      "display_name_zh": "西部豬鼻蛇"
+    },
+    {
+      "inat_taxon_id": 460458,
+      "scientific_name": "Heteropteryx dilatata",
+      "rank": "species",
+      "inat_common_name": "扁竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 765,
+      "zoo_names_zh": [
+        "扁竹節蟲"
+      ],
+      "zoo_names_en": [
+        "Malaysian stick insect"
+      ],
+      "zoo_latin_original": [
+        "Heteropteryx dilatata"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        138
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5050613,
+      "key": "Heteropteryx_dilatata",
+      "display_name_zh": "扁竹節蟲"
+    },
+    {
+      "inat_taxon_id": 42149,
+      "scientific_name": "Hippopotamus amphibius",
+      "rank": "species",
+      "inat_common_name": "河馬",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 18421,
+      "zoo_names_zh": [
+        "河馬"
+      ],
+      "zoo_names_en": [
+        "Hippopotamus"
+      ],
+      "zoo_latin_original": [
+        "Hippopotamus amphibius"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        197
+      ],
+      "lat": "24.995",
+      "lng": "121.588",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2441247,
+      "key": "Hippopotamus_amphibius",
+      "display_name_zh": "河馬"
+    },
+    {
+      "inat_taxon_id": 74442,
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "rank": "species",
+      "inat_common_name": "水豚",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 19288,
+      "zoo_names_zh": [
+        "水豚"
+      ],
+      "zoo_names_en": [
+        "Capybara"
+      ],
+      "zoo_latin_original": [
+        "Hydrochoerus hydrochaeris"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        25
+      ],
+      "lat": "24.9967",
+      "lng": "121.5827",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5786666,
+      "key": "Hydrochoerus_hydrochaeris",
+      "display_name_zh": "水豚"
+    },
+    {
+      "inat_taxon_id": 65628,
+      "scientific_name": "Hylarana taipehensis",
+      "rank": "species",
+      "inat_common_name": "臺北赤蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 339,
+      "zoo_names_zh": [
+        "臺北赤蛙"
+      ],
+      "zoo_names_en": [
+        "Taipei Grass Frog"
+      ],
+      "zoo_latin_original": [
+        "Rana taipehensis"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        75
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "兩棲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2426971,
+      "key": "Hylarana_taipehensis",
+      "display_name_zh": "臺北赤蛙"
+    },
+    {
+      "inat_taxon_id": 43593,
+      "scientific_name": "Hylobates lar",
+      "rank": "species",
+      "inat_common_name": "白掌长臂猿",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2232,
+      "zoo_names_zh": [
+        "白手長臂猿"
+      ],
+      "zoo_names_en": [
+        "White-handed Gibbon"
+      ],
+      "zoo_latin_original": [
+        "Hylobates lar"
+      ],
+      "locations": [
+        "熱帶雨林區",
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        59,
+        60
+      ],
+      "lat": "24.9945",
+      "lng": "121.5832",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5219553,
+      "key": "Hylobates_lar",
+      "display_name_zh": "白手長臂猿"
+    },
+    {
+      "inat_taxon_id": 133929,
+      "scientific_name": "Idea leuconoe",
+      "rank": "species",
+      "inat_common_name": "大白斑蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 3665,
+      "zoo_names_zh": [
+        "黑點大白斑蝶"
+      ],
+      "zoo_names_en": [
+        "Paper Kite Butterfly"
+      ],
+      "zoo_latin_original": [
+        "Idea Leuconoe"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        156
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1893266,
+      "key": "Idea_leuconoe",
+      "display_name_zh": "黑點大白斑蝶"
+    },
+    {
+      "inat_taxon_id": 133692,
+      "scientific_name": "Ideopsis similis",
+      "rank": "species",
+      "inat_common_name": "擬旖斑蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 7529,
+      "zoo_names_zh": [
+        "琉球青斑蝶"
+      ],
+      "zoo_names_en": [
+        "Liuchiou Blue Spotted Milkweed Butterfly"
+      ],
+      "zoo_latin_original": [
+        "Ideopsis similis"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        158
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1908702,
+      "key": "Ideopsis_similis",
+      "display_name_zh": "琉球青斑蝶"
+    },
+    {
+      "inat_taxon_id": 35342,
+      "scientific_name": "Iguana iguana",
+      "rank": "species",
+      "inat_common_name": "綠鬣蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 95905,
+      "zoo_names_zh": [
+        "綠鬣蜥"
+      ],
+      "zoo_names_en": [
+        "Green iguana"
+      ],
+      "zoo_latin_original": [
+        "Iguana iguana"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        108
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2459658,
+      "key": "Iguana_iguana",
+      "display_name_zh": "綠鬣蜥"
+    },
+    {
+      "inat_taxon_id": 40080,
+      "scientific_name": "Indotestudo elongata",
+      "rank": "species",
+      "inat_common_name": "緬甸陸龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 605,
+      "zoo_names_zh": [
+        "黃頭陸龜"
+      ],
+      "zoo_names_en": [
+        "Elongate tortoise"
+      ],
+      "zoo_latin_original": [
+        "Indotestudo elongata"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        124,
+        125,
+        126
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 8539576,
+      "key": "Indotestudo_elongata",
+      "display_name_zh": "黃頭陸龜"
+    },
+    {
+      "inat_taxon_id": 67980,
+      "scientific_name": "Kallima inachus",
+      "rank": "species",
+      "inat_common_name": "木葉蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 2652,
+      "zoo_names_zh": [
+        "枯葉蝶"
+      ],
+      "zoo_names_en": [
+        "Orange Oak Leaf"
+      ],
+      "zoo_latin_original": [
+        "Kallima inachis formosana"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        165
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1909607,
+      "key": "Kallima_inachus",
+      "display_name_zh": "枯葉蝶"
+    },
+    {
+      "inat_taxon_id": 20342,
+      "scientific_name": "Ketupa flavipes",
+      "rank": "species",
+      "inat_common_name": "黃魚鴞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 208,
+      "zoo_names_zh": [
+        "黃魚鴞"
+      ],
+      "zoo_names_en": [
+        "Tawny fish owl"
+      ],
+      "zoo_latin_original": [
+        "Ketupa flavipes"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        238
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5232228,
+      "key": "Ketupa_flavipes",
+      "display_name_zh": "黃魚鴞"
+    },
+    {
+      "inat_taxon_id": 796159,
+      "scientific_name": "Laccotrephes pfeiferiae",
+      "rank": "species",
+      "inat_common_name": "大紅娘華",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 333,
+      "zoo_names_zh": [
+        "大紅娘華"
+      ],
+      "zoo_names_en": [
+        "Water scorpion"
+      ],
+      "zoo_latin_original": [
+        "Laccotrephes pfeiferiae"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        127
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "未評估 NE",
+      "gbif_key": 6130367,
+      "key": "Laccotrephes_pfeiferiae",
+      "display_name_zh": "大紅娘華"
+    },
+    {
+      "inat_taxon_id": 319688,
+      "scientific_name": "Lama pacos",
+      "rank": "species",
+      "inat_common_name": "羊駝",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 5601,
+      "zoo_names_zh": [
+        "羊駝"
+      ],
+      "zoo_names_en": [
+        "Alpaca"
+      ],
+      "zoo_latin_original": [
+        "Vicugna pacos"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        66
+      ],
+      "lat": "24.9986",
+      "lng": "121.5827",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5220189,
+      "key": "Lama_pacos",
+      "display_name_zh": "羊駝"
+    },
+    {
+      "inat_taxon_id": 146199,
+      "scientific_name": "Lampropeltis californiae",
+      "rank": "species",
+      "inat_common_name": "加州王蛇",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 16572,
+      "zoo_names_zh": [
+        "加州王蛇"
+      ],
+      "zoo_names_en": [
+        "California king snake"
+      ],
+      "zoo_latin_original": [
+        "Lampropeltis getula californiae"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        87
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "一般類野生動物",
+      "gbif_key": 8170369,
+      "key": "Lampropeltis_californiae",
+      "display_name_zh": "加州王蛇"
+    },
+    {
+      "inat_taxon_id": 43617,
+      "scientific_name": "Lemur catta",
+      "rank": "species",
+      "inat_common_name": "環尾狐猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 4115,
+      "zoo_names_zh": [
+        "環尾狐猴"
+      ],
+      "zoo_names_en": [
+        "Ring-tailed Lemur"
+      ],
+      "zoo_latin_original": [
+        "Lemur catta"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        194
+      ],
+      "lat": "24.994",
+      "lng": "121.5887",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2436412,
+      "key": "Lemur_catta",
+      "display_name_zh": "環尾狐猴"
+    },
+    {
+      "inat_taxon_id": 201031,
+      "scientific_name": "Leptoptilos crumenifer",
+      "rank": "species",
+      "inat_common_name": "非洲秃鸛",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 8251,
+      "zoo_names_zh": [
+        "禿鸛"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Leptotilos crumeniferus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        219
+      ],
+      "lat": "24.9952",
+      "lng": "121.5911",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 9772663,
+      "key": "Leptoptilos_crumenifer",
+      "display_name_zh": "禿鸛"
+    },
+    {
+      "inat_taxon_id": 1094,
+      "scientific_name": "Lophura swinhoii",
+      "rank": "species",
+      "inat_common_name": "藍腹鷴",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 2717,
+      "zoo_names_zh": [
+        "藍腹鷴"
+      ],
+      "zoo_names_en": [
+        "Swinhoe's Pheasant"
+      ],
+      "zoo_latin_original": [
+        "Lophura swinhoii"
+      ],
+      "locations": [
+        "鳥園區",
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        269,
+        270,
+        271,
+        272
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 5227984,
+      "key": "Lophura_swinhoii",
+      "display_name_zh": "藍腹鷴"
+    },
+    {
+      "inat_taxon_id": 43694,
+      "scientific_name": "Loxodonta africana",
+      "rank": "species",
+      "inat_common_name": "非洲草原象",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 32116,
+      "zoo_names_zh": [
+        "非洲象"
+      ],
+      "zoo_names_en": [
+        "African Elephant"
+      ],
+      "zoo_latin_original": [
+        "Loxodonta africana"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        182
+      ],
+      "lat": "24.9952",
+      "lng": "121.5885",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2435350,
+      "key": "Loxodonta_africana",
+      "display_name_zh": "非洲象"
+    },
+    {
+      "inat_taxon_id": 1638835,
+      "scientific_name": "Lutra cinerea",
+      "rank": "species",
+      "inat_common_name": "小爪水獺",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1143,
+      "zoo_names_zh": [
+        "小爪水獺"
+      ],
+      "zoo_names_en": [
+        "Asian Small-Clawed Otter"
+      ],
+      "zoo_latin_original": [
+        "Aonyx cinereus"
+      ],
+      "locations": [
+        "熱帶雨林區",
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        64,
+        65
+      ],
+      "lat": "24.9966",
+      "lng": "121.583",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5307,
+      "key": "Lutra_cinerea",
+      "display_name_zh": "小爪水獺"
+    },
+    {
+      "inat_taxon_id": 41850,
+      "scientific_name": "Lutra lutra",
+      "rank": "species",
+      "inat_common_name": "歐亞水獺 (水獺)",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 12007,
+      "zoo_names_zh": [
+        "歐亞水獺"
+      ],
+      "zoo_names_en": [
+        "European Otter"
+      ],
+      "zoo_latin_original": [
+        "Lutra lutra"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        299
+      ],
+      "lat": "24.9975",
+      "lng": "121.5803",
+      "class_zh": "哺乳綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 2433753,
+      "key": "Lutra_lutra",
+      "display_name_zh": "歐亞水獺"
+    },
+    {
+      "inat_taxon_id": 41979,
+      "scientific_name": "Lynx lynx",
+      "rank": "species",
+      "inat_common_name": "歐亞猞猁 (猞猁)",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1984,
+      "zoo_names_zh": [
+        "歐亞大山貓"
+      ],
+      "zoo_names_en": [
+        "Eurasian lynx"
+      ],
+      "zoo_latin_original": [
+        "Lynx lynx"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        285
+      ],
+      "lat": "24.9928",
+      "lng": "121.59",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2435240,
+      "key": "Lynx_lynx",
+      "display_name_zh": "歐亞大山貓"
+    },
+    {
+      "inat_taxon_id": 43450,
+      "scientific_name": "Macaca cyclopis",
+      "rank": "species",
+      "inat_common_name": "臺灣獼猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 7208,
+      "zoo_names_zh": [
+        "臺灣獼猴"
+      ],
+      "zoo_names_en": [
+        "Formosan Macaque"
+      ],
+      "zoo_latin_original": [
+        "Macaca cyclopis"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        297
+      ],
+      "lat": "24.9973",
+      "lng": "121.5807",
+      "class_zh": "哺乳綱",
+      "conservation": "(臺灣特有種)暫無危機 LC",
+      "gbif_key": 2436615,
+      "key": "Macaca_cyclopis",
+      "display_name_zh": "臺灣獼猴"
+    },
+    {
+      "inat_taxon_id": 521318,
+      "scientific_name": "Macrochelys temminckii",
+      "rank": "species",
+      "inat_common_name": "真鱷龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1431,
+      "zoo_names_zh": [
+        "鱷龜"
+      ],
+      "zoo_names_en": [
+        "Alligator snapping turtle"
+      ],
+      "zoo_latin_original": [
+        "Macroclemys temminckii"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        115
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 5220318,
+      "key": "Macrochelys_temminckii",
+      "display_name_zh": "鱷龜"
+    },
+    {
+      "inat_taxon_id": 42888,
+      "scientific_name": "Macropus giganteus",
+      "rank": "species",
+      "inat_common_name": "東部灰袋鼠",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 36688,
+      "zoo_names_zh": [
+        "灰袋鼠"
+      ],
+      "zoo_names_en": [
+        "Eastern Gray Kangaroo"
+      ],
+      "zoo_latin_original": [
+        "Macropus giganteus"
+      ],
+      "locations": [
+        "澳洲動物區"
+      ],
+      "zoo_record_ids": [
+        307,
+        308
+      ],
+      "lat": "24.9947",
+      "lng": "121.5859",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5219981,
+      "key": "Macropus_giganteus",
+      "display_name_zh": "灰袋鼠"
+    },
+    {
+      "inat_taxon_id": 491869,
+      "scientific_name": "Malayopython reticulatus",
+      "rank": "species",
+      "inat_common_name": "網紋蟒",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 4143,
+      "zoo_names_zh": [
+        "網紋蟒"
+      ],
+      "zoo_names_en": [
+        "Reticulated python"
+      ],
+      "zoo_latin_original": [
+        "Python reticulatus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館",
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        116,
+        117
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 9260388,
+      "key": "Malayopython_reticulatus",
+      "display_name_zh": "網紋蟒"
+    },
+    {
+      "inat_taxon_id": 43366,
+      "scientific_name": "Manis pentadactyla",
+      "rank": "species",
+      "inat_common_name": "穿山甲",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1007,
+      "zoo_names_zh": [
+        "臺灣穿山甲"
+      ],
+      "zoo_names_en": [
+        "Formosan Pangolin"
+      ],
+      "zoo_latin_original": [
+        "Manis pentadactyla pentadactyla"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        289,
+        290
+      ],
+      "lat": "24.9973",
+      "lng": "121.581",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 5219638,
+      "key": "Manis_pentadactyla",
+      "display_name_zh": "臺灣穿山甲"
+    },
+    {
+      "inat_taxon_id": 57389,
+      "scientific_name": "Manouria emys",
+      "rank": "species",
+      "inat_common_name": "亞洲棕龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 368,
+      "zoo_names_zh": [
+        "亞洲棕龜"
+      ],
+      "zoo_names_en": [
+        "Asian forest tortoise"
+      ],
+      "zoo_latin_original": [
+        "Manouria emys"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        94
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "極危CR",
+      "gbif_key": 2441830,
+      "key": "Manouria_emys",
+      "display_name_zh": "亞洲棕龜"
+    },
+    {
+      "inat_taxon_id": 39975,
+      "scientific_name": "Mauremys annamensis",
+      "rank": "species",
+      "inat_common_name": "安南龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 36,
+      "zoo_names_zh": [
+        "安南龜"
+      ],
+      "zoo_names_en": [
+        "Vietnamese Pond Turtle"
+      ],
+      "zoo_latin_original": [
+        "Mauremys annamensis"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        84
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "極危CR",
+      "gbif_key": 2443412,
+      "key": "Mauremys_annamensis",
+      "display_name_zh": "安南龜"
+    },
+    {
+      "inat_taxon_id": 68350,
+      "scientific_name": "Mauremys mutica",
+      "rank": "species",
+      "inat_common_name": "黃喉擬水龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1084,
+      "zoo_names_zh": [
+        "柴棺龜"
+      ],
+      "zoo_names_en": [
+        "Yellow pond turtle"
+      ],
+      "zoo_latin_original": [
+        "Mauremys mutica"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        79
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 2443393,
+      "key": "Mauremys_mutica",
+      "display_name_zh": "柴棺龜"
+    },
+    {
+      "inat_taxon_id": 39950,
+      "scientific_name": "Mauremys sinensis",
+      "rank": "species",
+      "inat_common_name": "斑龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 7464,
+      "zoo_names_zh": [
+        "斑龜"
+      ],
+      "zoo_names_en": [
+        "Chinese striped-neck turtle"
+      ],
+      "zoo_latin_original": [
+        "Mauremys sinensis"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        103
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 2443244,
+      "key": "Mauremys_sinensis",
+      "display_name_zh": "斑龜"
+    },
+    {
+      "inat_taxon_id": 1415014,
+      "scientific_name": "Mecopoda elongata",
+      "rank": "complex",
+      "inat_common_name": "",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 1363,
+      "zoo_names_zh": [
+        "臺灣騷斯"
+      ],
+      "zoo_names_en": [
+        "Long-winged Katydid"
+      ],
+      "zoo_latin_original": [
+        "Mecopoda elongata"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        150
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "未評估 NE",
+      "gbif_key": 1689529,
+      "key": "Mecopoda_elongata",
+      "display_name_zh": "臺灣騷斯"
+    },
+    {
+      "inat_taxon_id": 737741,
+      "scientific_name": "Megacrania tsudai",
+      "rank": "species",
+      "inat_common_name": "津田氏大頭竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 215,
+      "zoo_names_zh": [
+        "津田氏大頭竹節蟲"
+      ],
+      "zoo_names_en": [
+        "Tsuda Phasmid"
+      ],
+      "zoo_latin_original": [
+        "Megacrania tsudai"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        146
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1413766,
+      "key": "Megacrania_tsudai",
+      "display_name_zh": "津田氏大頭竹節蟲"
+    },
+    {
+      "inat_taxon_id": 1264418,
+      "scientific_name": "Melogale subaurantiaca",
+      "rank": "species",
+      "inat_common_name": "台灣鼬貛",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 946,
+      "zoo_names_zh": [
+        "鼬獾"
+      ],
+      "zoo_names_en": [
+        "Formosan Ferret-badger"
+      ],
+      "zoo_latin_original": [
+        "Melogale moschata subaurantiaca"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        300
+      ],
+      "lat": "24.9974",
+      "lng": "121.5811",
+      "class_zh": "哺乳綱",
+      "conservation": "(臺灣特有亞種)暫無危機 LC",
+      "gbif_key": 2433631,
+      "key": "Melogale_subaurantiaca",
+      "display_name_zh": "鼬獾"
+    },
+    {
+      "inat_taxon_id": 2212,
+      "scientific_name": "Merops philippinus",
+      "rank": "species",
+      "inat_common_name": "栗喉蜂虎",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 11445,
+      "zoo_names_zh": [
+        "栗喉蜂虎"
+      ],
+      "zoo_names_en": [
+        "Blue-tailed bee-eater"
+      ],
+      "zoo_latin_original": [
+        "Merops philippinus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        51
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "鳥綱",
+      "conservation": "無危 LC",
+      "gbif_key": 2475452,
+      "key": "Merops_philippinus",
+      "display_name_zh": "栗喉蜂虎"
+    },
+    {
+      "inat_taxon_id": 42187,
+      "scientific_name": "Muntiacus reevesi",
+      "rank": "species",
+      "inat_common_name": "山羌",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 9484,
+      "zoo_names_zh": [
+        "臺灣山羌"
+      ],
+      "zoo_names_en": [
+        "Formosan Reeve's muntjac"
+      ],
+      "zoo_latin_original": [
+        "Muntiacus reevesi micrurus"
+      ],
+      "locations": [
+        "臺灣動物區",
+        "熱帶雨林區",
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        302,
+        303,
+        304,
+        305
+      ],
+      "lat": "24.9977",
+      "lng": "121.5811",
+      "class_zh": "哺乳綱",
+      "conservation": "(台灣特有亞種)非保護類野生動物",
+      "gbif_key": 2440946,
+      "key": "Muntiacus_reevesi",
+      "display_name_zh": "臺灣山羌"
+    },
+    {
+      "inat_taxon_id": 47107,
+      "scientific_name": "Myrmecophaga tridactyla",
+      "rank": "species",
+      "inat_common_name": "大食蟻獸",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 3455,
+      "zoo_names_zh": [
+        "大食蟻獸"
+      ],
+      "zoo_names_en": [
+        "Giant anteater"
+      ],
+      "zoo_latin_original": [
+        "Myrmecophaga tridactyla"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        26
+      ],
+      "lat": "24.9968",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2436346,
+      "key": "Myrmecophaga_tridactyla",
+      "display_name_zh": "大食蟻獸"
+    },
+    {
+      "inat_taxon_id": 30492,
+      "scientific_name": "Naja atra",
+      "rank": "species",
+      "inat_common_name": "舟山眼鏡蛇",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 1960,
+      "zoo_names_zh": [
+        "眼鏡蛇"
+      ],
+      "zoo_names_en": [
+        "Chinese Cobra"
+      ],
+      "zoo_latin_original": [
+        "Naja atra"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        80
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2470319,
+      "key": "Naja_atra",
+      "display_name_zh": "眼鏡蛇"
+    },
+    {
+      "inat_taxon_id": 41670,
+      "scientific_name": "Nasua nasua",
+      "rank": "species",
+      "inat_common_name": "南美浣熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 7730,
+      "zoo_names_zh": [
+        "長鼻浣熊"
+      ],
+      "zoo_names_en": [
+        "South American Coati"
+      ],
+      "zoo_latin_original": [
+        "Nasua nasua"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        67
+      ],
+      "lat": "24.9993",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2433536,
+      "key": "Nasua_nasua",
+      "display_name_zh": "長鼻浣熊"
+    },
+    {
+      "inat_taxon_id": 41972,
+      "scientific_name": "Neofelis nebulosa",
+      "rank": "species",
+      "inat_common_name": "雲豹",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 293,
+      "zoo_names_zh": [
+        "雲豹"
+      ],
+      "zoo_names_en": [
+        "Clouded leopard"
+      ],
+      "zoo_latin_original": [
+        "Neofelis nebulosa"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        293
+      ],
+      "lat": "24.9978",
+      "lng": "121.58",
+      "class_zh": "哺乳綱",
+      "conservation": "野外滅絕 EW",
+      "gbif_key": 2435079,
+      "key": "Neofelis_nebulosa",
+      "display_name_zh": "雲豹"
+    },
+    {
+      "inat_taxon_id": 107006,
+      "scientific_name": "Neurothemis ramburii",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 3727,
+      "zoo_names_zh": [
+        "善變蜻蜓"
+      ],
+      "zoo_names_en": [
+        "Red Percher"
+      ],
+      "zoo_latin_original": [
+        "Neurothemis ramburii ramburii"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        173
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "極危 CR",
+      "gbif_key": 1427789,
+      "key": "Neurothemis_ramburii",
+      "display_name_zh": "善變蜻蜓"
+    },
+    {
+      "inat_taxon_id": 717558,
+      "scientific_name": "Nidirana adenopleura",
+      "rank": "species",
+      "inat_common_name": "腹斑蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 2496,
+      "zoo_names_zh": [
+        "腹斑蛙"
+      ],
+      "zoo_names_en": [
+        "Olive frog"
+      ],
+      "zoo_latin_original": [
+        "Rana adenopleura"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        77
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "兩棲綱",
+      "conservation": "一般類野生動物",
+      "gbif_key": 10889090,
+      "key": "Nidirana_adenopleura",
+      "display_name_zh": "腹斑蛙"
+    },
+    {
+      "inat_taxon_id": 73104,
+      "scientific_name": "Nisaetus nipalensis",
+      "rank": "species",
+      "inat_common_name": "熊鷹",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1189,
+      "zoo_names_zh": [
+        "熊鷹"
+      ],
+      "zoo_names_en": [
+        "Hodgson's Hawk Eagle"
+      ],
+      "zoo_latin_original": [
+        "Nisaetus nipalensis"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        249
+      ],
+      "lat": "24.9952",
+      "lng": "121.5911",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5788503,
+      "key": "Nisaetus_nipalensis",
+      "display_name_zh": "熊鷹"
+    },
+    {
+      "inat_taxon_id": 3681,
+      "scientific_name": "Ocyphaps lophotes",
+      "rank": "species",
+      "inat_common_name": "鳳頭鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 26530,
+      "zoo_names_zh": [
+        "澳洲冠鳩"
+      ],
+      "zoo_names_en": [
+        "Crested Pigeon"
+      ],
+      "zoo_latin_original": [
+        "Ocyphaps lophotes"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        263
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2495190,
+      "key": "Ocyphaps_lophotes",
+      "display_name_zh": "澳洲冠鳩"
+    },
+    {
+      "inat_taxon_id": 66264,
+      "scientific_name": "Odorrana swinhoana",
+      "rank": "species",
+      "inat_common_name": "斯文豪氏赤蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 5710,
+      "zoo_names_zh": [
+        "斯文豪氏赤蛙"
+      ],
+      "zoo_names_en": [
+        "Swinhoe's frog"
+      ],
+      "zoo_latin_original": [
+        "Rana swinhoana"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        76
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "兩棲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2427256,
+      "key": "Odorrana_swinhoana",
+      "display_name_zh": "斯文豪氏赤蛙"
+    },
+    {
+      "inat_taxon_id": 69991,
+      "scientific_name": "Oryx beisa",
+      "rank": "species",
+      "inat_common_name": "東非劍羚",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1037,
+      "zoo_names_zh": [
+        "東非劍羚"
+      ],
+      "zoo_names_en": [
+        "East African Oryx"
+      ],
+      "zoo_latin_original": [
+        "Oryx beisa"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        196
+      ],
+      "lat": "24.995",
+      "lng": "121.5868",
+      "class_zh": "哺乳綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 5706393,
+      "key": "Oryx_beisa",
+      "display_name_zh": "東非劍羚"
+    },
+    {
+      "inat_taxon_id": 215207,
+      "scientific_name": "Osteoglossum bicirrhosum",
+      "rank": "species",
+      "inat_common_name": "雙鬚骨舌魚 (銀龍魚)",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 834,
+      "zoo_names_zh": [
+        "雙鬚骨舌魚"
+      ],
+      "zoo_names_en": [
+        "Silver arowana"
+      ],
+      "zoo_latin_original": [
+        "Osteoglossum bicirrhosum"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        45
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "",
+      "gbif_key": 5212838,
+      "key": "Osteoglossum_bicirrhosum",
+      "display_name_zh": "雙鬚骨舌魚"
+    },
+    {
+      "inat_taxon_id": 204559,
+      "scientific_name": "Otus bakkamoena",
+      "rank": "species",
+      "inat_common_name": "印度領角鴞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1620,
+      "zoo_names_zh": [
+        "領角鴞"
+      ],
+      "zoo_names_en": [
+        "Collared Scops Owl"
+      ],
+      "zoo_latin_original": [
+        "Otus bakkamoena"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        298
+      ],
+      "lat": "24.9979",
+      "lng": "121.5799",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5232251,
+      "key": "Otus_bakkamoena",
+      "display_name_zh": "領角鴞"
+    },
+    {
+      "inat_taxon_id": 146661,
+      "scientific_name": "Pachliopta aristolochiae",
+      "rank": "species",
+      "inat_common_name": "紅珠鳳蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 10900,
+      "zoo_names_zh": [
+        "紅紋鳳蝶"
+      ],
+      "zoo_names_en": [
+        "Common Rose Swallowtail"
+      ],
+      "zoo_latin_original": [
+        "Pachlioptera aristolochiae interpositus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        155
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1939168,
+      "key": "Pachliopta_aristolochiae",
+      "display_name_zh": "紅紋鳳蝶"
+    },
+    {
+      "inat_taxon_id": 603122,
+      "scientific_name": "Pachyrhynchus sarcitis",
+      "rank": "species",
+      "inat_common_name": "大圓斑球背象鼻蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 165,
+      "zoo_names_zh": [
+        "大圓斑球背象鼻蟲"
+      ],
+      "zoo_names_en": [
+        "Pachyrhynchus weevil"
+      ],
+      "zoo_latin_original": [
+        "Pachyrhynchus sarcitis kotoensis"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        136
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 8377109,
+      "key": "Pachyrhynchus_sarcitis",
+      "display_name_zh": "大圓斑球背象鼻蟲"
+    },
+    {
+      "inat_taxon_id": 41625,
+      "scientific_name": "Paguma larvata",
+      "rank": "species",
+      "inat_common_name": "果子狸",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 3014,
+      "zoo_names_zh": [
+        "白鼻心"
+      ],
+      "zoo_names_en": [
+        "Formosan Gem-faced Civet"
+      ],
+      "zoo_latin_original": [
+        "Paguma larvata taivana"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        287,
+        288
+      ],
+      "lat": "24.9977",
+      "lng": "121.5801",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機(LC)",
+      "gbif_key": 2434654,
+      "key": "Paguma_larvata",
+      "display_name_zh": "白鼻心"
+    },
+    {
+      "inat_taxon_id": 43577,
+      "scientific_name": "Pan troglodytes",
+      "rank": "species",
+      "inat_common_name": "黑猩猩",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2394,
+      "zoo_names_zh": [
+        "黑猩猩"
+      ],
+      "zoo_names_en": [
+        "Chimpanzee"
+      ],
+      "zoo_latin_original": [
+        "Pan troglodytes"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        189,
+        190
+      ],
+      "lat": "24.9935",
+      "lng": "121.5873",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5219534,
+      "key": "Pan_troglodytes",
+      "display_name_zh": "黑猩猩"
+    },
+    {
+      "inat_taxon_id": 127713,
+      "scientific_name": "Pandinus imperator",
+      "rank": "species",
+      "inat_common_name": "統治者懼蠍",
+      "iconic_taxon": "Arachnida",
+      "inat_obs_count": 305,
+      "zoo_names_zh": [
+        "帝王蠍"
+      ],
+      "zoo_names_en": [
+        "Emperor Scorpion"
+      ],
+      "zoo_latin_original": [
+        "Pandinus imperator"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        129
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "蛛形綱",
+      "conservation": "",
+      "gbif_key": 6894611,
+      "key": "Pandinus_imperator",
+      "display_name_zh": "帝王蠍"
+    },
+    {
+      "inat_taxon_id": 41964,
+      "scientific_name": "Panthera leo",
+      "rank": "species",
+      "inat_common_name": "獅",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 26228,
+      "zoo_names_zh": [
+        "非洲獅"
+      ],
+      "zoo_names_en": [
+        "Lion"
+      ],
+      "zoo_latin_original": [
+        "Panthera leo"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        183
+      ],
+      "lat": "24.9946",
+      "lng": "121.587",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5219404,
+      "key": "Panthera_leo",
+      "display_name_zh": "非洲獅"
+    },
+    {
+      "inat_taxon_id": 41963,
+      "scientific_name": "Panthera pardus",
+      "rank": "species",
+      "inat_common_name": "豹",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 15164,
+      "zoo_names_zh": [
+        "花豹"
+      ],
+      "zoo_names_en": [
+        "Leopard"
+      ],
+      "zoo_latin_original": [
+        "Panthera pardus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        16
+      ],
+      "lat": "24.9944",
+      "lng": "121.5829",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 5219436,
+      "key": "Panthera_pardus",
+      "display_name_zh": "花豹"
+    },
+    {
+      "inat_taxon_id": 41967,
+      "scientific_name": "Panthera tigris",
+      "rank": "species",
+      "inat_common_name": "虎",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 9362,
+      "zoo_names_zh": [
+        "馬來虎"
+      ],
+      "zoo_names_en": [
+        "Malayan Tiger"
+      ],
+      "zoo_latin_original": [
+        "Panthera tigris jacksoni"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        15
+      ],
+      "lat": "24.9942",
+      "lng": "121.5832",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 5219416,
+      "key": "Panthera_tigris",
+      "display_name_zh": "馬來虎"
+    },
+    {
+      "inat_taxon_id": 1475913,
+      "scientific_name": "Papilio agenor",
+      "rank": "species",
+      "inat_common_name": "美鳳蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 16210,
+      "zoo_names_zh": [
+        "大鳳蝶"
+      ],
+      "zoo_names_en": [
+        "Great Mormon"
+      ],
+      "zoo_latin_original": [
+        "Papilio memnon heronus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        154
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1937909,
+      "key": "Papilio_agenor",
+      "display_name_zh": "大鳳蝶"
+    },
+    {
+      "inat_taxon_id": 68352,
+      "scientific_name": "Papilio bianor",
+      "rank": "species",
+      "inat_common_name": "碧鳳蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 4820,
+      "zoo_names_zh": [
+        "烏鴉鳳蝶"
+      ],
+      "zoo_names_en": [
+        "Chinese Peacock"
+      ],
+      "zoo_latin_original": [
+        "Papilio bianor takasago"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        152
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1937723,
+      "key": "Papilio_bianor",
+      "display_name_zh": "烏鴉鳳蝶"
+    },
+    {
+      "inat_taxon_id": 51583,
+      "scientific_name": "Papilio demoleus",
+      "rank": "species",
+      "inat_common_name": "達摩鳳蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 30459,
+      "zoo_names_zh": [
+        "無尾鳳蝶"
+      ],
+      "zoo_names_en": [
+        "Lime Butterfly"
+      ],
+      "zoo_latin_original": [
+        "Papilio demoleus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        151
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 1938069,
+      "key": "Papilio_demoleus",
+      "display_name_zh": "無尾鳳蝶"
+    },
+    {
+      "inat_taxon_id": 146651,
+      "scientific_name": "Papilio paris",
+      "rank": "species",
+      "inat_common_name": "巴黎翠鳳蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 8180,
+      "zoo_names_zh": [
+        "大琉璃紋鳳蝶"
+      ],
+      "zoo_names_en": [
+        "Paris Pescock"
+      ],
+      "zoo_latin_original": [
+        "Papilio Paris Nakaharai"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        153
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1937911,
+      "key": "Papilio_paris",
+      "display_name_zh": "大琉璃紋鳳蝶"
+    },
+    {
+      "inat_taxon_id": 74832,
+      "scientific_name": "Papio anubis",
+      "rank": "species",
+      "inat_common_name": "東非狒狒",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 7213,
+      "zoo_names_zh": [
+        "東非狒狒"
+      ],
+      "zoo_names_en": [
+        "Olive Baboon"
+      ],
+      "zoo_latin_original": [
+        "Papio anubis"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        180
+      ],
+      "lat": "24.994",
+      "lng": "121.5884",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5707341,
+      "key": "Papio_anubis",
+      "display_name_zh": "東非狒狒"
+    },
+    {
+      "inat_taxon_id": 1204,
+      "scientific_name": "Pavo cristatus",
+      "rank": "species",
+      "inat_common_name": "藍孔雀",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 59037,
+      "zoo_names_zh": [
+        "藍孔雀"
+      ],
+      "zoo_names_en": [
+        "Common Peafowl"
+      ],
+      "zoo_latin_original": [
+        "Pavo cristatus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        267
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 9451184,
+      "key": "Pavo_cristatus",
+      "display_name_zh": "藍孔雀"
+    },
+    {
+      "inat_taxon_id": 4327,
+      "scientific_name": "Pelecanus onocrotalus",
+      "rank": "species",
+      "inat_common_name": "白鵜鶘",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 10751,
+      "zoo_names_zh": [
+        "白鵜鶘"
+      ],
+      "zoo_names_en": [
+        "Great White Pelican"
+      ],
+      "zoo_latin_original": [
+        "Pelecanus onocrotalus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        212
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480350,
+      "key": "Pelecanus_onocrotalus",
+      "display_name_zh": "白鵜鶘"
+    },
+    {
+      "inat_taxon_id": 4335,
+      "scientific_name": "Pelecanus rufescens",
+      "rank": "species",
+      "inat_common_name": "粉背鵜鶘",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 2594,
+      "zoo_names_zh": [
+        "粉紅背鵜鶘"
+      ],
+      "zoo_names_en": [
+        "Pink-backed Pelican"
+      ],
+      "zoo_latin_original": [
+        "Pelecanus rufescens"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        233
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480352,
+      "key": "Pelecanus_rufescens",
+      "display_name_zh": "粉紅背鵜鶘"
+    },
+    {
+      "inat_taxon_id": 744448,
+      "scientific_name": "Phaenopharos khaoyaiensis",
+      "rank": "species",
+      "inat_common_name": "泰國小紅翅竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 47,
+      "zoo_names_zh": [
+        "泰國小紅翅竹節蟲"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Phaenopharos Khaoyaiensis"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        140
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1409751,
+      "key": "Phaenopharos_khaoyaiensis",
+      "display_name_zh": "泰國小紅翅竹節蟲"
+    },
+    {
+      "inat_taxon_id": 42983,
+      "scientific_name": "Phascolarctos cinereus",
+      "rank": "species",
+      "inat_common_name": "樹袋熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 48450,
+      "zoo_names_zh": [
+        "無尾熊"
+      ],
+      "zoo_names_en": [
+        "Koala"
+      ],
+      "zoo_latin_original": [
+        "Phascolarctos cinereus"
+      ],
+      "locations": [
+        "無尾熊館"
+      ],
+      "zoo_record_ids": [
+        274,
+        275
+      ],
+      "lat": "24.9984",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2440012,
+      "key": "Phascolarctos_cinereus",
+      "display_name_zh": "無尾熊"
+    },
+    {
+      "inat_taxon_id": 981,
+      "scientific_name": "Phasianus colchicus",
+      "rank": "species",
+      "inat_common_name": "環頸雉",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 77590,
+      "zoo_names_zh": [
+        "環頸雉"
+      ],
+      "zoo_names_en": [
+        "Ring-necked Pheasant"
+      ],
+      "zoo_latin_original": [
+        "Phasianus colchicus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        266
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 9752149,
+      "key": "Phasianus_colchicus",
+      "display_name_zh": "環頸雉"
+    },
+    {
+      "inat_taxon_id": 741740,
+      "scientific_name": "Phasmotaenia lanyuhensis",
+      "rank": "species",
+      "inat_common_name": "蘭嶼筒胸竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 91,
+      "zoo_names_zh": [
+        "蘭嶼筒胸竹節蟲"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Phasmotaenia lanyuhensis"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        145
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1411912,
+      "key": "Phasmotaenia_lanyuhensis",
+      "display_name_zh": "蘭嶼筒胸竹節蟲"
+    },
+    {
+      "inat_taxon_id": 47343,
+      "scientific_name": "Pheidole",
+      "rank": "genus",
+      "inat_common_name": "大頭家蟻屬",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 55811,
+      "zoo_names_zh": [
+        "大頭家蟻"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Pheidole Sp."
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        168
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1321654,
+      "key": "Pheidole",
+      "display_name_zh": "大頭家蟻"
+    },
+    {
+      "inat_taxon_id": 535979,
+      "scientific_name": "Phobaeticus serratipes",
+      "rank": "species",
+      "inat_common_name": "尖刺足刺竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 78,
+      "zoo_names_zh": [
+        "尖刺足刺竹節蟲"
+      ],
+      "zoo_names_en": [
+        "Giant Walking Stick"
+      ],
+      "zoo_latin_original": [
+        "Phobaeticus serratipes"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        141
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1413288,
+      "key": "Phobaeticus_serratipes",
+      "display_name_zh": "尖刺足刺竹節蟲"
+    },
+    {
+      "inat_taxon_id": 4258,
+      "scientific_name": "Phoenicopterus chilensis",
+      "rank": "species",
+      "inat_common_name": "智利紅鸛",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 9478,
+      "zoo_names_zh": [
+        "智利紅鶴"
+      ],
+      "zoo_names_en": [
+        "Chilean Flamingo"
+      ],
+      "zoo_latin_original": [
+        "Phoenicopterus chilensis"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        235
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 2481110,
+      "key": "Phoenicopterus_chilensis",
+      "display_name_zh": "智利紅鶴"
+    },
+    {
+      "inat_taxon_id": 73222,
+      "scientific_name": "Phoenicopterus roseus",
+      "rank": "species",
+      "inat_common_name": "大紅鸛",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 41571,
+      "zoo_names_zh": [
+        "大紅鶴"
+      ],
+      "zoo_names_en": [
+        "Greater flamingo"
+      ],
+      "zoo_latin_original": [
+        "Phoenicopterus roseus"
+      ],
+      "locations": [
+        "鳥園區",
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        202,
+        203
+      ],
+      "lat": "24.9953",
+      "lng": "121.591",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 4352332,
+      "key": "Phoenicopterus_roseus",
+      "display_name_zh": "大紅鶴"
+    },
+    {
+      "inat_taxon_id": 21217,
+      "scientific_name": "Phyllobates terribilis",
+      "rank": "species",
+      "inat_common_name": "金色箭毒蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 497,
+      "zoo_names_zh": [
+        "金色箭毒蛙"
+      ],
+      "zoo_names_en": [
+        "Golden Poison Frog"
+      ],
+      "zoo_latin_original": [
+        "Phyllobates terribilis"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        38
+      ],
+      "lat": "24.9958",
+      "lng": "121.5833",
+      "class_zh": "兩棲綱",
+      "conservation": "無危 LC",
+      "gbif_key": 5218020,
+      "key": "Phyllobates_terribilis",
+      "display_name_zh": "金色箭毒蛙"
+    },
+    {
+      "inat_taxon_id": 741733,
+      "scientific_name": "Phyllophorina kotoshoensis",
+      "rank": "species",
+      "inat_common_name": "蘭嶼大葉螽蟴",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 118,
+      "zoo_names_zh": [
+        "蘭嶼大葉螽斯"
+      ],
+      "zoo_names_en": [
+        "Lan-hsu giant katydid"
+      ],
+      "zoo_latin_original": [
+        "Phyllophorina kotoshoensis"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        148
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "保育類",
+      "gbif_key": 1683644,
+      "key": "Phyllophorina_kotoshoensis",
+      "display_name_zh": "蘭嶼大葉螽斯"
+    },
+    {
+      "inat_taxon_id": 31424,
+      "scientific_name": "Physignathus cocincinus",
+      "rank": "species",
+      "inat_common_name": "中國水龍",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 2295,
+      "zoo_names_zh": [
+        "綠長鬣蜥"
+      ],
+      "zoo_names_en": [
+        "Chinese Water Dragon"
+      ],
+      "zoo_latin_original": [
+        "Physignathus cocincinus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        107
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2465402,
+      "key": "Physignathus_cocincinus",
+      "display_name_zh": "綠長鬣蜥"
+    },
+    {
+      "inat_taxon_id": 208536,
+      "scientific_name": "Piaractus brachypomus",
+      "rank": "species",
+      "inat_common_name": "銀板",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 1284,
+      "zoo_names_zh": [
+        "短蓋肥脂鯉"
+      ],
+      "zoo_names_en": [
+        "Red-belied pacu"
+      ],
+      "zoo_latin_original": [
+        "Piaractus brachypomus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        44
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "",
+      "gbif_key": 2353225,
+      "key": "Piaractus_brachypomus",
+      "display_name_zh": "短蓋肥脂鯉"
+    },
+    {
+      "inat_taxon_id": 3729,
+      "scientific_name": "Platalea minor",
+      "rank": "species",
+      "inat_common_name": "黑面琵鷺",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 5776,
+      "zoo_names_zh": [
+        "黑面琵鷺"
+      ],
+      "zoo_names_en": [
+        "Black-faced Spoonbill"
+      ],
+      "zoo_latin_original": [
+        "Platalea minor"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        244
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2480805,
+      "key": "Platalea_minor",
+      "display_name_zh": "黑面琵鷺"
+    },
+    {
+      "inat_taxon_id": 31411,
+      "scientific_name": "Pogona vitticeps",
+      "rank": "species",
+      "inat_common_name": "鬃獅蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 7770,
+      "zoo_names_zh": [
+        "中部鬍鬚蜥"
+      ],
+      "zoo_names_en": [
+        "Central bearded dragon"
+      ],
+      "zoo_latin_original": [
+        "Pogona vitticeps"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        86
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2465641,
+      "key": "Pogona_vitticeps",
+      "display_name_zh": "中部鬍鬚蜥"
+    },
+    {
+      "inat_taxon_id": 43582,
+      "scientific_name": "Pongo pygmaeus",
+      "rank": "species",
+      "inat_common_name": "婆羅洲猩猩",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 3671,
+      "zoo_names_zh": [
+        "婆羅洲人猿"
+      ],
+      "zoo_names_en": [
+        "Bornean Orangutan"
+      ],
+      "zoo_latin_original": [
+        "Pongo pygmaeus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        9,
+        10
+      ],
+      "lat": "24.9952",
+      "lng": "121.5834",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 5219532,
+      "key": "Pongo_pygmaeus",
+      "display_name_zh": "婆羅洲人猿"
+    },
+    {
+      "inat_taxon_id": 91280,
+      "scientific_name": "Potamotrygon",
+      "rank": "genus",
+      "inat_common_name": "",
+      "iconic_taxon": "Animalia",
+      "inat_obs_count": 1730,
+      "zoo_names_zh": [
+        "黑帝王魟"
+      ],
+      "zoo_names_en": [
+        "Pearl Stingray"
+      ],
+      "zoo_latin_original": [
+        "Potamotrygon sp"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        47
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "軟骨魚綱",
+      "conservation": "",
+      "gbif_key": 2419329,
+      "key": "Potamotrygon",
+      "display_name_zh": "黑帝王魟"
+    },
+    {
+      "inat_taxon_id": 41678,
+      "scientific_name": "Potos flavus",
+      "rank": "species",
+      "inat_common_name": "蜜熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2546,
+      "zoo_names_zh": [
+        "蜜熊"
+      ],
+      "zoo_names_en": [
+        "Kinkajou"
+      ],
+      "zoo_latin_original": [
+        "Potos flavus"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        74
+      ],
+      "lat": "24.9993",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2433573,
+      "key": "Potos_flavus",
+      "display_name_zh": "蜜熊"
+    },
+    {
+      "inat_taxon_id": 922738,
+      "scientific_name": "Prionailurus bengalensis",
+      "rank": "species",
+      "inat_common_name": "石虎",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1230,
+      "zoo_names_zh": [
+        "石虎"
+      ],
+      "zoo_names_en": [
+        "Leopard Cat"
+      ],
+      "zoo_latin_original": [
+        "Prionailurus bengalensis chinensis"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        286
+      ],
+      "lat": "24.9971",
+      "lng": "121.5809",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2434903,
+      "key": "Prionailurus_bengalensis",
+      "display_name_zh": "石虎"
+    },
+    {
+      "inat_taxon_id": 1450316,
+      "scientific_name": "Pristomyrmex punctatus",
+      "rank": "complex",
+      "inat_common_name": "",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 2034,
+      "zoo_names_zh": [
+        "堅硬雙針家蟻"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Pristomyrmex punctatus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        170
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1315738,
+      "key": "Pristomyrmex_punctatus",
+      "display_name_zh": "堅硬雙針家蟻"
+    },
+    {
+      "inat_taxon_id": 110396,
+      "scientific_name": "Probarbus jullieni",
+      "rank": "species",
+      "inat_common_name": "穗鬚原鯉",
+      "iconic_taxon": "Actinopterygii",
+      "inat_obs_count": 29,
+      "zoo_names_zh": [
+        "穗鬚原鯉"
+      ],
+      "zoo_names_en": [
+        "Jullien's Golden Carp"
+      ],
+      "zoo_latin_original": [
+        "Probarbus jullieni"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        46
+      ],
+      "lat": "24.9959",
+      "lng": "121.5832",
+      "class_zh": "硬骨魚綱",
+      "conservation": "極危 CR",
+      "gbif_key": 2363810,
+      "key": "Probarbus_jullieni",
+      "display_name_zh": "穗鬚原鯉"
+    },
+    {
+      "inat_taxon_id": 117073,
+      "scientific_name": "Probosciger aterrimus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 690,
+      "zoo_names_zh": [
+        "棕櫚鳳頭鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Palm Cockatoo"
+      ],
+      "zoo_latin_original": [
+        "Probosciger aterrimus"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        236
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2479187,
+      "key": "Probosciger_aterrimus",
+      "display_name_zh": "棕櫚鳳頭鸚鵡"
+    },
+    {
+      "inat_taxon_id": 41663,
+      "scientific_name": "Procyon lotor",
+      "rank": "species",
+      "inat_common_name": "浣熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 207682,
+      "zoo_names_zh": [
+        "北美浣熊"
+      ],
+      "zoo_names_en": [
+        "Raccoon"
+      ],
+      "zoo_latin_original": [
+        "Procyon lotor"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        73
+      ],
+      "lat": "24.9923",
+      "lng": "121.5891",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5218786,
+      "key": "Procyon_lotor",
+      "display_name_zh": "北美浣熊"
+    },
+    {
+      "inat_taxon_id": 31975,
+      "scientific_name": "Pseudopus apodus",
+      "rank": "species",
+      "inat_common_name": "帝王蛇蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 3598,
+      "zoo_names_zh": [
+        "歐洲蛇蜥"
+      ],
+      "zoo_names_en": [
+        "European glass lizard"
+      ],
+      "zoo_latin_original": [
+        "Ophisaurus apodus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        100
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2468350,
+      "key": "Pseudopus_apodus",
+      "display_name_zh": "歐洲蛇蜥"
+    },
+    {
+      "inat_taxon_id": 367544,
+      "scientific_name": "Psilopogon nuchalis",
+      "rank": "species",
+      "inat_common_name": "五色鳥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 7074,
+      "zoo_names_zh": [
+        "臺灣擬啄木"
+      ],
+      "zoo_names_en": [
+        "Taiwan Barbet"
+      ],
+      "zoo_latin_original": [
+        "Megalaima nuchalis"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        260
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 7792756,
+      "key": "Psilopogon_nuchalis",
+      "display_name_zh": "臺灣擬啄木"
+    },
+    {
+      "inat_taxon_id": 18911,
+      "scientific_name": "Psittacula krameri",
+      "rank": "species",
+      "inat_common_name": "紅領綠鸚鵡",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 49858,
+      "zoo_names_zh": [
+        "紅領綠鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Rose-ringed Parakeet"
+      ],
+      "zoo_latin_original": [
+        "Psittacula krameri"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        225,
+        226
+      ],
+      "lat": "24.9953",
+      "lng": "121.5912",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2479226,
+      "key": "Psittacula_krameri",
+      "display_name_zh": "紅領綠鸚鵡"
+    },
+    {
+      "inat_taxon_id": 1270863,
+      "scientific_name": "Pulchriphyllium giganteum",
+      "rank": "species",
+      "inat_common_name": "巨人葉䗛",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 85,
+      "zoo_names_zh": [
+        "巨人葉脩"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Phylium giganteum"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        142
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 11372595,
+      "key": "Pulchriphyllium_giganteum",
+      "display_name_zh": "巨人葉脩"
+    },
+    {
+      "inat_taxon_id": 42007,
+      "scientific_name": "Puma concolor",
+      "rank": "species",
+      "inat_common_name": "美洲獅",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 18697,
+      "zoo_names_zh": [
+        "山獅"
+      ],
+      "zoo_names_en": [
+        "Puma, Mountain Lion"
+      ],
+      "zoo_latin_original": [
+        "Puma concolor"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        277
+      ],
+      "lat": "24.9929",
+      "lng": "121.5902",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2435099,
+      "key": "Puma_concolor",
+      "display_name_zh": "山獅"
+    },
+    {
+      "inat_taxon_id": 238252,
+      "scientific_name": "Python bivittatus",
+      "rank": "species",
+      "inat_common_name": "緬甸蟒",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 3404,
+      "zoo_names_zh": [
+        "緬甸岩蟒"
+      ],
+      "zoo_names_en": [
+        "Burmese python"
+      ],
+      "zoo_latin_original": [
+        "Python bivittatus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        111
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 4820533,
+      "key": "Python_bivittatus",
+      "display_name_zh": "緬甸岩蟒"
+    },
+    {
+      "inat_taxon_id": 32158,
+      "scientific_name": "Python regius",
+      "rank": "species",
+      "inat_common_name": "球蟒",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 3288,
+      "zoo_names_zh": [
+        "球蟒"
+      ],
+      "zoo_names_en": [
+        "Ball python"
+      ],
+      "zoo_latin_original": [
+        "Python regius"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        101
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "無危LC",
+      "gbif_key": 2465380,
+      "key": "Python_regius",
+      "display_name_zh": "球蟒"
+    },
+    {
+      "inat_taxon_id": 18793,
+      "scientific_name": "Ramphastos toco",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 9268,
+      "zoo_names_zh": [
+        "大巨嘴鳥"
+      ],
+      "zoo_names_en": [
+        "Toco Toucan"
+      ],
+      "zoo_latin_original": [
+        "Ramphastos toco"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        204
+      ],
+      "lat": "24.996",
+      "lng": "121.5832",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2478765,
+      "key": "Ramphastos_toco",
+      "display_name_zh": "大巨嘴鳥"
+    },
+    {
+      "inat_taxon_id": 75053,
+      "scientific_name": "Rusa unicolor",
+      "rank": "species",
+      "inat_common_name": "水鹿",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 7953,
+      "zoo_names_zh": [
+        "水鹿"
+      ],
+      "zoo_names_en": [
+        "Formosan Sambar"
+      ],
+      "zoo_latin_original": [
+        "Rusa unicolor swinhoii"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        306
+      ],
+      "lat": "24.9981",
+      "lng": "121.5801",
+      "class_zh": "哺乳綱",
+      "conservation": "(台灣特有亞種)其他應予保育之野生動物",
+      "gbif_key": 7261386,
+      "key": "Rusa_unicolor",
+      "display_name_zh": "水鹿"
+    },
+    {
+      "inat_taxon_id": 43391,
+      "scientific_name": "Saguinus oedipus",
+      "rank": "species",
+      "inat_common_name": "棉頭絹猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1539,
+      "zoo_names_zh": [
+        "棉頭絹猴"
+      ],
+      "zoo_names_en": [
+        "Cotton-top Tamarin"
+      ],
+      "zoo_latin_original": [
+        "Saguinus oedipus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        34
+      ],
+      "lat": "24.9959",
+      "lng": "121.5833",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 2436469,
+      "key": "Saguinus_oedipus",
+      "display_name_zh": "棉頭絹猴"
+    },
+    {
+      "inat_taxon_id": 43426,
+      "scientific_name": "Saimiri boliviensis",
+      "rank": "species",
+      "inat_common_name": "亞馬遜松鼠猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1645,
+      "zoo_names_zh": [
+        "黑冠松鼠猴"
+      ],
+      "zoo_names_en": [
+        "black-capped squirrel monkey"
+      ],
+      "zoo_latin_original": [
+        "Saimiri boliviensis"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        21
+      ],
+      "lat": "24.9964",
+      "lng": "121.5831",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2436663,
+      "key": "Saimiri_boliviensis",
+      "display_name_zh": "黑冠松鼠猴"
+    },
+    {
+      "inat_taxon_id": 973169,
+      "scientific_name": "Scolopendra mutilans",
+      "rank": "species",
+      "inat_common_name": "少棘蜈蚣",
+      "iconic_taxon": "Animalia",
+      "inat_obs_count": 3649,
+      "zoo_names_zh": [
+        "少棘蜈蚣"
+      ],
+      "zoo_names_en": [
+        "Chinese Red-Headed Centipede"
+      ],
+      "zoo_latin_original": [
+        "Scolopendra subspinipes mutilans"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        128
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "唇足綱",
+      "conservation": "",
+      "gbif_key": 10405326,
+      "key": "Scolopendra_mutilans",
+      "display_name_zh": "少棘蜈蚣"
+    },
+    {
+      "inat_taxon_id": 39531,
+      "scientific_name": "Shinisaurus crocodilurus",
+      "rank": "species",
+      "inat_common_name": "中國鱷蜥",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 230,
+      "zoo_names_zh": [
+        "中國鱷蜥"
+      ],
+      "zoo_names_en": [
+        "Chinese crocodile lizard"
+      ],
+      "zoo_latin_original": [
+        "Shinisaurus crocodilurus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        85
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 2448242,
+      "key": "Shinisaurus_crocodilurus",
+      "display_name_zh": "中國鱷蜥"
+    },
+    {
+      "inat_taxon_id": 3813,
+      "scientific_name": "Spheniscus demersus",
+      "rank": "species",
+      "inat_common_name": "斑嘴環企鵝",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 6912,
+      "zoo_names_zh": [
+        "黑腳企鵝"
+      ],
+      "zoo_names_en": [
+        "Jackass penguin"
+      ],
+      "zoo_latin_original": [
+        "Spheniscus demersu"
+      ],
+      "locations": [
+        "企鵝館"
+      ],
+      "zoo_record_ids": [
+        3
+      ],
+      "lat": "24.9929",
+      "lng": "121.5911",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 5229384,
+      "key": "Spheniscus_demersus",
+      "display_name_zh": "黑腳企鵝"
+    },
+    {
+      "inat_taxon_id": 5158,
+      "scientific_name": "Spilornis cheela",
+      "rank": "species",
+      "inat_common_name": "大冠鷲",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 16636,
+      "zoo_names_zh": [
+        "大冠鷲"
+      ],
+      "zoo_names_en": [
+        "Crested Serpent Eagle"
+      ],
+      "zoo_latin_original": [
+        "Spilornis cheela"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        200,
+        201
+      ],
+      "lat": "24.9977",
+      "lng": "121.5801",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480433,
+      "key": "Spilornis_cheela",
+      "display_name_zh": "大冠鷲"
+    },
+    {
+      "inat_taxon_id": 2927,
+      "scientific_name": "Streptopelia orientalis",
+      "rank": "species",
+      "inat_common_name": "金背鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 30623,
+      "zoo_names_zh": [
+        "金背鳩"
+      ],
+      "zoo_names_en": [
+        "Oriental Turtle-dove"
+      ],
+      "zoo_latin_original": [
+        "Steptopelia orientalis orii"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        221
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2495681,
+      "key": "Streptopelia_orientalis",
+      "display_name_zh": "金背鳩"
+    },
+    {
+      "inat_taxon_id": 2935,
+      "scientific_name": "Streptopelia tranquebarica",
+      "rank": "species",
+      "inat_common_name": "紅鳩",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 9780,
+      "zoo_names_zh": [
+        "紅鳩"
+      ],
+      "zoo_names_en": [
+        "Red Turtle Dove"
+      ],
+      "zoo_latin_original": [
+        "Streptopelia tranquebarica"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        224
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2495691,
+      "key": "Streptopelia_tranquebarica",
+      "display_name_zh": "紅鳩"
+    },
+    {
+      "inat_taxon_id": 19922,
+      "scientific_name": "Strix leptogrammica",
+      "rank": "species",
+      "inat_common_name": "褐林鴞",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 993,
+      "zoo_names_zh": [
+        "褐林鴞"
+      ],
+      "zoo_names_en": [
+        "Brown Wood Owl"
+      ],
+      "zoo_latin_original": [
+        "Strix leptogrammica caligata"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        262
+      ],
+      "lat": "24.9951",
+      "lng": "121.5894",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2497546,
+      "key": "Strix_leptogrammica",
+      "display_name_zh": "褐林鴞"
+    },
+    {
+      "inat_taxon_id": 20526,
+      "scientific_name": "Struthio camelus",
+      "rank": "species",
+      "inat_common_name": "鴕鳥",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 16369,
+      "zoo_names_zh": [
+        "鴕鳥"
+      ],
+      "zoo_names_en": [
+        "Ostrich"
+      ],
+      "zoo_latin_original": [
+        "Struthio camelus"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        193
+      ],
+      "lat": "24.9942",
+      "lng": "121.5882",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2495150,
+      "key": "Struthio_camelus",
+      "display_name_zh": "鴕鳥"
+    },
+    {
+      "inat_taxon_id": 41943,
+      "scientific_name": "Suricata suricatta",
+      "rank": "species",
+      "inat_common_name": "狐獴 (細尾獴)",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 4655,
+      "zoo_names_zh": [
+        "狐獴"
+      ],
+      "zoo_names_en": [
+        "meerkat"
+      ],
+      "zoo_latin_original": [
+        "Suricata suricatta"
+      ],
+      "locations": [
+        "兒童動物區"
+      ],
+      "zoo_record_ids": [
+        71
+      ],
+      "lat": "24.9993",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "未評估 NE",
+      "gbif_key": 2434126,
+      "key": "Suricata_suricatta",
+      "display_name_zh": "狐獴"
+    },
+    {
+      "inat_taxon_id": 42134,
+      "scientific_name": "Sus scrofa",
+      "rank": "species",
+      "inat_common_name": "野豬",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 74823,
+      "zoo_names_zh": [
+        "蘭嶼豬",
+        "臺灣野豬"
+      ],
+      "zoo_names_en": [
+        "Lanyu pig",
+        "Formosan Wild Boar"
+      ],
+      "zoo_latin_original": [
+        "Sus scrofa domestic",
+        "Sus scrofa taivanus"
+      ],
+      "locations": [
+        "兒童動物區",
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        72,
+        295
+      ],
+      "lat": "24.9993",
+      "lng": "121.5824",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 7705930,
+      "key": "Sus_scrofa",
+      "display_name_zh": "蘭嶼豬／臺灣野豬"
+    },
+    {
+      "inat_taxon_id": 75115,
+      "scientific_name": "Symphalangus syndactylus",
+      "rank": "species",
+      "inat_common_name": "合趾猿",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1122,
+      "zoo_names_zh": [
+        "大長臂猿"
+      ],
+      "zoo_names_en": [
+        "Siamang"
+      ],
+      "zoo_latin_original": [
+        "Symphalangus syndactylus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        11,
+        12
+      ],
+      "lat": "24.9956",
+      "lng": "121.5833",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危EN",
+      "gbif_key": 4267277,
+      "key": "Symphalangus_syndactylus",
+      "display_name_zh": "大長臂猿"
+    },
+    {
+      "inat_taxon_id": 1158,
+      "scientific_name": "Syrmaticus mikado",
+      "rank": "species",
+      "inat_common_name": "黑長尾雉",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 1209,
+      "zoo_names_zh": [
+        "黑長尾雉"
+      ],
+      "zoo_names_en": [
+        "Mikado Pheasant"
+      ],
+      "zoo_latin_original": [
+        "Syrmaticus Mikado"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        243
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 2473482,
+      "key": "Syrmaticus_mikado",
+      "display_name_zh": "黑長尾雉"
+    },
+    {
+      "inat_taxon_id": 47104,
+      "scientific_name": "Tamandua tetradactyla",
+      "rank": "species",
+      "inat_common_name": "小食蟻獸",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 2425,
+      "zoo_names_zh": [
+        "南美小食蟻獸"
+      ],
+      "zoo_names_en": [
+        "Southern Tamandua"
+      ],
+      "zoo_latin_original": [
+        "Tamandua tetradactyla"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        27
+      ],
+      "lat": "24.9965",
+      "lng": "121.5827",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2436340,
+      "key": "Tamandua_tetradactyla",
+      "display_name_zh": "南美小食蟻獸"
+    },
+    {
+      "inat_taxon_id": 43356,
+      "scientific_name": "Tapirus indicus",
+      "rank": "species",
+      "inat_common_name": "馬來貘",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 627,
+      "zoo_names_zh": [
+        "馬來貘"
+      ],
+      "zoo_names_en": [
+        "Malayan Tapir"
+      ],
+      "zoo_latin_original": [
+        "Tapirus indicus"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        18,
+        19
+      ],
+      "lat": "24.9964",
+      "lng": "121.5827",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2440896,
+      "key": "Tapirus_indicus",
+      "display_name_zh": "馬來貘"
+    },
+    {
+      "inat_taxon_id": 7200,
+      "scientific_name": "Tauraco persa",
+      "rank": "species",
+      "inat_common_name": "綠冠蕉鵑",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 340,
+      "zoo_names_zh": [
+        "綠絲冠僧帽鳥"
+      ],
+      "zoo_names_en": [
+        "Green Touraco"
+      ],
+      "zoo_latin_original": [
+        "Tauraco persa"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        251,
+        252
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2475243,
+      "key": "Tauraco_persa",
+      "display_name_zh": "綠絲冠僧帽鳥"
+    },
+    {
+      "inat_taxon_id": 1585428,
+      "scientific_name": "Tauraco violaceus",
+      "rank": "species",
+      "inat_common_name": "紫蕉鵑",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 550,
+      "zoo_names_zh": [
+        "紫蕉鵑"
+      ],
+      "zoo_names_en": [
+        "Violet Turaco"
+      ],
+      "zoo_latin_original": [
+        "Musophaga violacea"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        237
+      ],
+      "lat": "24.9958",
+      "lng": "121.5901",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 11228987,
+      "key": "Tauraco_violaceus",
+      "display_name_zh": "紫蕉鵑"
+    },
+    {
+      "inat_taxon_id": 1486692,
+      "scientific_name": "Telchinia issoria",
+      "rank": "species",
+      "inat_common_name": "苧麻珍蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 5733,
+      "zoo_names_zh": [
+        "苧麻珍蝶(細蝶)"
+      ],
+      "zoo_names_en": [
+        "Yellow Coster"
+      ],
+      "zoo_latin_original": [
+        "Acraea issoria formosana"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        161
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "極危 CR",
+      "gbif_key": 11516142,
+      "key": "Telchinia_issoria",
+      "display_name_zh": "苧麻珍蝶(細蝶)"
+    },
+    {
+      "inat_taxon_id": 39814,
+      "scientific_name": "Terrapene carolina",
+      "rank": "species",
+      "inat_common_name": "卡羅萊納箱龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 113409,
+      "zoo_names_zh": [
+        "卡羅萊納箱龜"
+      ],
+      "zoo_names_en": [
+        "Common box turtle"
+      ],
+      "zoo_latin_original": [
+        "Terrapene carolina"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        88
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2443173,
+      "key": "Terrapene_carolina",
+      "display_name_zh": "卡羅萊納箱龜"
+    },
+    {
+      "inat_taxon_id": 40032,
+      "scientific_name": "Testudo horsfieldii",
+      "rank": "species",
+      "inat_common_name": "四爪陸龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 2110,
+      "zoo_names_zh": [
+        "四爪陸龜"
+      ],
+      "zoo_names_en": [
+        "Central Asian tortoise"
+      ],
+      "zoo_latin_original": [
+        "Testudo horsfieldi"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        89
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危VU",
+      "gbif_key": 2441514,
+      "key": "Testudo_horsfieldii",
+      "display_name_zh": "四爪陸龜"
+    },
+    {
+      "inat_taxon_id": 3739,
+      "scientific_name": "Threskiornis aethiopicus",
+      "rank": "species",
+      "inat_common_name": "埃及聖鹮",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 17346,
+      "zoo_names_zh": [
+        "埃及聖鹮"
+      ],
+      "zoo_names_en": [
+        "Sacred Ibis"
+      ],
+      "zoo_latin_original": [
+        "Threskiornis aethiopicus"
+      ],
+      "locations": [
+        "鳥園區",
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        231
+      ],
+      "lat": "24.9954",
+      "lng": "121.5898",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2480764,
+      "key": "Threskiornis_aethiopicus",
+      "display_name_zh": "埃及聖鹮"
+    },
+    {
+      "inat_taxon_id": 143257,
+      "scientific_name": "Tirumala limniace",
+      "rank": "species",
+      "inat_common_name": "青斑蝶",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 14143,
+      "zoo_names_zh": [
+        "淡小紋青斑蝶"
+      ],
+      "zoo_names_en": [
+        "Blue Tiger"
+      ],
+      "zoo_latin_original": [
+        "Tirumala limniace limniace"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        164
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "極危 CR",
+      "gbif_key": 7346301,
+      "key": "Tirumala_limniace",
+      "display_name_zh": "淡小紋青斑蝶"
+    },
+    {
+      "inat_taxon_id": 116563,
+      "scientific_name": "Tomistoma schlegelii",
+      "rank": "species",
+      "inat_common_name": "馬來長吻鱷",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 367,
+      "zoo_names_zh": [
+        "馬來長吻鱷"
+      ],
+      "zoo_names_en": [
+        "Tomistoma"
+      ],
+      "zoo_latin_original": [
+        "Tomistoma schlegelii"
+      ],
+      "locations": [
+        "熱帶雨林區",
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        61,
+        62,
+        63
+      ],
+      "lat": "24.9965",
+      "lng": "121.583",
+      "class_zh": "爬蟲綱",
+      "conservation": "易危 VU",
+      "gbif_key": 2441378,
+      "key": "Tomistoma_schlegelii",
+      "display_name_zh": "馬來長吻鱷"
+    },
+    {
+      "inat_taxon_id": 39782,
+      "scientific_name": "Trachemys scripta",
+      "rank": "species",
+      "inat_common_name": "彩龜",
+      "iconic_taxon": "Reptilia",
+      "inat_obs_count": 264303,
+      "zoo_names_zh": [
+        "赤耳龜"
+      ],
+      "zoo_names_en": [
+        "Red-eared slider"
+      ],
+      "zoo_latin_original": [
+        "Trachemys scripta elegans"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        282
+      ],
+      "lat": "24.9932",
+      "lng": "121.5903",
+      "class_zh": "爬蟲綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2443002,
+      "key": "Trachemys_scripta",
+      "display_name_zh": "赤耳龜"
+    },
+    {
+      "inat_taxon_id": 743511,
+      "scientific_name": "Trachyaretaon brueckneri",
+      "rank": "species",
+      "inat_common_name": "小扁竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 4,
+      "zoo_names_zh": [
+        "小扁竹節蟲"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Trachyaretaon brueckneri"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        144
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1415879,
+      "key": "Trachyaretaon_brueckneri",
+      "display_name_zh": "小扁竹節蟲"
+    },
+    {
+      "inat_taxon_id": 743521,
+      "scientific_name": "Trachythorax sexpunctatus",
+      "rank": "species",
+      "inat_common_name": "六點瘤胸竹節蟲",
+      "iconic_taxon": "Insecta",
+      "inat_obs_count": 50,
+      "zoo_names_zh": [
+        "六點瘤胸竹節蟲"
+      ],
+      "zoo_names_en": [],
+      "zoo_latin_original": [
+        "Trachychorax Sexpunctatus"
+      ],
+      "locations": [
+        "室內館/昆蟲館"
+      ],
+      "zoo_record_ids": [
+        143
+      ],
+      "lat": "24.9967",
+      "lng": "121.5807",
+      "class_zh": "昆蟲綱",
+      "conservation": "",
+      "gbif_key": 1409778,
+      "key": "Trachythorax_sexpunctatus",
+      "display_name_zh": "六點瘤胸竹節蟲"
+    },
+    {
+      "inat_taxon_id": 42344,
+      "scientific_name": "Tragelaphus eurycerus",
+      "rank": "species",
+      "inat_common_name": "紫羚",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 629,
+      "zoo_names_zh": [
+        "山地斑哥條紋羚"
+      ],
+      "zoo_names_en": [
+        "Bongo"
+      ],
+      "zoo_latin_original": [
+        "Tragelaphus eurycerus"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        187
+      ],
+      "lat": "24.994",
+      "lng": "121.5871",
+      "class_zh": "哺乳綱",
+      "conservation": "接近受威脅 NT",
+      "gbif_key": 5220180,
+      "key": "Tragelaphus_eurycerus",
+      "display_name_zh": "山地斑哥條紋羚"
+    },
+    {
+      "inat_taxon_id": 75192,
+      "scientific_name": "Tragelaphus oryx",
+      "rank": "species",
+      "inat_common_name": "伊蘭羚羊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 8036,
+      "zoo_names_zh": [
+        "伊蘭羚羊"
+      ],
+      "zoo_names_en": [
+        "Common Eland"
+      ],
+      "zoo_latin_original": [
+        "Taurotragus oryx"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        179
+      ],
+      "lat": "24.9949",
+      "lng": "121.5869",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 5787061,
+      "key": "Tragelaphus_oryx",
+      "display_name_zh": "伊蘭羚羊"
+    },
+    {
+      "inat_taxon_id": 1584159,
+      "scientific_name": "Trichoglossus histrio",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 10,
+      "zoo_names_zh": [
+        "紅藍吸蜜鸚鵡"
+      ],
+      "zoo_names_en": [
+        "Red-and-blue Lory"
+      ],
+      "zoo_latin_original": [
+        "Eos histrio"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        31
+      ],
+      "lat": "24.9958",
+      "lng": "121.5832",
+      "class_zh": "鳥綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 2479670,
+      "key": "Trichoglossus_histrio",
+      "display_name_zh": "紅藍吸蜜鸚鵡"
+    },
+    {
+      "inat_taxon_id": 8415,
+      "scientific_name": "Urocissa caerulea",
+      "rank": "species",
+      "inat_common_name": "台灣藍鵲",
+      "iconic_taxon": "Aves",
+      "inat_obs_count": 3904,
+      "zoo_names_zh": [
+        "臺灣藍鵲"
+      ],
+      "zoo_names_en": [
+        "Taiwan Blue Magpie"
+      ],
+      "zoo_latin_original": [
+        "Uroxissa caerulea"
+      ],
+      "locations": [
+        "鳥園區"
+      ],
+      "zoo_record_ids": [
+        261
+      ],
+      "lat": "24.9954",
+      "lng": "121.5902",
+      "class_zh": "鳥綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2482421,
+      "key": "Urocissa_caerulea",
+      "display_name_zh": "臺灣藍鵲"
+    },
+    {
+      "inat_taxon_id": 41641,
+      "scientific_name": "Ursus arctos",
+      "rank": "species",
+      "inat_common_name": "棕熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 23109,
+      "zoo_names_zh": [
+        "阿拉斯加棕熊"
+      ],
+      "zoo_names_en": [
+        "Brown Bear"
+      ],
+      "zoo_latin_original": [
+        "Ursus arctos"
+      ],
+      "locations": [
+        "溫帶動物區"
+      ],
+      "zoo_record_ids": [
+        281
+      ],
+      "lat": "24.9928",
+      "lng": "121.5906",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 2433433,
+      "key": "Ursus_arctos",
+      "display_name_zh": "阿拉斯加棕熊"
+    },
+    {
+      "inat_taxon_id": 41647,
+      "scientific_name": "Ursus thibetanus",
+      "rank": "species",
+      "inat_common_name": "亞洲黑熊",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 967,
+      "zoo_names_zh": [
+        "亞洲黑熊",
+        "臺灣黑熊"
+      ],
+      "zoo_names_en": [
+        "Asiatic Black Bear",
+        "Formosan Black Bear"
+      ],
+      "zoo_latin_original": [
+        "Ursus thibetanus",
+        "Ursus thibetanus formosanus"
+      ],
+      "locations": [
+        "溫帶動物區",
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        280,
+        296
+      ],
+      "lat": "24.9927",
+      "lng": "121.5904",
+      "class_zh": "哺乳綱",
+      "conservation": "易危 VU",
+      "gbif_key": 9335699,
+      "key": "Ursus_thibetanus",
+      "display_name_zh": "亞洲黑熊／臺灣黑熊"
+    },
+    {
+      "inat_taxon_id": 925966,
+      "scientific_name": "Urva urva",
+      "rank": "species",
+      "inat_common_name": "食蟹獴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1341,
+      "zoo_names_zh": [
+        "食蟹獴"
+      ],
+      "zoo_names_en": [
+        "Crab-eating Mongoose"
+      ],
+      "zoo_latin_original": [
+        "Herpestes urva"
+      ],
+      "locations": [
+        "熱帶雨林區"
+      ],
+      "zoo_record_ids": [
+        30
+      ],
+      "lat": "24.9953",
+      "lng": "121.5835",
+      "class_zh": "哺乳綱",
+      "conservation": "暫無危機 LC",
+      "gbif_key": 10986840,
+      "key": "Urva_urva",
+      "display_name_zh": "食蟹獴"
+    },
+    {
+      "inat_taxon_id": 43615,
+      "scientific_name": "Varecia variegata",
+      "rank": "species",
+      "inat_common_name": "領狐猴",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 1228,
+      "zoo_names_zh": [
+        "白頸狐猴"
+      ],
+      "zoo_names_en": [
+        "Black-and-white ruffed Lemur,Variegated Lemur"
+      ],
+      "zoo_latin_original": [
+        "Varecia variegata"
+      ],
+      "locations": [
+        "非洲動物區"
+      ],
+      "zoo_record_ids": [
+        178
+      ],
+      "lat": "24.9942",
+      "lng": "121.5888",
+      "class_zh": "哺乳綱",
+      "conservation": "極危 CR",
+      "gbif_key": 2436424,
+      "key": "Varecia_variegata",
+      "display_name_zh": "白頸狐猴"
+    },
+    {
+      "inat_taxon_id": 41618,
+      "scientific_name": "Viverricula indica",
+      "rank": "species",
+      "inat_common_name": "小靈貓",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 994,
+      "zoo_names_zh": [
+        "麝香貓"
+      ],
+      "zoo_names_en": [
+        "Small Chinese Civet, Lesser Oriental Civet"
+      ],
+      "zoo_latin_original": [
+        "Viverricula indica pallida"
+      ],
+      "locations": [
+        "臺灣動物區"
+      ],
+      "zoo_record_ids": [
+        301
+      ],
+      "lat": "24.9981",
+      "lng": "121.5801",
+      "class_zh": "哺乳綱",
+      "conservation": "(台灣特有種)珍貴稀有野生動物",
+      "gbif_key": 2434600,
+      "key": "Viverricula_indica",
+      "display_name_zh": "麝香貓"
+    },
+    {
+      "inat_taxon_id": 1398534,
+      "scientific_name": "Xanthonycticebus pygmaeus",
+      "rank": "species",
+      "inat_common_name": "",
+      "iconic_taxon": "Mammalia",
+      "inat_obs_count": 132,
+      "zoo_names_zh": [
+        "小懶猴"
+      ],
+      "zoo_names_en": [
+        "Lesser Slow Loris"
+      ],
+      "zoo_latin_original": [
+        "Nycticebus pygmaeus"
+      ],
+      "locations": [
+        "熱帶雨林室內館(穿山甲館)"
+      ],
+      "zoo_record_ids": [
+        36
+      ],
+      "lat": "24.9959",
+      "lng": "121.5833",
+      "class_zh": "哺乳綱",
+      "conservation": "瀕危 EN",
+      "gbif_key": 11944410,
+      "key": "Xanthonycticebus_pygmaeus",
+      "display_name_zh": "小懶猴"
+    },
+    {
+      "inat_taxon_id": 923298,
+      "scientific_name": "Zhangixalus prasinatus",
+      "rank": "species",
+      "inat_common_name": "翡翠樹蛙",
+      "iconic_taxon": "Amphibia",
+      "inat_obs_count": 1001,
+      "zoo_names_zh": [
+        "翡翠樹蛙"
+      ],
+      "zoo_names_en": [
+        "Emerald green treefrog"
+      ],
+      "zoo_latin_original": [
+        "Rhacophorus prasinatus"
+      ],
+      "locations": [
+        "兩棲爬蟲動物館"
+      ],
+      "zoo_record_ids": [
+        109
+      ],
+      "lat": "24.9941",
+      "lng": "121.5898",
+      "class_zh": "爬蟲綱",
+      "conservation": "近危NT",
+      "gbif_key": 10767031,
+      "key": "Zhangixalus_prasinatus",
+      "display_name_zh": "翡翠樹蛙"
+    }
+  ],
+  "unresolved": [
+    [
+      "高山巨針蟻",
+      "(無學名)"
+    ]
+  ]
+}

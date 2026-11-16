@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>智慧動物園導覽系統</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐾</text></svg>">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -16,11 +17,13 @@
 
     <!-- 下方內容以橫向 Grid 佈局依序展開 -->
     <div class="cards-container">
-      <!-- 1. 影像辨識模組 -->
+      <!-- 1. 影像辨識模組 (即時影像 → /api/vision/，模型見 zoo_ai/) -->
       <div class="card">
-        <h3>📷 拍照辨識動物</h3>
-        <button onclick="takePicture()">拍攝眼前動物</button>
-        <div id="vision-result" class="result-box">尚未進行辨識</div>
+        <h3>📷 即時辨識動物</h3>
+        <video id="camera-video" playsinline muted
+               style="width:100%;border-radius:8px;background:#000;aspect-ratio:4/3;object-fit:cover"></video>
+        <button id="camera-btn" onclick="toggleCamera()">📷 開啟即時辨識</button>
+        <div id="vision-result" class="result-box">尚未開啟相機</div>
       </div>
 
       <!-- 2. AI 導覽問答模組 -->
@@ -42,6 +45,7 @@
     </div>
   </div>
 
+  <script src="js/camera.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>
